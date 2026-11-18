@@ -1,0 +1,3619 @@
+{
+ "n": 2741,
+ "por_producto": {
+  "blackseed_solo": {
+   "n": 193,
+   "est": {
+    "1": 24,
+    "2": 9,
+    "3": 11,
+    "4": 21,
+    "5": 128
+   },
+   "verif": 152,
+   "anios": {
+    "2026": 121,
+    "2025": 72
+   },
+   "long_media": 174
+  },
+  "bundle": {
+   "n": 1226,
+   "est": {
+    "1": 333,
+    "2": 96,
+    "3": 88,
+    "4": 116,
+    "5": 593
+   },
+   "verif": 1163,
+   "anios": {
+    "2026": 578,
+    "2025": 563,
+    "2024": 85
+   },
+   "long_media": 211
+  },
+  "soursop_solo": {
+   "n": 1322,
+   "est": {
+    "1": 151,
+    "2": 178,
+    "3": 203,
+    "4": 118,
+    "5": 672
+   },
+   "verif": 1304,
+   "anios": {
+    "2026": 1242,
+    "2025": 73,
+    "2024": 7
+   },
+   "long_media": 245
+  }
+ },
+ "genero": {
+  "blackseed_solo": {
+   "Hombre": 49,
+   "No claro": 79,
+   "Mujer": 65
+  },
+  "bundle": {
+   "Hombre": 276,
+   "No claro": 504,
+   "Mujer": 446
+  },
+  "soursop_solo": {
+   "Mujer": 532,
+   "No claro": 578,
+   "Hombre": 212
+  }
+ },
+ "genero_total": {
+  "Hombre": 537,
+  "No claro": 1161,
+  "Mujer": 1043
+ },
+ "est_por_genero": {
+  "Mujer": {
+   "1": 177,
+   "2": 111,
+   "3": 110,
+   "4": 93,
+   "5": 552
+  },
+  "Hombre": {
+   "1": 105,
+   "2": 50,
+   "3": 48,
+   "4": 53,
+   "5": 281
+  },
+  "No claro": {
+   "1": 226,
+   "2": 122,
+   "3": 144,
+   "4": 109,
+   "5": 560
+  }
+ },
+ "por_mes": {
+  "2024-06": 1,
+  "2024-07": 8,
+  "2024-08": 11,
+  "2024-09": 14,
+  "2024-10": 9,
+  "2024-11": 15,
+  "2024-12": 34,
+  "2025-01": 25,
+  "2025-02": 23,
+  "2025-03": 33,
+  "2025-04": 44,
+  "2025-05": 99,
+  "2025-06": 85,
+  "2025-07": 74,
+  "2025-08": 93,
+  "2025-09": 43,
+  "2025-10": 45,
+  "2025-11": 68,
+  "2025-12": 76,
+  "2026-01": 86,
+  "2026-02": 83,
+  "2026-03": 126,
+  "2026-04": 140,
+  "2026-05": 152,
+  "2026-06": 98,
+  "2026-07": 279,
+  "2026-08": 323,
+  "2026-09": 324,
+  "2026-10": 330
+ },
+ "variantes": {
+  "Tamaño: 16 Fl Oz (Pack of 2)": 1077,
+  "Tamaño: 16 Fl Oz (Pack of 3)": 149
+ },
+ "util_top": [
+  {
+   "id": "R1Z6GWKQUEV9I7",
+   "util": 1371,
+   "est": 5,
+   "texto": "Believe the hype! Gave this to all the members of my household (kids included! I'm not a MD. CONSULT WITH YOUR MEDICAL DOCTOR). My youngest child got 1tbsp diluted in 6oz of juice and the older ages rest the full dose. The youngest I only gave 1 initial dose. The older kids I gave for 2-3 days. Used"
+  },
+  {
+   "id": "R34YNOFO7ZO8D6",
+   "util": 989,
+   "est": 5,
+   "texto": "I first wanna say that when we eat bad foods that taste good but we have the consequences show up negatively in our bodies. We don’t complain about that. Yes the tease is not desirable.\nI just wanna share my experience. I started taking the product. I am diabetic and have high blood pressure for now"
+  },
+  {
+   "id": "R33BKE927Q3SRC",
+   "util": 567,
+   "est": 4,
+   "texto": "I would do a five star review except for the taste.\nThis supplement has a hint of swamp water flavoring glazed with pond scum and just a hint of fresh mud. That being said: IT WORKS! I have been taking mine at night and I immediately feel lighter, more regulated, and it is a tiny amount to be taken "
+  },
+  {
+   "id": "R10ZEA76H7THPB",
+   "util": 465,
+   "est": 5,
+   "texto": "Small Differences I noticed in comparison to Amazon vs purchased in a local store (Maryland).\n\nAmazon: Matte Labeling\nLot #SH51392605\nBest By: 05/2028\n\nLocal: Shiny Sticker Label\nLot #SH30712603\nBest By: 0?/2028 ((Finished it within two months though — bought 2026.))\n\nSame Exact Bar Code NUMBER.\nSam"
+  },
+  {
+   "id": "R1RDFXICKFDP5N",
+   "util": 459,
+   "est": 1,
+   "texto": "I bought a bottle of Soursop Bitters mixed berry in Nov.. 24. It was a thicker consistency with a sweeter but still bitter taste, but I was able to drink it with juice or sometimes by itself if I drank it quickly.\nI received my 2nd bottle of the above picture. It was not the mixed berry. The consist"
+  },
+  {
+   "id": "RNVBQ6P2Z35P8",
+   "util": 441,
+   "est": 5,
+   "texto": "I stumbled across this when I was looking for Living Bitters Tonic or Sulfur Bitters, with either one of these I take easily with a half of orange (not the juice that you get in the store) after taking the bitters I would eat that half of orange & it would cut the taste. So after reading the reviews"
+  },
+  {
+   "id": "RJBRZHET5D7HU",
+   "util": 369,
+   "est": 5,
+   "texto": "UPUPDATE:\nWHOA!!! Lololol... Again, the taste doesn't phase me in any way shape or form. I take my dose on an empty stomach and I chase it with a full 16.9oz of water. I still experience gas but it's not as heavy and it passes easier. The gas build up is weakening and actual bowel movements are happ"
+  },
+  {
+   "id": "RHV5GLNVFOO0L",
+   "util": 342,
+   "est": 1,
+   "texto": "I do not like to write bad reviews, but this was not what I was expecting. We the consumers buy products from Amazon based on reviews. I did see some positive, and some bad reviews on Serene Soursop liquid bitters. I like supporting small business. I am from South America, so I know good bitters.\nTh"
+  },
+  {
+   "id": "R2EMBCV4P9TJ12",
+   "util": 325,
+   "est": 5,
+   "texto": "The taste is a bitter sting so def place spoon to back of throat to take 2 table spoons of this liquid.\n\nWithin 2 days belly gurgles noises, tacky brown bowels, flatter belly instead of looking pregnant, sugar cravings gone, and my pimples on my face from makeup clearing up, sleep deeper, mood impro"
+  },
+  {
+   "id": "RQV9IPL5IWHFR",
+   "util": 224,
+   "est": 5,
+   "texto": "The product really works! Take it on an empty stomach or after breakfast. I take two tablespoons pour it in a shot glass, and since it taste horrible drink juice with it. You’ll notice a difference immediately. Your energy increases, and your sleep is restful. By week two you notice your stomach has"
+  },
+  {
+   "id": "R1ZC5RH7999SWV",
+   "util": 205,
+   "est": 5,
+   "texto": "I was honestly surprised by how quickly this worked. After my very first dose, I definitely noticed the cleansing effects and could feel it working within a short period of time. If you're looking for something to help get things moving and support digestion, this did the job for me.\nThe liquid itse"
+  },
+  {
+   "id": "R24D5FQFY77PBD",
+   "util": 198,
+   "est": 5,
+   "texto": "I was very surprised from the first day I began taking the soursop, it delivered. If you're looking for something to jumpstart your day cleans, you're good and continuously cleanse you're good. Keep down blowing this. Is it along with all of the other properties that's within it, my first day. Was a"
+  }
+ ],
+ "segmentos_n": {
+  "todas": 2741,
+  "mujer": 1043,
+  "hombre": 537,
+  "1-2★": 791,
+  "3★": 302,
+  "4-5★": 1648,
+  "mujer_1-2★": 288,
+  "mujer_4-5★": 645,
+  "bundle": 1226,
+  "soursop_solo": 1322,
+  "blackseed_solo": 193,
+  "texto_largo_300+": 670
+ },
+ "tabla": {
+  "TEMAS": {
+   "hinchazon": {
+    "todas": 235,
+    "mujer": 100,
+    "hombre": 25,
+    "1-2★": 25,
+    "3★": 6,
+    "4-5★": 204,
+    "mujer_1-2★": 5,
+    "mujer_4-5★": 93,
+    "bundle": 75,
+    "soursop_solo": 156,
+    "blackseed_solo": 4,
+    "texto_largo_300+": 129
+   },
+   "estrenimiento": {
+    "todas": 93,
+    "mujer": 42,
+    "hombre": 7,
+    "1-2★": 13,
+    "3★": 6,
+    "4-5★": 74,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 35,
+    "bundle": 18,
+    "soursop_solo": 72,
+    "blackseed_solo": 3,
+    "texto_largo_300+": 54
+   },
+   "digestion_general": {
+    "todas": 716,
+    "mujer": 275,
+    "hombre": 125,
+    "1-2★": 76,
+    "3★": 40,
+    "4-5★": 600,
+    "mujer_1-2★": 27,
+    "mujer_4-5★": 233,
+    "bundle": 248,
+    "soursop_solo": 437,
+    "blackseed_solo": 31,
+    "texto_largo_300+": 295
+   },
+   "energia": {
+    "todas": 287,
+    "mujer": 122,
+    "hombre": 50,
+    "1-2★": 17,
+    "3★": 13,
+    "4-5★": 257,
+    "mujer_1-2★": 7,
+    "mujer_4-5★": 113,
+    "bundle": 119,
+    "soursop_solo": 149,
+    "blackseed_solo": 19,
+    "texto_largo_300+": 146
+   },
+   "detox_limpieza": {
+    "todas": 359,
+    "mujer": 147,
+    "hombre": 56,
+    "1-2★": 27,
+    "3★": 26,
+    "4-5★": 306,
+    "mujer_1-2★": 10,
+    "mujer_4-5★": 127,
+    "bundle": 111,
+    "soursop_solo": 229,
+    "blackseed_solo": 19,
+    "texto_largo_300+": 147
+   },
+   "peso_antojos": {
+    "todas": 192,
+    "mujer": 70,
+    "hombre": 38,
+    "1-2★": 17,
+    "3★": 9,
+    "4-5★": 166,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 64,
+    "bundle": 59,
+    "soursop_solo": 121,
+    "blackseed_solo": 12,
+    "texto_largo_300+": 85
+   },
+   "inmunidad": {
+    "todas": 71,
+    "mujer": 24,
+    "hombre": 10,
+    "1-2★": 12,
+    "3★": 3,
+    "4-5★": 56,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 20,
+    "bundle": 49,
+    "soursop_solo": 21,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 52
+   },
+   "piel_pelo": {
+    "todas": 35,
+    "mujer": 15,
+    "hombre": 3,
+    "1-2★": 5,
+    "3★": 2,
+    "4-5★": 28,
+    "mujer_1-2★": 3,
+    "mujer_4-5★": 12,
+    "bundle": 12,
+    "soursop_solo": 17,
+    "blackseed_solo": 6,
+    "texto_largo_300+": 22
+   },
+   "sueno_estres": {
+    "todas": 49,
+    "mujer": 21,
+    "hombre": 9,
+    "1-2★": 3,
+    "3★": 3,
+    "4-5★": 43,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 18,
+    "bundle": 27,
+    "soursop_solo": 22,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 31
+   },
+   "dolor_inflamacion": {
+    "todas": 113,
+    "mujer": 44,
+    "hombre": 18,
+    "1-2★": 14,
+    "3★": 4,
+    "4-5★": 95,
+    "mujer_1-2★": 7,
+    "mujer_4-5★": 35,
+    "bundle": 32,
+    "soursop_solo": 76,
+    "blackseed_solo": 5,
+    "texto_largo_300+": 65
+   },
+   "azucar_presion": {
+    "todas": 32,
+    "mujer": 10,
+    "hombre": 10,
+    "1-2★": 9,
+    "3★": 0,
+    "4-5★": 23,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 8,
+    "bundle": 9,
+    "soursop_solo": 21,
+    "blackseed_solo": 2,
+    "texto_largo_300+": 15
+   },
+   "hormonas_edad": {
+    "todas": 20,
+    "mujer": 9,
+    "hombre": 3,
+    "1-2★": 4,
+    "3★": 3,
+    "4-5★": 13,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 6,
+    "bundle": 7,
+    "soursop_solo": 13,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 13
+   },
+   "cancer_grave": {
+    "todas": 6,
+    "mujer": 4,
+    "hombre": 1,
+    "1-2★": 1,
+    "3★": 0,
+    "4-5★": 5,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 4,
+    "bundle": 3,
+    "soursop_solo": 3,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 3
+   }
+  },
+  "QUEJAS": {
+   "sabor": {
+    "todas": 1146,
+    "mujer": 444,
+    "hombre": 178,
+    "1-2★": 330,
+    "3★": 162,
+    "4-5★": 654,
+    "mujer_1-2★": 117,
+    "mujer_4-5★": 258,
+    "bundle": 475,
+    "soursop_solo": 601,
+    "blackseed_solo": 70,
+    "texto_largo_300+": 431
+   },
+   "urgencia_calambres": {
+    "todas": 197,
+    "mujer": 98,
+    "hombre": 26,
+    "1-2★": 46,
+    "3★": 24,
+    "4-5★": 127,
+    "mujer_1-2★": 21,
+    "mujer_4-5★": 66,
+    "bundle": 61,
+    "soursop_solo": 131,
+    "blackseed_solo": 5,
+    "texto_largo_300+": 113
+   },
+   "plastico_aguado": {
+    "todas": 442,
+    "mujer": 151,
+    "hombre": 81,
+    "1-2★": 266,
+    "3★": 64,
+    "4-5★": 112,
+    "mujer_1-2★": 92,
+    "mujer_4-5★": 40,
+    "bundle": 259,
+    "soursop_solo": 160,
+    "blackseed_solo": 23,
+    "texto_largo_300+": 194
+   },
+   "suscripcion_cobro": {
+    "todas": 98,
+    "mujer": 36,
+    "hombre": 7,
+    "1-2★": 72,
+    "3★": 12,
+    "4-5★": 14,
+    "mujer_1-2★": 25,
+    "mujer_4-5★": 6,
+    "bundle": 51,
+    "soursop_solo": 45,
+    "blackseed_solo": 2,
+    "texto_largo_300+": 59
+   },
+   "falso_envio": {
+    "todas": 317,
+    "mujer": 96,
+    "hombre": 71,
+    "1-2★": 239,
+    "3★": 41,
+    "4-5★": 37,
+    "mujer_1-2★": 66,
+    "mujer_4-5★": 18,
+    "bundle": 197,
+    "soursop_solo": 109,
+    "blackseed_solo": 11,
+    "texto_largo_300+": 114
+   },
+   "no_funciono": {
+    "todas": 188,
+    "mujer": 75,
+    "hombre": 27,
+    "1-2★": 130,
+    "3★": 34,
+    "4-5★": 24,
+    "mujer_1-2★": 53,
+    "mujer_4-5★": 9,
+    "bundle": 72,
+    "soursop_solo": 110,
+    "blackseed_solo": 6,
+    "texto_largo_300+": 74
+   },
+   "senna_laxante": {
+    "todas": 40,
+    "mujer": 15,
+    "hombre": 5,
+    "1-2★": 11,
+    "3★": 7,
+    "4-5★": 22,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 10,
+    "bundle": 11,
+    "soursop_solo": 28,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 24
+   },
+   "precio": {
+    "todas": 78,
+    "mujer": 24,
+    "hombre": 16,
+    "1-2★": 23,
+    "3★": 10,
+    "4-5★": 45,
+    "mujer_1-2★": 6,
+    "mujer_4-5★": 16,
+    "bundle": 42,
+    "soursop_solo": 34,
+    "blackseed_solo": 2,
+    "texto_largo_300+": 34
+   }
+  },
+  "PROBO_ANTES": {
+   "fibra": {
+    "todas": 5,
+    "mujer": 3,
+    "hombre": 0,
+    "1-2★": 0,
+    "3★": 1,
+    "4-5★": 4,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 2,
+    "bundle": 0,
+    "soursop_solo": 5,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 5
+   },
+   "laxantes_otc": {
+    "todas": 37,
+    "mujer": 15,
+    "hombre": 5,
+    "1-2★": 9,
+    "3★": 7,
+    "4-5★": 21,
+    "mujer_1-2★": 3,
+    "mujer_4-5★": 11,
+    "bundle": 9,
+    "soursop_solo": 27,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 20
+   },
+   "probioticos": {
+    "todas": 2,
+    "mujer": 0,
+    "hombre": 1,
+    "1-2★": 0,
+    "3★": 0,
+    "4-5★": 2,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 0,
+    "bundle": 0,
+    "soursop_solo": 2,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 1
+   },
+   "dieta_agua": {
+    "todas": 51,
+    "mujer": 19,
+    "hombre": 6,
+    "1-2★": 10,
+    "3★": 6,
+    "4-5★": 35,
+    "mujer_1-2★": 5,
+    "mujer_4-5★": 13,
+    "bundle": 20,
+    "soursop_solo": 31,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 33
+   },
+   "doctor": {
+    "todas": 40,
+    "mujer": 15,
+    "hombre": 4,
+    "1-2★": 5,
+    "3★": 2,
+    "4-5★": 33,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 13,
+    "bundle": 15,
+    "soursop_solo": 24,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 22
+   },
+   "remedios_naturales": {
+    "todas": 223,
+    "mujer": 86,
+    "hombre": 37,
+    "1-2★": 36,
+    "3★": 20,
+    "4-5★": 167,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 73,
+    "bundle": 108,
+    "soursop_solo": 101,
+    "blackseed_solo": 14,
+    "texto_largo_300+": 139
+   },
+   "tried_everything": {
+    "todas": 25,
+    "mujer": 10,
+    "hombre": 4,
+    "1-2★": 5,
+    "3★": 0,
+    "4-5★": 20,
+    "mujer_1-2★": 1,
+    "mujer_4-5★": 9,
+    "bundle": 7,
+    "soursop_solo": 17,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 14
+   }
+  },
+  "FUENTE": {
+   "tiktok": {
+    "todas": 7,
+    "mujer": 2,
+    "hombre": 1,
+    "1-2★": 4,
+    "3★": 2,
+    "4-5★": 1,
+    "mujer_1-2★": 1,
+    "mujer_4-5★": 0,
+    "bundle": 7,
+    "soursop_solo": 0,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 4
+   },
+   "instagram": {
+    "todas": 10,
+    "mujer": 4,
+    "hombre": 1,
+    "1-2★": 3,
+    "3★": 1,
+    "4-5★": 6,
+    "mujer_1-2★": 1,
+    "mujer_4-5★": 2,
+    "bundle": 4,
+    "soursop_solo": 6,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 8
+   },
+   "facebook": {
+    "todas": 9,
+    "mujer": 3,
+    "hombre": 1,
+    "1-2★": 2,
+    "3★": 1,
+    "4-5★": 6,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 3,
+    "bundle": 4,
+    "soursop_solo": 5,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 7
+   },
+   "youtube": {
+    "todas": 2,
+    "mujer": 0,
+    "hombre": 0,
+    "1-2★": 1,
+    "3★": 0,
+    "4-5★": 1,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 0,
+    "bundle": 0,
+    "soursop_solo": 2,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 2
+   },
+   "anuncio": {
+    "todas": 88,
+    "mujer": 26,
+    "hombre": 17,
+    "1-2★": 27,
+    "3★": 12,
+    "4-5★": 49,
+    "mujer_1-2★": 10,
+    "mujer_4-5★": 14,
+    "bundle": 31,
+    "soursop_solo": 52,
+    "blackseed_solo": 5,
+    "texto_largo_300+": 37
+   },
+   "recomendacion": {
+    "todas": 47,
+    "mujer": 22,
+    "hombre": 4,
+    "1-2★": 5,
+    "3★": 1,
+    "4-5★": 41,
+    "mujer_1-2★": 3,
+    "mujer_4-5★": 19,
+    "bundle": 18,
+    "soursop_solo": 27,
+    "blackseed_solo": 2,
+    "texto_largo_300+": 22
+   },
+   "reseñas_previas": {
+    "todas": 16,
+    "mujer": 5,
+    "hombre": 2,
+    "1-2★": 4,
+    "3★": 2,
+    "4-5★": 10,
+    "mujer_1-2★": 1,
+    "mujer_4-5★": 4,
+    "bundle": 8,
+    "soursop_solo": 7,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 13
+   }
+  },
+  "IDENTIDAD": {
+   "madre_abuela": {
+    "todas": 26,
+    "mujer": 14,
+    "hombre": 2,
+    "1-2★": 3,
+    "3★": 0,
+    "4-5★": 23,
+    "mujer_1-2★": 1,
+    "mujer_4-5★": 13,
+    "bundle": 10,
+    "soursop_solo": 15,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 12
+   },
+   "pareja": {
+    "todas": 29,
+    "mujer": 18,
+    "hombre": 10,
+    "1-2★": 7,
+    "3★": 0,
+    "4-5★": 22,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 14,
+    "bundle": 13,
+    "soursop_solo": 12,
+    "blackseed_solo": 4,
+    "texto_largo_300+": 17
+   },
+   "caribe_afro": {
+    "todas": 10,
+    "mujer": 5,
+    "hombre": 1,
+    "1-2★": 4,
+    "3★": 0,
+    "4-5★": 6,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 3,
+    "bundle": 6,
+    "soursop_solo": 4,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 7
+   },
+   "cuida_familia": {
+    "todas": 23,
+    "mujer": 11,
+    "hombre": 2,
+    "1-2★": 4,
+    "3★": 1,
+    "4-5★": 18,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 8,
+    "bundle": 9,
+    "soursop_solo": 13,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 13
+   },
+   "edad_mencion": {
+    "todas": 4,
+    "mujer": 3,
+    "hombre": 0,
+    "1-2★": 1,
+    "3★": 0,
+    "4-5★": 3,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 3,
+    "bundle": 2,
+    "soursop_solo": 2,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 3
+   },
+   "trabajo_estilo_vida": {
+    "todas": 28,
+    "mujer": 13,
+    "hombre": 5,
+    "1-2★": 2,
+    "3★": 1,
+    "4-5★": 25,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 12,
+    "bundle": 14,
+    "soursop_solo": 12,
+    "blackseed_solo": 2,
+    "texto_largo_300+": 25
+   },
+   "fe_natural": {
+    "todas": 47,
+    "mujer": 24,
+    "hombre": 6,
+    "1-2★": 5,
+    "3★": 3,
+    "4-5★": 39,
+    "mujer_1-2★": 1,
+    "mujer_4-5★": 22,
+    "bundle": 22,
+    "soursop_solo": 25,
+    "blackseed_solo": 0,
+    "texto_largo_300+": 31
+   }
+  },
+  "ESCEPTICISMO": {
+   "conoce_senna": {
+    "todas": 17,
+    "mujer": 6,
+    "hombre": 2,
+    "1-2★": 5,
+    "3★": 3,
+    "4-5★": 9,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 3,
+    "bundle": 3,
+    "soursop_solo": 13,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 14
+   },
+   "duda_reseñas_falsas": {
+    "todas": 49,
+    "mujer": 10,
+    "hombre": 12,
+    "1-2★": 35,
+    "3★": 3,
+    "4-5★": 11,
+    "mujer_1-2★": 6,
+    "mujer_4-5★": 4,
+    "bundle": 24,
+    "soursop_solo": 22,
+    "blackseed_solo": 3,
+    "texto_largo_300+": 21
+   },
+   "consulta_medico": {
+    "todas": 27,
+    "mujer": 10,
+    "hombre": 3,
+    "1-2★": 4,
+    "3★": 1,
+    "4-5★": 22,
+    "mujer_1-2★": 0,
+    "mujer_4-5★": 9,
+    "bundle": 11,
+    "soursop_solo": 15,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 15
+   },
+   "precaucion_dosis": {
+    "todas": 218,
+    "mujer": 83,
+    "hombre": 32,
+    "1-2★": 55,
+    "3★": 27,
+    "4-5★": 136,
+    "mujer_1-2★": 17,
+    "mujer_4-5★": 57,
+    "bundle": 71,
+    "soursop_solo": 138,
+    "blackseed_solo": 9,
+    "texto_largo_300+": 143
+   }
+  },
+  "EMOCION": {
+   "sorpresa_positiva": {
+    "todas": 212,
+    "mujer": 74,
+    "hombre": 36,
+    "1-2★": 69,
+    "3★": 11,
+    "4-5★": 132,
+    "mujer_1-2★": 23,
+    "mujer_4-5★": 47,
+    "bundle": 101,
+    "soursop_solo": 95,
+    "blackseed_solo": 16,
+    "texto_largo_300+": 114
+   },
+   "alivio": {
+    "todas": 72,
+    "mujer": 29,
+    "hombre": 8,
+    "1-2★": 12,
+    "3★": 1,
+    "4-5★": 59,
+    "mujer_1-2★": 5,
+    "mujer_4-5★": 23,
+    "bundle": 30,
+    "soursop_solo": 40,
+    "blackseed_solo": 2,
+    "texto_largo_300+": 41
+   },
+   "duda_inicial": {
+    "todas": 29,
+    "mujer": 8,
+    "hombre": 6,
+    "1-2★": 8,
+    "3★": 5,
+    "4-5★": 16,
+    "mujer_1-2★": 2,
+    "mujer_4-5★": 6,
+    "bundle": 12,
+    "soursop_solo": 16,
+    "blackseed_solo": 1,
+    "texto_largo_300+": 18
+   },
+   "frustracion": {
+    "todas": 198,
+    "mujer": 67,
+    "hombre": 33,
+    "1-2★": 149,
+    "3★": 24,
+    "4-5★": 25,
+    "mujer_1-2★": 52,
+    "mujer_4-5★": 9,
+    "bundle": 98,
+    "soursop_solo": 91,
+    "blackseed_solo": 9,
+    "texto_largo_300+": 96
+   },
+   "miedo_cuidado": {
+    "todas": 130,
+    "mujer": 57,
+    "hombre": 16,
+    "1-2★": 69,
+    "3★": 16,
+    "4-5★": 45,
+    "mujer_1-2★": 31,
+    "mujer_4-5★": 21,
+    "bundle": 66,
+    "soursop_solo": 58,
+    "blackseed_solo": 6,
+    "texto_largo_300+": 69
+   },
+   "recompra": {
+    "todas": 70,
+    "mujer": 20,
+    "hombre": 20,
+    "1-2★": 31,
+    "3★": 5,
+    "4-5★": 34,
+    "mujer_1-2★": 8,
+    "mujer_4-5★": 11,
+    "bundle": 34,
+    "soursop_solo": 31,
+    "blackseed_solo": 5,
+    "texto_largo_300+": 37
+   }
+  },
+  "USO": {
+   "primer_dia": {
+    "todas": 93,
+    "mujer": 36,
+    "hombre": 11,
+    "1-2★": 33,
+    "3★": 11,
+    "4-5★": 49,
+    "mujer_1-2★": 17,
+    "mujer_4-5★": 18,
+    "bundle": 38,
+    "soursop_solo": 49,
+    "blackseed_solo": 6,
+    "texto_largo_300+": 57
+   },
+   "mañana_ayunas": {
+    "todas": 134,
+    "mujer": 53,
+    "hombre": 22,
+    "1-2★": 15,
+    "3★": 7,
+    "4-5★": 112,
+    "mujer_1-2★": 7,
+    "mujer_4-5★": 43,
+    "bundle": 41,
+    "soursop_solo": 85,
+    "blackseed_solo": 8,
+    "texto_largo_300+": 81
+   },
+   "noche": {
+    "todas": 57,
+    "mujer": 25,
+    "hombre": 10,
+    "1-2★": 5,
+    "3★": 2,
+    "4-5★": 50,
+    "mujer_1-2★": 4,
+    "mujer_4-5★": 21,
+    "bundle": 12,
+    "soursop_solo": 42,
+    "blackseed_solo": 3,
+    "texto_largo_300+": 36
+   },
+   "diluido": {
+    "todas": 169,
+    "mujer": 60,
+    "hombre": 29,
+    "1-2★": 36,
+    "3★": 23,
+    "4-5★": 110,
+    "mujer_1-2★": 10,
+    "mujer_4-5★": 45,
+    "bundle": 57,
+    "soursop_solo": 104,
+    "blackseed_solo": 8,
+    "texto_largo_300+": 101
+   },
+   "semanas": {
+    "todas": 209,
+    "mujer": 79,
+    "hombre": 32,
+    "1-2★": 49,
+    "3★": 18,
+    "4-5★": 142,
+    "mujer_1-2★": 20,
+    "mujer_4-5★": 53,
+    "bundle": 71,
+    "soursop_solo": 129,
+    "blackseed_solo": 9,
+    "texto_largo_300+": 121
+   },
+   "dias_rapido": {
+    "todas": 71,
+    "mujer": 24,
+    "hombre": 7,
+    "1-2★": 17,
+    "3★": 6,
+    "4-5★": 48,
+    "mujer_1-2★": 7,
+    "mujer_4-5★": 15,
+    "bundle": 22,
+    "soursop_solo": 46,
+    "blackseed_solo": 3,
+    "texto_largo_300+": 51
+   }
+  }
+ },
+ "citas": {
+  "TEMAS.hinchazon": [
+   {
+    "id": "R2AV54USBT1AOB",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "Taste as horrible as advertised but was very good with helping my gut balance. In a week my stomach was flatter and less bloated looking. Its texture is grainy and even though I didn’t mix it I would recommend that for anyone who can’t get past the taste. I will for sure buy again."
+   },
+   {
+    "id": "R1D3WOGFN6LR7P",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This stuff is amazing! I use to itch so bad at night now after taking this for 5 days I don’t itch anymore, I’m not as bloated I’ve been going to the bathroom regularly. The taste is horrible but I bite a lemon after I take it and that helps a lot. I can’t wait to see the full results."
+   },
+   {
+    "id": "R39SPLG6IIR2Z4",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Good product,it definitely works. I didn't feel bloated but I still look bloated even after going to the bathroom 3-5 times a day. But overall good. It definitely cleans u out. The taste is not amazing but I chase it with one of my favorite drinks."
+   },
+   {
+    "id": "R3O2B4S6CW8OML",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I really appreciate this product! While the taste might not be everyone's favorite, the incredible results make up for it. You'll notice your bloating ease up, and your stomach will look slimmer in just a few days. It's truly worth a try! I take it every night"
+   }
+  ],
+  "TEMAS.estrenimiento": [
+   {
+    "id": "R3GAAJ20NN5AYS",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "it is not going to help you lose weight or get you a flat tummy, without proper diet or exercise.  It can help with overall health.  You have to put the work in.  Don't believe all the advertisements about a flat tummy, without the lifestyle change."
+   },
+   {
+    "id": "R3R3WTHHB3YOKT",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "So far it’s good. Not going to lie taste horrible. I mix mine on OJ not see any difference yet. Been taking it for a week. I only take it one a day it has help me to sleep better and regulate my bowels"
+   },
+   {
+    "id": "R3FVEZN3EA39P5",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Taste is strong but product is effective and works i was constipated all the time didn't know what was wrong on with me but soursop bittersweet cleaned me out I feel so much better it's been a month in a half I'm grateful"
+   },
+   {
+    "id": "RLKQ1AFTU4YD",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "This stuff cleans you out just like it says. I was a little skeptical at first but I had been constipated for a long time and using stool softeners. I decided to try it about four months ago. After about 24-48 hours I started having regular bowel movements again."
+   }
+  ],
+  "TEMAS.digestion_general": [
+   {
+    "id": "R3GAAJ20NN5AYS",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "it is not going to help you lose weight or get you a flat tummy, without proper diet or exercise.  It can help with overall health.  You have to put the work in.  Don't believe all the advertisements about a flat tummy, without the lifestyle change."
+   },
+   {
+    "id": "RQH2LDI78IYEU",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "This may taste horrible, but you have to mix it up with some lemons and some juice to make it palatable. Then it's just fine. Great for digestion! Most likely great for a lot of other things I'm unaware of. No side effects."
+   },
+   {
+    "id": "R3R3WTHHB3YOKT",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "So far it’s good. Not going to lie taste horrible. I mix mine on OJ not see any difference yet. Been taking it for a week. I only take it one a day it has help me to sleep better and regulate my bowels"
+   },
+   {
+    "id": "R2AV54USBT1AOB",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "Taste as horrible as advertised but was very good with helping my gut balance. In a week my stomach was flatter and less bloated looking. Its texture is grainy and even though I didn’t mix it I would recommend that for anyone who can’t get past the taste. I will for sure buy again."
+   }
+  ],
+  "TEMAS.energia": [
+   {
+    "id": "R2SYPRPZG58TE5",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "This stuff is great, I drink it every morning on an empty stomach for the past almost 1 month, I have noticed no acid reflux anymore, I add mexican sauce to my tacos and nothing, I feel good. I do notice slight more energy during the day, but I notice less pain on my back, and legs. Go get you some."
+   },
+   {
+    "id": "R3MJAENSP3S6QH",
+    "est": 3,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Bottle lid and seal broken... Left mess all over my front porch, and dripped through my house. Half the bottle gone... I tired it regardless.. Just a tiny amount... Very bitter, even in drink... I had an unpleasant reaction... Nausea and vilotent vomiting."
+   },
+   {
+    "id": "R3KW4XINSGE4ZY",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "My mother has been taking it for a week so far and has noticed increased energy and has wanted to eat healthier. Hee digestion is improving and she has lost weight. The taste is bitter but since you can mix it with juice or anything you want really, getting it down isn’t a problem."
+   },
+   {
+    "id": "R2VVKG9E16GMTZ",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I was told to use this product by a relative. I was feeling sluggish and drained. I will not lie the taste stays true to its name but it’s has truly help me in ways I couldn’t explain only on reviews. I have more energy now, my skin is clearing and it’s even helped me with my issues with weight loss."
+   }
+  ],
+  "TEMAS.detox_limpieza": [
+   {
+    "id": "R25LDFMJESK0SW",
+    "est": 4,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "It doesn't show obvious signs of detox until the 4th day.  However, the product works as promised."
+   },
+   {
+    "id": "R39SPLG6IIR2Z4",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Good product,it definitely works. I didn't feel bloated but I still look bloated even after going to the bathroom 3-5 times a day. But overall good. It definitely cleans u out. The taste is not amazing but I chase it with one of my favorite drinks."
+   },
+   {
+    "id": "R203GDPU9TVBBW",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This will empty your colon of everything you have ever consumed since childhood."
+   },
+   {
+    "id": "R3HBSY8HIVR81X",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "Powerful you will have bowel movement so be sure to take it with care to have access to the restroom. Didn’t notice side effects. Taste is not very pleasant but I think of the health benefits more than taste. To eat natural roots like out in the savanna or in the bush it is the results you covet"
+   }
+  ],
+  "TEMAS.peso_antojos": [
+   {
+    "id": "R3GAAJ20NN5AYS",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "it is not going to help you lose weight or get you a flat tummy, without proper diet or exercise.  It can help with overall health.  You have to put the work in.  Don't believe all the advertisements about a flat tummy, without the lifestyle change."
+   },
+   {
+    "id": "R14N7J274OWBZQ",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "If you’re suffering with aches and pains, or you just cannot sleep also weight loss. This is the product to buy. I have less pain. I’m able to sleep through the night and my belly fat have went down. I was very impressed with this product."
+   },
+   {
+    "id": "R3KW4XINSGE4ZY",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "My mother has been taking it for a week so far and has noticed increased energy and has wanted to eat healthier. Hee digestion is improving and she has lost weight. The taste is bitter but since you can mix it with juice or anything you want really, getting it down isn’t a problem."
+   },
+   {
+    "id": "R2VVKG9E16GMTZ",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I was told to use this product by a relative. I was feeling sluggish and drained. I will not lie the taste stays true to its name but it’s has truly help me in ways I couldn’t explain only on reviews. I have more energy now, my skin is clearing and it’s even helped me with my issues with weight loss."
+   }
+  ],
+  "TEMAS.inmunidad": [
+   {
+    "id": "R1TXL4HCZ73VM2",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "Non of this stuff is getting an A for taste...but it absolutely works. My energy has improved, clarity, digestion and regularity. To get it over with I just take a a couple of swigs, swallow..then chase it with cold water - instead of extending the torture by mixing it with a beverage and sipping."
+   },
+   {
+    "id": "R1HE9PRZNSOJD3",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This bundle has been great for digestion and even helped curb my cold symptoms. However, the taste is pretty unpleasant, so I’d recommend having something to chew on or a hard candy ready afterward. Despite the strong flavor, the benefits make it worth it!"
+   },
+   {
+    "id": "R3GPZEE81O7PFS",
+    "est": 1,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "I have taken this product on three different occasions and every time it makes me sick to my stomach. I tried to do a return and Amazon says it's a non-returnable item? Do not order this product cuz you won't be able to return it when it makes you sick."
+   },
+   {
+    "id": "R14FI616KDCUV0",
+    "est": 1,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "This is soooooo bitter!!!! I got deathly sick on the 1st tsp 🤢🤮 I didn't even want to give it 1 star but the app made me"
+   }
+  ],
+  "TEMAS.piel_pelo": [
+   {
+    "id": "R2VVKG9E16GMTZ",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I was told to use this product by a relative. I was feeling sluggish and drained. I will not lie the taste stays true to its name but it’s has truly help me in ways I couldn’t explain only on reviews. I have more energy now, my skin is clearing and it’s even helped me with my issues with weight loss."
+   },
+   {
+    "id": "R15FAT315P9YYT",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I've been taking for 2 months. I've been taking only weekends because you need a bathroom near by. I've noticed a better skin complexion, less bloating and better sleep at night. Note: I've also changed my diet and eat cleaner foods less sugar."
+   },
+   {
+    "id": "RMO02A4BEGF19",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I’m 12lbs down and my skin cleared up. The taste is not to be desired but it is working for me."
+   },
+   {
+    "id": "R1DR1P54P647S",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "I’ve been taking the black seed bitters for less than a week and I’ve already noticed changes in my skin. I also don’t crave sugar as much and I’m not eating or snacking as much. Of course it tastes horrible lol but I just chase it with lime juice. It’s very effective and I’m so happy I gave them a try."
+   }
+  ],
+  "TEMAS.sueno_estres": [
+   {
+    "id": "R3R3WTHHB3YOKT",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "So far it’s good. Not going to lie taste horrible. I mix mine on OJ not see any difference yet. Been taking it for a week. I only take it one a day it has help me to sleep better and regulate my bowels"
+   },
+   {
+    "id": "R14N7J274OWBZQ",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "If you’re suffering with aches and pains, or you just cannot sleep also weight loss. This is the product to buy. I have less pain. I’m able to sleep through the night and my belly fat have went down. I was very impressed with this product."
+   },
+   {
+    "id": "R1IREEPS06D9XZ",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "This is changing my life. Not only it has help me with shedding pounds, my inmune system is stronger, i sleep better and have more energy."
+   },
+   {
+    "id": "R15FAT315P9YYT",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I've been taking for 2 months. I've been taking only weekends because you need a bathroom near by. I've noticed a better skin complexion, less bloating and better sleep at night. Note: I've also changed my diet and eat cleaner foods less sugar."
+   }
+  ],
+  "TEMAS.dolor_inflamacion": [
+   {
+    "id": "RETVKF50NZ899",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "First taste was harsh but mixed with some water it is very drinkable. But best of all, the immense swelling in my left ankle disappeared in a couple of days. Saving trips to the doctor and continued pain. (See before & after photos below) I don’t know why or how, but for me at least it works great."
+   },
+   {
+    "id": "R2SYPRPZG58TE5",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "This stuff is great, I drink it every morning on an empty stomach for the past almost 1 month, I have noticed no acid reflux anymore, I add mexican sauce to my tacos and nothing, I feel good. I do notice slight more energy during the day, but I notice less pain on my back, and legs. Go get you some."
+   },
+   {
+    "id": "R14N7J274OWBZQ",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "If you’re suffering with aches and pains, or you just cannot sleep also weight loss. This is the product to buy. I have less pain. I’m able to sleep through the night and my belly fat have went down. I was very impressed with this product."
+   },
+   {
+    "id": "R1U8RM0FNJZDE9",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Love it I had a lot of knee problems for about two years to where I had to elevate and ice it all the time since I’ve been taking this I have not had any knee pain. In addition to that. I have crazy energy. I just feel good all the way around thank you."
+   }
+  ],
+  "TEMAS.azucar_presion": [
+   {
+    "id": "R1L789HNUQH3GO",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "blackseed_solo",
+    "texto": "One of the benefits is managing blood sugar levels, which has been manageable. Additionally, there are no cravings. I would definitely purchase it again."
+   },
+   {
+    "id": "RS3BOYGNY56AD",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "This herb is amazing I'm feeling better and stronger,it a great detox herb , I felt and saw changes in two of taking this bitters , thank you"
+   },
+   {
+    "id": "RJP1203V2ZNC1",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "Awesome product. It'll cover your mild weight loss, your blood sugar reduction, the health of your liver, gallbladder & pancreas. Prepare for the long run, not just one bottle. I am already on the third one and will be buying more."
+   },
+   {
+    "id": "R1SCQ3KC1C1R36",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I need another bottle. It does exactly what it advertised. I’m no longer pre- diabetic. I’m being cleansed daily. My body is leaner. My gut is slimming. My skin is radiant. I need more!!"
+   }
+  ],
+  "TEMAS.hormonas_edad": [
+   {
+    "id": "R30AF01SSOXWI9",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "The serene soursop is great. I just wouldn't take it while on my period because it will make bleed more. It's taste is bitter so if you don't like no sugar this is not for you. Other than that bitters is natural and good for you"
+   },
+   {
+    "id": "RDL6K8WU8UR6X",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Dont use on your cycle ladies!!! It does work!!! For sure!!! Thank you serene bitters!!!"
+   },
+   {
+    "id": "RMRDL9B70PU6V",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "It’s tastes like alligator water but I’m very much regular now and feel a lot less bloated. Be ready to smell awful during the detox period and drink with lots of water. My face doesn’t feel as puffy as before either."
+   },
+   {
+    "id": "R1U10851OQCBQB",
+    "est": 2,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "To be fair it's only been five days of taking Serene Herbs Soursop Bitters. I haven't seen any change in my gut health. I will continue taking it for a two week period. Let's see what that process reveals."
+   }
+  ],
+  "TEMAS.cancer_grave": [
+   {
+    "id": "R24UH1NZ6V62B8",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I have only been using this product for a week so am afraid to be too definite about its effectiveness. I am hoping it will help with chemo side effects (stomach issues). Not sure yet, though. I was told it doesn’t taste good and that’s true. But, it is drinkable in hot water with lemon."
+   },
+   {
+    "id": "R1FCE5E2ZQGVP7",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I canceled my order Please don’t send this product to me, My Doctor said this stuff will interfere with my with my chemotherapy treatment, Don’t send please. zMarvia"
+   },
+   {
+    "id": "R1JL2USPZ6YBLR",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I was pleasantly surprised that it didn't taste that bad. I used it with honey and coconut water everyday. Still waiting to see if it affected my cancer positively"
+   }
+  ],
+  "QUEJAS.sabor": [
+   {
+    "id": "RQH2LDI78IYEU",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "This may taste horrible, but you have to mix it up with some lemons and some juice to make it palatable. Then it's just fine. Great for digestion! Most likely great for a lot of other things I'm unaware of. No side effects."
+   },
+   {
+    "id": "R3R3WTHHB3YOKT",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "So far it’s good. Not going to lie taste horrible. I mix mine on OJ not see any difference yet. Been taking it for a week. I only take it one a day it has help me to sleep better and regulate my bowels"
+   },
+   {
+    "id": "R3MJAENSP3S6QH",
+    "est": 3,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Bottle lid and seal broken... Left mess all over my front porch, and dripped through my house. Half the bottle gone... I tired it regardless.. Just a tiny amount... Very bitter, even in drink... I had an unpleasant reaction... Nausea and vilotent vomiting."
+   },
+   {
+    "id": "R2IHBDTW00ICA5",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "Yeah it tastes HORRIBLE but this is the only herb that fixes my gut. However, the last two batches I ordered tasted a lot different. I wonder if they changed rne recipe. It tastes lighter and not as strong or bitter"
+   }
+  ],
+  "QUEJAS.urgencia_calambres": [
+   {
+    "id": "R2SVJSFDE8MAC1",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "The taste is awful but the product works like a charm it cleaned all I had in my stomach that was stuck , another down fall is the cramps you get before going to the rest room is uncomfortable, but again is a great product and does the job well"
+   },
+   {
+    "id": "R3MJAENSP3S6QH",
+    "est": 3,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Bottle lid and seal broken... Left mess all over my front porch, and dripped through my house. Half the bottle gone... I tired it regardless.. Just a tiny amount... Very bitter, even in drink... I had an unpleasant reaction... Nausea and vilotent vomiting."
+   },
+   {
+    "id": "R1D3WOGFN6LR7P",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This stuff is amazing! I use to itch so bad at night now after taking this for 5 days I don’t itch anymore, I’m not as bloated I’ve been going to the bathroom regularly. The taste is horrible but I bite a lemon after I take it and that helps a lot. I can’t wait to see the full results."
+   },
+   {
+    "id": "R39SPLG6IIR2Z4",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Good product,it definitely works. I didn't feel bloated but I still look bloated even after going to the bathroom 3-5 times a day. But overall good. It definitely cleans u out. The taste is not amazing but I chase it with one of my favorite drinks."
+   }
+  ],
+  "QUEJAS.plastico_aguado": [
+   {
+    "id": "R1X7O5A93B639E",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "I was misled that these were in glass bottles. So I purchased a set of 3 bottles! They all came in PLASTIC BOTTLES. If you’re okay with drinking microplastics, this product is for you. It’s such a waste of potentially a good product. The plastic ruined it for me."
+   },
+   {
+    "id": "R3LDNZAONRS2S4",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Well, I can definitely agree with everyone they taste is not all that great. But not as bad as o was expecting. I mix 2 tablespoons of the Soursop with 4 to 5 tablespoons of coffee. Chugged that down, then chased it with more coffee. I’ll check back in a week to let you know how everything went."
+   },
+   {
+    "id": "R18DVLLSJZ9Y8G",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I have ordered this product many times from this company. It arrived on a glass bottle and was extremely bitter, as it is suppose to be, for potency.  This set was in plastic bottles and watered down. Fool me once shame on you, fool me twice, shame on me.DO NOT ORDER THIS SETWASTE OF $$"
+   },
+   {
+    "id": "R1FIU9YIIZ8CMK",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "So far so good! On second bottles but annoyed due to the second purchase they came in plastic bottles. I saved my glass bottles and poured the ones in plastic in the glass. Not sure why they gave me plastic when it's supposed to be a healthy product company."
+   }
+  ],
+  "QUEJAS.suscripcion_cobro": [
+   {
+    "id": "R1SP5UE57KLN9I",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Where did all of my Soursop go? I received my order today and it was leaking as you can see in the photos. It’s says that it’s nonreturnable, but I would like to get what I paid for without any problems or a refund."
+   },
+   {
+    "id": "R2XCU7AQTM3B57",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I ordered this soursop bitters and now I’m seeing some white stuff in it. I’m going to send it back and demands a refund"
+   },
+   {
+    "id": "R1L2H8PJZMVA0Z",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I have suffered with constipation my whole life until I discovered Soursop Bitters. I take 2 tablespoons in the morning with a 12 ounce glass of water. The taste is horrible,but it works for me. This is my 2nd subscribed bottle."
+   },
+   {
+    "id": "RAJD1A81KZ0B5",
+    "est": 1,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Unable to use received in a trash bag, bottle broken. Would like a refund."
+   }
+  ],
+  "QUEJAS.falso_envio": [
+   {
+    "id": "R3MJAENSP3S6QH",
+    "est": 3,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Bottle lid and seal broken... Left mess all over my front porch, and dripped through my house. Half the bottle gone... I tired it regardless.. Just a tiny amount... Very bitter, even in drink... I had an unpleasant reaction... Nausea and vilotent vomiting."
+   },
+   {
+    "id": "R1SP5UE57KLN9I",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Where did all of my Soursop go? I received my order today and it was leaking as you can see in the photos. It’s says that it’s nonreturnable, but I would like to get what I paid for without any problems or a refund."
+   },
+   {
+    "id": "R18DVLLSJZ9Y8G",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I have ordered this product many times from this company. It arrived on a glass bottle and was extremely bitter, as it is suppose to be, for potency.  This set was in plastic bottles and watered down. Fool me once shame on you, fool me twice, shame on me.DO NOT ORDER THIS SETWASTE OF $$"
+   },
+   {
+    "id": "RORXA84V14A4W",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I ordered this back in October 2025 and it was good but when I reordered it at the end of January it was watered down and upset my stomach so I won’t order this again. Apparently they changed the recipe for the worst."
+   }
+  ],
+  "QUEJAS.no_funciono": [
+   {
+    "id": "R1X7O5A93B639E",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "I was misled that these were in glass bottles. So I purchased a set of 3 bottles! They all came in PLASTIC BOTTLES. If you’re okay with drinking microplastics, this product is for you. It’s such a waste of potentially a good product. The plastic ruined it for me."
+   },
+   {
+    "id": "R18DVLLSJZ9Y8G",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I have ordered this product many times from this company. It arrived on a glass bottle and was extremely bitter, as it is suppose to be, for potency.  This set was in plastic bottles and watered down. Fool me once shame on you, fool me twice, shame on me.DO NOT ORDER THIS SETWASTE OF $$"
+   },
+   {
+    "id": "RZACVOMW6YNIV",
+    "est": 3,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I really see no difference no energy still but I'm not giving up. It's been almost a month."
+   },
+   {
+    "id": "R1TV4FDYYYOUVJ",
+    "est": 3,
+    "gen": "Mujer",
+    "prod": "blackseed_solo",
+    "texto": "The soursop bitters work waaaay better for me. The black seed, the bottle is almost empty and still nothing happened. I thought maybe it was fake. However the soursop bitters worked wonders. No bloating, cleaned me out? And gave me so much energy. So I will stick with that one."
+   }
+  ],
+  "QUEJAS.senna_laxante": [
+   {
+    "id": "R31HK10F4AJTO2",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "1. It wasn't as bitter as I thought it would be.\n2. It helped me with bloating and gas.\n3. Acted like a mild laxative\nI will definitely buy it again"
+   },
+   {
+    "id": "R13F9P3PP8KPU2",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "I like it but not sure I love it! I missed the senna leaf ingredient when I checked before purchasing & don’t want any laxative effect. The slight bitterness was expected & it is pleasing in bubbly water for a non- alcoholic aperitif."
+   },
+   {
+    "id": "RI9YWVFBWTWLP",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "This is definitely more effective than any laxatives I’ve tried in the past. It tastes absolutely disgusting and is difficult to swallow, but your gut will thank you for it!"
+   },
+   {
+    "id": "R12N7OBD15N2H3",
+    "est": 2,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I wasn’t bothered by the taste like so many other reviews. But, I don’t think I realized this has laxative ingredients in it and made me sick to my stomach for 3 days and created a lot of bloating and discomfort. I stopped using. Gave it two stars for other good ingredients."
+   }
+  ],
+  "QUEJAS.precio": [
+   {
+    "id": "R3OMM6BRXFZUUK",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "It really works wonders. I am satisfied with this product. It is bitter but it is good for a lot of things. It does help control appetite. The price is right. I lost weight by taking the product."
+   },
+   {
+    "id": "R2VOECFGGT7AGB",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I’ve been enjoying these soursop bitters so far. The bottle was well packaged and both bottles arrived in good condition. The herbal taste is noticeable but not too difficult to take. I like that you get a good amount of product for the price, and I’ll continue using it to see how I like it over time."
+   },
+   {
+    "id": "RX5QIPOJRPDXO",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "this stuff is really good, the taste is horrible although the benefits are great 2 teaspoons per day will keep you regular the price is the price, benefits the digestion amazingly"
+   },
+   {
+    "id": "R3GYM36TH4OKHM",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I remember when these were in 32oz glass bottles for the same price. plus it's not as strong or bitter as it was years ago. I take 2tbsp of each. with 16oz of water. daily to help detox."
+   }
+  ],
+  "PROBO_ANTES.fibra": [],
+  "PROBO_ANTES.laxantes_otc": [
+   {
+    "id": "RLKQ1AFTU4YD",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "This stuff cleans you out just like it says. I was a little skeptical at first but I had been constipated for a long time and using stool softeners. I decided to try it about four months ago. After about 24-48 hours I started having regular bowel movements again."
+   },
+   {
+    "id": "R31HK10F4AJTO2",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "1. It wasn't as bitter as I thought it would be.\n2. It helped me with bloating and gas.\n3. Acted like a mild laxative\nI will definitely buy it again"
+   },
+   {
+    "id": "R140M64HV4C9C8",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Serene Herbs Soursop Bitters works well for me. My daughter sent me a bottle. I have been taking it two months now. I move around with more energy. I was having trouble with constipation, when I take the soursops daily, I have a smooth movement."
+   },
+   {
+    "id": "R13F9P3PP8KPU2",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "I like it but not sure I love it! I missed the senna leaf ingredient when I checked before purchasing & don’t want any laxative effect. The slight bitterness was expected & it is pleasing in bubbly water for a non- alcoholic aperitif."
+   }
+  ],
+  "PROBO_ANTES.probioticos": [
+   {
+    "id": "R2SKE0ZOOYN7C7",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "Nice authentic taste, very bitter (which is good). My hack is post meal, add a tablespoon to my kombucha for a nice digestive superfood"
+   }
+  ],
+  "PROBO_ANTES.dieta_agua": [
+   {
+    "id": "R3GAAJ20NN5AYS",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "it is not going to help you lose weight or get you a flat tummy, without proper diet or exercise.  It can help with overall health.  You have to put the work in.  Don't believe all the advertisements about a flat tummy, without the lifestyle change."
+   },
+   {
+    "id": "R39ITTL071W3GH",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I like that it has multiple herbs however you have to quickly take a shot of it followed by some juice or honey 🍯 because the taste 👅 is awful but you will get past it, it leaves a taste of grapefruit in your mouth 👄 but you will eliminate at least twice a day . Not ASAP but throughout the day 😊 good product🌹"
+   },
+   {
+    "id": "R15FAT315P9YYT",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I've been taking for 2 months. I've been taking only weekends because you need a bathroom near by. I've noticed a better skin complexion, less bloating and better sleep at night. Note: I've also changed my diet and eat cleaner foods less sugar."
+   },
+   {
+    "id": "R1J2KX72T8E97W",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This product works very well with helping your body eliminateAfter reading reviews, there was some concern that this products can cause Alzheimer’s, so I will stop using it"
+   }
+  ],
+  "PROBO_ANTES.doctor": [
+   {
+    "id": "RETVKF50NZ899",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "First taste was harsh but mixed with some water it is very drinkable. But best of all, the immense swelling in my left ankle disappeared in a couple of days. Saving trips to the doctor and continued pain. (See before & after photos below) I don’t know why or how, but for me at least it works great."
+   },
+   {
+    "id": "R2IPL5Q9YQ78GA",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This is the best thing I have ever taken, and trust me I have taken everything! Prescription meds don’t even work for me! Soursop started working within a hour and continued for a week! Trust me it’s the worse stuff you will ever taste I mixed 2 TBS with 4 ounces of grape juice and it was fine!"
+   },
+   {
+    "id": "R1T8YCSIED24B2",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I can’t stop raving about this after two days of taking I sleep better feel better and, a little more energy. It’s nasty though.  I guess that’s why it’s benefits are so good 😊 two thumbs 👍🏾 up for better health"
+   },
+   {
+    "id": "RMU2XT6LZZHZ1",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Well,I have been using Soursop bitters on a 3 week on 1 week off schedule. Overall I feel better than I did before starting the regimen. I know that some may think its witch doctor potion. And that's fine.... I just know I feel better, so I will keep using it... I also make a lot of my own tinctures...."
+   }
+  ],
+  "PROBO_ANTES.remedios_naturales": [
+   {
+    "id": "R3HBSY8HIVR81X",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "Powerful you will have bowel movement so be sure to take it with care to have access to the restroom. Didn’t notice side effects. Taste is not very pleasant but I think of the health benefits more than taste. To eat natural roots like out in the savanna or in the bush it is the results you covet"
+   },
+   {
+    "id": "RXT5JYEICD9K4",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "It tastes horrible but after 5 days, I am starting to notice a change in my stomach and how I feel. I make a tea out of it, using the juice of 1/2 lemon, 2 tbsp of the Soursop, and a tsp of vanilla. I add my hot water and drink it that way. It goes down a little easier."
+   },
+   {
+    "id": "RL9XZ8NXRD4FE",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "It works to detox your liver. The only thing is that the taste is extremely bitter. I have to have a chaser like orange juice to drink fast right after. It’s definitely all natural and anything all natural will not always be pleasant to your taste buds."
+   },
+   {
+    "id": "RLLI27L4ZPN5C",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I use the sourdough bitters for constipation. It works. Does not taste the best but its an all natural remedy. Takes a couple doses to get you moving."
+   }
+  ],
+  "PROBO_ANTES.tried_everything": [
+   {
+    "id": "R3F9TC89IZ5XE7",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I wouldn’t dare recommend this product to anyone I for one have a strong stomach I took one tea spoon of this product and had the worst taste in my mouth for the entire day never will I ever try again I thru up everything I had in my stomach horrible do not recommend it’s not bareable"
+   },
+   {
+    "id": "RZNY39KLAJRYL",
+    "est": 2,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Have not enjoyed the product as it is too bitter in everything I try to put it in. Even fruit juice! I am returning the unopened product upon delivery and cancelling subscription."
+   },
+   {
+    "id": "RTWJZKR8LHP9Y",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "So far I haven’t noticed much but have only taken it for three days. I hope and pray it does everything it claims to do. The taste is not that bad. Certainly doable"
+   },
+   {
+    "id": "R1C2JKTHB3SEWR",
+    "est": 1,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "Absolutely DISGUSTING-UNBEARABLE-WORST thing I’ve ever purchased! I tried mixing it in strong beverages to mask the taste…nothing worked! DO NOT purchase-worst part, CAN’T return!! If I could give negative stars, I would!!"
+   }
+  ],
+  "FUENTE.tiktok": [
+   {
+    "id": "R1ATCOLIX423R4",
+    "est": 2,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I’ve ordered this product before on TikTok shop and once on Amazon and never had a problem but with this batch right here it was very watered down if anything it taste like water and black pepper it’s not giving what it supposed to be giving im disappointed."
+   },
+   {
+    "id": "R32WNWFZHR3D0J",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This product contains fake ingredients dont belive what label says belive what is inside that bottle.This is nothing but campaine to sell something on tiktok as its been crazy launched today,Dont drink this harmful supstance!"
+   },
+   {
+    "id": "R3EFDQS00ZOYQ9",
+    "est": 3,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "This product in essence is GOOD. However, the first bottle I used was from Tik Tok Shop and I found that that version was more potent and helped me cleanse and contributed to losing a few pounds.This version was watered down. If you tasted the version on Tik Tok shop you would understand why I gave it 3 stars."
+   },
+   {
+    "id": "RI0XP7X6UT4IH",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "The taste of bitters are awful but these were absolutely worst than the ones I ordered on tiktok. These are not the ones to buy. I just cant explain it but it's a waste of money"
+   }
+  ],
+  "FUENTE.instagram": [
+   {
+    "id": "R3T475VBFU7Y33",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This is my 2nd order from this particular company. I purchased four bottles from the ig account and 2from Amazon. But this order from Amazon is totally different from my first order. The soursop and black seed bitters taste the same. The soursop is very watery. Is Amazon and ig product different?"
+   },
+   {
+    "id": "R2VOK3TRDCNWK0",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "I saw information regarding this product on instagram. I have nothing bad to say about it… It works great!!👍🏼\n\nNoted: Some people would say the taste is terrible… I have no problem. It’s one quick swallow. 😋"
+   }
+  ],
+  "FUENTE.facebook": [
+   {
+    "id": "R24OF0LNSM0ENR",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "ZERO stars. SCAM!! There's no inner seal on any off the 4 bottles I got Each was watered down with who knows what and a new shrink wrap put on. Don't get anything from this company. Others on FB are saying thr wame thing. Could be poison  to water it down. I tried twice and akk were the same"
+   },
+   {
+    "id": "R1HZOZSEDC0EDN",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "Shipping was decent. It was wrapped in bubble wrap inside of the box. The flavor, is disgusting. I’ve seen it on Facebook. People said they lost their stomach or anything. They had bad and came out. This is my day one gonna give it a go."
+   }
+  ],
+  "FUENTE.youtube": [],
+  "FUENTE.anuncio": [
+   {
+    "id": "R3GAAJ20NN5AYS",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "it is not going to help you lose weight or get you a flat tummy, without proper diet or exercise.  It can help with overall health.  You have to put the work in.  Don't believe all the advertisements about a flat tummy, without the lifestyle change."
+   },
+   {
+    "id": "R2AV54USBT1AOB",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "Taste as horrible as advertised but was very good with helping my gut balance. In a week my stomach was flatter and less bloated looking. Its texture is grainy and even though I didn’t mix it I would recommend that for anyone who can’t get past the taste. I will for sure buy again."
+   },
+   {
+    "id": "R11Q7O86IS7FM3",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "So far this stuff does as advertised. My husband and I have been taking it like a shot in the morning. It doesn’t taste great but it goes down easier than a shot of tequila (that’s what I tell myself anyway lol). It really does clean you out and helps with energy."
+   },
+   {
+    "id": "R1YTFODSBIF4Z0",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Works great, dont see any of the stuff the ad says would happen. Energy and digestion, blood work show improvements. This is our 3 rd bottle."
+   }
+  ],
+  "FUENTE.recomendacion": [
+   {
+    "id": "R3KW4XINSGE4ZY",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "My mother has been taking it for a week so far and has noticed increased energy and has wanted to eat healthier. Hee digestion is improving and she has lost weight. The taste is bitter but since you can mix it with juice or anything you want really, getting it down isn’t a problem."
+   },
+   {
+    "id": "R2QHZ7GJ4NLZYU",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Iam 65.my stomach was big,it went dawn in one week. Also I lost weight. I have already recommended to my coworkers."
+   },
+   {
+    "id": "R2ULW06XXNBKTW",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I feel better health wise. I have more energy. I would recommend to my family and friends. It is easy to use. I haven’t noticed a smell. The taste is not offensive. I have less pain."
+   },
+   {
+    "id": "RYLMDK80DMMIW",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "love love love this brand of sour all bitters it is amazing .I use it everyday. I am more regular noW.I have more energy.and my hair is growing like crazy."
+   }
+  ],
+  "FUENTE.reseñas_previas": [
+   {
+    "id": "R1J2KX72T8E97W",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This product works very well with helping your body eliminateAfter reading reviews, there was some concern that this products can cause Alzheimer’s, so I will stop using it"
+   },
+   {
+    "id": "R38N9RMZTGIWII",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "After reading all the benefits of bitters and not wanting to make it myself, I was happy to see this bottle from Serene. I don't mind the taste straight off the spoon, but I do make sure I am close to home for the first few hours after taking it. I'm glad to have this to add to my daily routine."
+   },
+   {
+    "id": "R5MPXJT4VJ0PQ",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I have been taking a week and nothing has changed with my digestion or energy levels. After reading the reviews I was expecting more, but I get more movement taking DR tobias colon cleanser."
+   }
+  ],
+  "IDENTIDAD.madre_abuela": [
+   {
+    "id": "R3KW4XINSGE4ZY",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "My mother has been taking it for a week so far and has noticed increased energy and has wanted to eat healthier. Hee digestion is improving and she has lost weight. The taste is bitter but since you can mix it with juice or anything you want really, getting it down isn’t a problem."
+   },
+   {
+    "id": "R19H4V40QPXV7Y",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I got them for my mother. These items have so much vitamin  and nutrients in them. It’s really good for your gut health and also your overall health it will kill whatever bacteria that’s in your body that is not supposed to be there."
+   },
+   {
+    "id": "R140M64HV4C9C8",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Serene Herbs Soursop Bitters works well for me. My daughter sent me a bottle. I have been taking it two months now. I move around with more energy. I was having trouble with constipation, when I take the soursops daily, I have a smooth movement."
+   },
+   {
+    "id": "R2IHVJ7W5917JE",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "My son was the one who told me about Soursop Bitters and ask me to try it at first I was skeptical so I did the taste is bitter, so I try it with orange juice it helped but later on I decided to take it without the juice it really does works."
+   }
+  ],
+  "IDENTIDAD.pareja": [
+   {
+    "id": "R11Q7O86IS7FM3",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "So far this stuff does as advertised. My husband and I have been taking it like a shot in the morning. It doesn’t taste great but it goes down easier than a shot of tequila (that’s what I tell myself anyway lol). It really does clean you out and helps with energy."
+   },
+   {
+    "id": "R3J1ERNLXEOTXC",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Love this,my husband and I are on the forth bottle and we are seeing good result,I don't feel bloated anymore and I have a lot of energy."
+   },
+   {
+    "id": "R25PUS5QRD5I0J",
+    "est": 1,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I have purchased this product twice, but something is off. It doesn't taste the same as the 1st time when my husband ordered. It has not gut cleaning effect like the 1st glass bottles. It really not doing anything for me at this point. I will not be purchasing this product anymore form here."
+   },
+   {
+    "id": "R322LNISVPZWCW",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I tell you, my husband loves this stuff. I can’t deal with it because it’s too bitter. The black seat is OK but the sour stop. Oh boy you got to put it in something like lemonade or soda or something but my husband loves it. He says these products are dynamite."
+   }
+  ],
+  "IDENTIDAD.caribe_afro": [
+   {
+    "id": "R2LAQHSQQZWN55",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "I must say this is very good product. It helps to clean me out. It’s a bit better. That is the purpose. We have these things in the Caribbean, but we take them for granted thanks for the one who put it together and Amazon who can sell it easy place to buy.🙏🏼"
+   },
+   {
+    "id": "R1VNSKG813FXPT",
+    "est": 1,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "This was weak. The bitters weren’t “BITTERING”. I couldn’t taste anything. It was as if it was watered down. My husband is Caribbean and said, “WHAT IS DIS”. Meaning, it has no taste. I’m extremely disappointed."
+   },
+   {
+    "id": "R2EEINOILXCLNH",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Superb value! This stuff is awesome! It’s very bitter but it is working cleaning and regulating my digestive system! Also helping me lose weight!"
+   }
+  ],
+  "IDENTIDAD.cuida_familia": [
+   {
+    "id": "R3KW4XINSGE4ZY",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "My mother has been taking it for a week so far and has noticed increased energy and has wanted to eat healthier. Hee digestion is improving and she has lost weight. The taste is bitter but since you can mix it with juice or anything you want really, getting it down isn’t a problem."
+   },
+   {
+    "id": "R2ULW06XXNBKTW",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I feel better health wise. I have more energy. I would recommend to my family and friends. It is easy to use. I haven’t noticed a smell. The taste is not offensive. I have less pain."
+   },
+   {
+    "id": "R19H4V40QPXV7Y",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I got them for my mother. These items have so much vitamin  and nutrients in them. It’s really good for your gut health and also your overall health it will kill whatever bacteria that’s in your body that is not supposed to be there."
+   },
+   {
+    "id": "R2MAG0IQIGGVQV",
+    "est": 3,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I don't know how to rate this. 😕  This is the second time that I bought the soursop bitters and it tastes like pickle juice and prune juice mixed together. Maybe it was just me and my family because we all said the same thing. Formula change maybe?"
+   }
+  ],
+  "IDENTIDAD.edad_mencion": [
+   {
+    "id": "R2QHZ7GJ4NLZYU",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Iam 65.my stomach was big,it went dawn in one week. Also I lost weight. I have already recommended to my coworkers."
+   }
+  ],
+  "IDENTIDAD.trabajo_estilo_vida": [
+   {
+    "id": "R1KKT52W3IF1NO",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "I think as far as emptying your stomach it does a great job at the that . Don’t take if traveling . The taste is horrible but just rinse your mouth with water and lemon juice you will be fine."
+   },
+   {
+    "id": "R25DODF0THQXFU",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "Product does what it says!!!! I’ve done research and I’m very happy with this. I finally started losing weight after working hard in the gym for month with no progress!!! Follow instructions and it’s worth it"
+   },
+   {
+    "id": "R2DJM89P52QI1X",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Good stuff. I wish I could travel with it. I did have more energy and my bloating is starting to disappear. Take a shot with a glass of water. You'll be fine"
+   }
+  ],
+  "IDENTIDAD.fe_natural": [
+   {
+    "id": "R2XPYHDF59K8G6",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "Please believe the reviews when people say that this is the most God-awful tasting stuff ever created, but it does do what it says. It’s going to do with consistent. Use my suggestion have something to chase it with and do not use water imo water exacerbates the taste."
+   },
+   {
+    "id": "R1R983WN3240Y4",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Great flavors, naturally helps with digestion in a gentle, efficient way."
+   },
+   {
+    "id": "R2IAK0AJV6OMU4",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "If you’re all about holistic lifestyle - you might wanna get these! These are great and definitely help me when it comes to energy without using other unhealthy things. Love the ingredients and already noticed a difference even after using it for a week!"
+   },
+   {
+    "id": "RXZPQEG89WR7S",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Oh my God this stuff really hurts. It helped clean your system."
+   }
+  ],
+  "ESCEPTICISMO.conoce_senna": [
+   {
+    "id": "R13F9P3PP8KPU2",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "I like it but not sure I love it! I missed the senna leaf ingredient when I checked before purchasing & don’t want any laxative effect. The slight bitterness was expected & it is pleasing in bubbly water for a non- alcoholic aperitif."
+   },
+   {
+    "id": "R387T2GP1YYEFB",
+    "est": 2,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "I'm bummed, I wanted this product to help with gut issues, but I didn't realize it contained Senna. I don't want to use it because I don't want to become dependent on it to relieve constipation. It has so many good ingredients, I just don't want to become dependent on the Senna."
+   },
+   {
+    "id": "R13286DJ22CO2I",
+    "est": 2,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Has black seed n senna. I wasn’t expecting that combo. It is too harsh for my system, be mindful of additional ingredients."
+   }
+  ],
+  "ESCEPTICISMO.duda_reseñas_falsas": [
+   {
+    "id": "R2NV8VS0ZH3NTH",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "I was skeptical but this stuff works. I took me taking it for two days before I noticed feeling less bloated. Taste is bad but just chase it with a drink and you’re all good. Definitely worth it!!!"
+   },
+   {
+    "id": "R1F8GXWLKOJC37",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "What is this !!!!!!!!! Stop selling this now people just scamming I have bought this stuff for a minute it was worth it this last to sets is trash stop selling this give me my money back on both sets this is not the same product! What ever this is I drank is not the same thing ."
+   },
+   {
+    "id": "RETPURRKP7ZRQ",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "Probably should have known better...just another snake oil gimmick product. Keep your money and learn to eat right, exercise and drink plenty water. The only way this works is by leaving you with less money to buy junk food."
+   },
+   {
+    "id": "R2TGQBX57L6D05",
+    "est": 1,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "This is a total scam that tastes terrible. I understand how you fall for the marketing, but I promise you- you are truly putting your money in the toilet- and nt in a meaningful way!"
+   }
+  ],
+  "ESCEPTICISMO.consulta_medico": [
+   {
+    "id": "RETVKF50NZ899",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "First taste was harsh but mixed with some water it is very drinkable. But best of all, the immense swelling in my left ankle disappeared in a couple of days. Saving trips to the doctor and continued pain. (See before & after photos below) I don’t know why or how, but for me at least it works great."
+   },
+   {
+    "id": "R1T8YCSIED24B2",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I can’t stop raving about this after two days of taking I sleep better feel better and, a little more energy. It’s nasty though.  I guess that’s why it’s benefits are so good 😊 two thumbs 👍🏾 up for better health"
+   },
+   {
+    "id": "RMU2XT6LZZHZ1",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Well,I have been using Soursop bitters on a 3 week on 1 week off schedule. Overall I feel better than I did before starting the regimen. I know that some may think its witch doctor potion. And that's fine.... I just know I feel better, so I will keep using it... I also make a lot of my own tinctures...."
+   },
+   {
+    "id": "R1FCE5E2ZQGVP7",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I canceled my order Please don’t send this product to me, My Doctor said this stuff will interfere with my with my chemotherapy treatment, Don’t send please. zMarvia"
+   }
+  ],
+  "ESCEPTICISMO.precaucion_dosis": [
+   {
+    "id": "R3MJAENSP3S6QH",
+    "est": 3,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "Bottle lid and seal broken... Left mess all over my front porch, and dripped through my house. Half the bottle gone... I tired it regardless.. Just a tiny amount... Very bitter, even in drink... I had an unpleasant reaction... Nausea and vilotent vomiting."
+   },
+   {
+    "id": "R13WHFCA5AGK29",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Img this taste is horrible! I'm just glad I didn't gag. If you don't have a doppler, I suggest you get one because it will spill out trying to put it in a tablespoon.I would also say, just take it immediately. Don't go back and forth, trying to take it because the taste is horrendous. Push it down one time."
+   },
+   {
+    "id": "R1WNBBRNQOC7T2",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "There is definitely a bitter taste, but it is an excellent gut improvement since I started using it. I cut back from 2 tablespoons to one and a half tablespoon seems to work good for me. I mix it in water. The taste is not unbearable and I’ve come to actually enjoy the flavor."
+   },
+   {
+    "id": "RXT5JYEICD9K4",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "It tastes horrible but after 5 days, I am starting to notice a change in my stomach and how I feel. I make a tea out of it, using the juice of 1/2 lemon, 2 tbsp of the Soursop, and a tsp of vanilla. I add my hot water and drink it that way. It goes down a little easier."
+   }
+  ],
+  "EMOCION.sorpresa_positiva": [
+   {
+    "id": "R1D3WOGFN6LR7P",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This stuff is amazing! I use to itch so bad at night now after taking this for 5 days I don’t itch anymore, I’m not as bloated I’ve been going to the bathroom regularly. The taste is horrible but I bite a lemon after I take it and that helps a lot. I can’t wait to see the full results."
+   },
+   {
+    "id": "R39SPLG6IIR2Z4",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "Good product,it definitely works. I didn't feel bloated but I still look bloated even after going to the bathroom 3-5 times a day. But overall good. It definitely cleans u out. The taste is not amazing but I chase it with one of my favorite drinks."
+   },
+   {
+    "id": "R1RIQFBQ84FHFN",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Whoa!! Super fast shipping.. I think I was a little too excited bc as soon as I got it outa the box I was measuring it out and down the hatch it went.. and holy hell it tastes horrible!!! But no complaints! It just tastes like vitamins.. and surprisingly when you drink it in orange juice you it’s very good!"
+   },
+   {
+    "id": "R3AKFO0M13G2Y5",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "It is amazing product, my belly is smaller. I feel less tired. Highly recommend"
+   }
+  ],
+  "EMOCION.alivio": [
+   {
+    "id": "R2OABIIS3LFC9T",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I bought this couple days ago, i been taking it for two days straight. And since then i haven't left the toilet. This really works. I have more bowel movements, i don't feel bloated. I feel so relief and lightweight. I love it. be buying more of this soon."
+   },
+   {
+    "id": "R2U6PHDGIDX8FW",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I heard so much about the product. I tried it and it really work. I felt so light. I did the 14days.The best thing I ever done. Stomach is much flatter. Energy is back. Great product."
+   },
+   {
+    "id": "R2IPL5Q9YQ78GA",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This is the best thing I have ever taken, and trust me I have taken everything! Prescription meds don’t even work for me! Soursop started working within a hour and continued for a week! Trust me it’s the worse stuff you will ever taste I mixed 2 TBS with 4 ounces of grape juice and it was fine!"
+   },
+   {
+    "id": "R2WBH7F65F7D6P",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "The taste is horrible it tells your inward parts to wake up & I became excited when I finally went to the Lou, I will tell you more when I finish the first bottle.\nIt’s took me 4 days to almost get use to the taste."
+   }
+  ],
+  "EMOCION.duda_inicial": [
+   {
+    "id": "R20L6WTNY3AJEG",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "At first I was skeptical. I gave it a month and babyyyy let me tell you this combo works like magic. I’m about to submit my second order. The taste is not gonna be sweet it’s bitters it’s supposed to have a bitter taste.You will get used to the taste its worth the purchase. Thank me later."
+   },
+   {
+    "id": "R2NV8VS0ZH3NTH",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "I was skeptical but this stuff works. I took me taking it for two days before I noticed feeling less bloated. Taste is bad but just chase it with a drink and you’re all good. Definitely worth it!!!"
+   },
+   {
+    "id": "RLKQ1AFTU4YD",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "This stuff cleans you out just like it says. I was a little skeptical at first but I had been constipated for a long time and using stool softeners. I decided to try it about four months ago. After about 24-48 hours I started having regular bowel movements again."
+   },
+   {
+    "id": "R2W2U1XX0J7GM9",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This is a true cleanser, I bought it and 1 day after taking it I felt the difference in my gut. I felt lighter. Before using Serene Herbs Soursop Bitters I would feel very bloated. I done feel that way anymore. It has made a great impact in my gut. I would recommend this bitters without hesitation."
+   }
+  ],
+  "EMOCION.frustracion": [
+   {
+    "id": "R1X7O5A93B639E",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "I was misled that these were in glass bottles. So I purchased a set of 3 bottles! They all came in PLASTIC BOTTLES. If you’re okay with drinking microplastics, this product is for you. It’s such a waste of potentially a good product. The plastic ruined it for me."
+   },
+   {
+    "id": "R18DVLLSJZ9Y8G",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I have ordered this product many times from this company. It arrived on a glass bottle and was extremely bitter, as it is suppose to be, for potency.  This set was in plastic bottles and watered down. Fool me once shame on you, fool me twice, shame on me.DO NOT ORDER THIS SETWASTE OF $$"
+   },
+   {
+    "id": "R32NV2I90UB9TT",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I’m going to be completely honest it tastes bitter but I believe it’s working. I use with juice to make it easier for me to swallow with gagging. It has reduced my inflammation and support get health."
+   },
+   {
+    "id": "RNTXIOCQM9EYH",
+    "est": 1,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I couldn't give you 5 star bcoz I was so happy when the first time i order 2 soursop bitters I tried i and i was so happy bcoz my body feels ligh no heavy and I got alot energy the I order a pack 2 and pack 3 but this time the product is weak and I don't have the same results like the first 2 so disappointing"
+   }
+  ],
+  "EMOCION.miedo_cuidado": [
+   {
+    "id": "R2SVJSFDE8MAC1",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "bundle",
+    "texto": "The taste is awful but the product works like a charm it cleaned all I had in my stomach that was stuck , another down fall is the cramps you get before going to the rest room is uncomfortable, but again is a great product and does the job well"
+   },
+   {
+    "id": "R115OWMYHMNX62",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "No se pudo cargar el archivo multimedia.\n                \n            \n                \n            \n            \n        \n    \n    \n\n\n\n\n\n\n\n\n  \n    Warning it doesn’t taste good but it’s so good for the body overall health"
+   },
+   {
+    "id": "R24UH1NZ6V62B8",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I have only been using this product for a week so am afraid to be too definite about its effectiveness. I am hoping it will help with chemo side effects (stomach issues). Not sure yet, though. I was told it doesn’t taste good and that’s true. But, it is drinkable in hot water with lemon."
+   },
+   {
+    "id": "R1J2KX72T8E97W",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "This product works very well with helping your body eliminateAfter reading reviews, there was some concern that this products can cause Alzheimer’s, so I will stop using it"
+   }
+  ],
+  "EMOCION.recompra": [
+   {
+    "id": "R2AV54USBT1AOB",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "Taste as horrible as advertised but was very good with helping my gut balance. In a week my stomach was flatter and less bloated looking. Its texture is grainy and even though I didn’t mix it I would recommend that for anyone who can’t get past the taste. I will for sure buy again."
+   },
+   {
+    "id": "R6C74Y320JHFP",
+    "est": 4,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "Although I reordered the same product there was a distinct difference between the initial product and the last product I ordered. The last product I received lacked the same consistency as the first."
+   },
+   {
+    "id": "RORXA84V14A4W",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I ordered this back in October 2025 and it was good but when I reordered it at the end of January it was watered down and upset my stomach so I won’t order this again. Apparently they changed the recipe for the worst."
+   },
+   {
+    "id": "R22OB4CG1QEXK1",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "The product is bitter as expected, it flushed my colon as advertised and it takes a lot less food to make me full. I’ve lost 15-20 lbs since I’ve started using it. Will definitely buy again."
+   }
+  ],
+  "USO.primer_dia": [
+   {
+    "id": "R6C8H1Q4NY52P",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "blackseed_solo",
+    "texto": "I brought this 2 times. The first time it was extra bitter. I had to drink it with juice. Second time it was much better. Helps the gut and with bowel movements."
+   },
+   {
+    "id": "R15RDJ7FRA7UWC",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "It definitely work !!!!!\nI took 2 table spoon that night. The next day i woke up , i had a bowel movement. I saw parasites all over my stool. They were white looking and long. First time seeing this. Then, i noticed a burst of energy and awareness. It definitely work! Highly recommend it 🙂"
+   },
+   {
+    "id": "RNTXIOCQM9EYH",
+    "est": 1,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I couldn't give you 5 star bcoz I was so happy when the first time i order 2 soursop bitters I tried i and i was so happy bcoz my body feels ligh no heavy and I got alot energy the I order a pack 2 and pack 3 but this time the product is weak and I don't have the same results like the first 2 so disappointing"
+   },
+   {
+    "id": "R318OWFLH0XN5A",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "all I can say about this product is OMG  it works wonders I feel super light after the first time in the bathroom and lighter each and every time after that thank you TK for your vision I'm on my second set I wouldn't ran out of this product"
+   }
+  ],
+  "USO.mañana_ayunas": [
+   {
+    "id": "R2SYPRPZG58TE5",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "This stuff is great, I drink it every morning on an empty stomach for the past almost 1 month, I have noticed no acid reflux anymore, I add mexican sauce to my tacos and nothing, I feel good. I do notice slight more energy during the day, but I notice less pain on my back, and legs. Go get you some."
+   },
+   {
+    "id": "R11Q7O86IS7FM3",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "So far this stuff does as advertised. My husband and I have been taking it like a shot in the morning. It doesn’t taste great but it goes down easier than a shot of tequila (that’s what I tell myself anyway lol). It really does clean you out and helps with energy."
+   },
+   {
+    "id": "R2VTFDF78HRL3Z",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "It’s very nasty but it works! I took 2tbl spoons of each first thing in the morning in an empty stomach and saw results and same week!! Very  effective! It helps to eat clean, I also see a difference in my appetite."
+   },
+   {
+    "id": "R11SJD72HO9AKP",
+    "est": 1,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I've been aking this product off and on for the last month, and took it out this morning and realized mold has grown on the top! I last took it about 3 days ago and I am disgusted!"
+   }
+  ],
+  "USO.noche": [
+   {
+    "id": "R1D3WOGFN6LR7P",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This stuff is amazing! I use to itch so bad at night now after taking this for 5 days I don’t itch anymore, I’m not as bloated I’ve been going to the bathroom regularly. The taste is horrible but I bite a lemon after I take it and that helps a lot. I can’t wait to see the full results."
+   },
+   {
+    "id": "R15FAT315P9YYT",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I've been taking for 2 months. I've been taking only weekends because you need a bathroom near by. I've noticed a better skin complexion, less bloating and better sleep at night. Note: I've also changed my diet and eat cleaner foods less sugar."
+   },
+   {
+    "id": "R15RDJ7FRA7UWC",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "It definitely work !!!!!\nI took 2 table spoon that night. The next day i woke up , i had a bowel movement. I saw parasites all over my stool. They were white looking and long. First time seeing this. Then, i noticed a burst of energy and awareness. It definitely work! Highly recommend it 🙂"
+   },
+   {
+    "id": "R33AUZ9QNKY4FE",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "I take it daily and it definitely cleanses my digestive system. I take the daily recommended 2 tablespoons after my meal, usually dinner and before bedtime I'm having a massive bowel movement. It also suppresses my appetite too. These are my personal experiences, that doesn't mean it will affect you the same way."
+   }
+  ],
+  "USO.diluido": [
+   {
+    "id": "RETVKF50NZ899",
+    "est": 4,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "First taste was harsh but mixed with some water it is very drinkable. But best of all, the immense swelling in my left ankle disappeared in a couple of days. Saving trips to the doctor and continued pain. (See before & after photos below) I don’t know why or how, but for me at least it works great."
+   },
+   {
+    "id": "R3KW4XINSGE4ZY",
+    "est": 4,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "My mother has been taking it for a week so far and has noticed increased energy and has wanted to eat healthier. Hee digestion is improving and she has lost weight. The taste is bitter but since you can mix it with juice or anything you want really, getting it down isn’t a problem."
+   },
+   {
+    "id": "R39ITTL071W3GH",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "I like that it has multiple herbs however you have to quickly take a shot of it followed by some juice or honey 🍯 because the taste 👅 is awful but you will get past it, it leaves a taste of grapefruit in your mouth 👄 but you will eliminate at least twice a day . Not ASAP but throughout the day 😊 good product🌹"
+   },
+   {
+    "id": "R11Q7O86IS7FM3",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "soursop_solo",
+    "texto": "So far this stuff does as advertised. My husband and I have been taking it like a shot in the morning. It doesn’t taste great but it goes down easier than a shot of tequila (that’s what I tell myself anyway lol). It really does clean you out and helps with energy."
+   }
+  ],
+  "USO.semanas": [
+   {
+    "id": "R2SYPRPZG58TE5",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "This stuff is great, I drink it every morning on an empty stomach for the past almost 1 month, I have noticed no acid reflux anymore, I add mexican sauce to my tacos and nothing, I feel good. I do notice slight more energy during the day, but I notice less pain on my back, and legs. Go get you some."
+   },
+   {
+    "id": "R1D3WOGFN6LR7P",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "This stuff is amazing! I use to itch so bad at night now after taking this for 5 days I don’t itch anymore, I’m not as bloated I’ve been going to the bathroom regularly. The taste is horrible but I bite a lemon after I take it and that helps a lot. I can’t wait to see the full results."
+   },
+   {
+    "id": "R2BRGF8R8EECQ8",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "For me its been 7 days. Taste isn't as bad as i thought but i like bitters. I had 3 days of the hot stomach then it stopped. Have had regular bowel movements, nothing like the scary pictures and ive lost about 5 lbs."
+   },
+   {
+    "id": "RXT5JYEICD9K4",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "It tastes horrible but after 5 days, I am starting to notice a change in my stomach and how I feel. I make a tea out of it, using the juice of 1/2 lemon, 2 tbsp of the Soursop, and a tsp of vanilla. I add my hot water and drink it that way. It goes down a little easier."
+   }
+  ],
+  "USO.dias_rapido": [
+   {
+    "id": "R13WHFCA5AGK29",
+    "est": 5,
+    "gen": "Mujer",
+    "prod": "bundle",
+    "texto": "Img this taste is horrible! I'm just glad I didn't gag. If you don't have a doppler, I suggest you get one because it will spill out trying to put it in a tablespoon.I would also say, just take it immediately. Don't go back and forth, trying to take it because the taste is horrendous. Push it down one time."
+   },
+   {
+    "id": "R15RDJ7FRA7UWC",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "soursop_solo",
+    "texto": "It definitely work !!!!!\nI took 2 table spoon that night. The next day i woke up , i had a bowel movement. I saw parasites all over my stool. They were white looking and long. First time seeing this. Then, i noticed a burst of energy and awareness. It definitely work! Highly recommend it 🙂"
+   },
+   {
+    "id": "RUZNG7M6IDJO",
+    "est": 5,
+    "gen": "Hombre",
+    "prod": "soursop_solo",
+    "texto": "Soursop Bitters is an Excellent product! I highly recommend this Soursop Bitters. It works overnight to detox gut and restore vitality (energy). It does awesome work for optimal digestive health."
+   },
+   {
+    "id": "R3AQF4QL77BAC7",
+    "est": 5,
+    "gen": "No claro",
+    "prod": "bundle",
+    "texto": "I placed this order got it 3 hours later how amazing this stuff right here dude I drank 1 tablespoons each bottle in the AM and b4 bed and I see and feelA huge difference I also take baking soda pills the and eat about 2 tablespoons of papi sea moss gels in am and night what a change I feel great this product works"
+   }
+  ]
+ },
+ "logodds_5_vs_1": {
+  "n_pos": 1393,
+  "n_neg": 791,
+  "pos": [
+   [
+    "wellness",
+    35,
+    0,
+    3.72
+   ],
+   [
+    "powerful",
+    25,
+    0,
+    3.38
+   ],
+   [
+    "favorite",
+    17,
+    0,
+    3.0
+   ],
+   [
+    "cleanse",
+    81,
+    2,
+    2.98
+   ],
+   [
+    "gmo",
+    16,
+    0,
+    2.94
+   ],
+   [
+    "combination",
+    16,
+    0,
+    2.94
+   ],
+   [
+    "tonic",
+    14,
+    0,
+    2.81
+   ],
+   [
+    "keeps",
+    14,
+    0,
+    2.81
+   ],
+   [
+    "journey",
+    14,
+    0,
+    2.81
+   ],
+   [
+    "dinner",
+    14,
+    0,
+    2.81
+   ],
+   [
+    "works",
+    395,
+    18,
+    2.81
+   ],
+   [
+    "thanks",
+    13,
+    0,
+    2.74
+   ],
+   [
+    "addition",
+    13,
+    0,
+    2.74
+   ],
+   [
+    "sluggish",
+    12,
+    0,
+    2.66
+   ],
+   [
+    "vegan",
+    11,
+    0,
+    2.58
+   ],
+   [
+    "self",
+    11,
+    0,
+    2.58
+   ],
+   [
+    "moringa",
+    11,
+    0,
+    2.58
+   ],
+   [
+    "cleanses",
+    11,
+    0,
+    2.58
+   ],
+   [
+    "gives",
+    32,
+    1,
+    2.53
+   ],
+   [
+    "holistic",
+    10,
+    0,
+    2.49
+   ],
+   [
+    "ginger",
+    10,
+    0,
+    2.49
+   ],
+   [
+    "balanced",
+    10,
+    0,
+    2.49
+   ],
+   [
+    "digestion",
+    107,
+    5,
+    2.48
+   ],
+   [
+    "improved",
+    28,
+    1,
+    2.4
+   ],
+   [
+    "belly",
+    28,
+    1,
+    2.4
+   ]
+  ],
+  "neg": [
+   [
+    "disappointing",
+    0,
+    26,
+    -4.57
+   ],
+   [
+    "unfortunately",
+    0,
+    21,
+    -4.35
+   ],
+   [
+    "disappointed",
+    2,
+    82,
+    -4.17
+   ],
+   [
+    "orders",
+    0,
+    16,
+    -4.08
+   ],
+   [
+    "return",
+    1,
+    47,
+    -4.08
+   ],
+   [
+    "seal",
+    0,
+    13,
+    -3.88
+   ],
+   [
+    "cheap",
+    0,
+    12,
+    -3.8
+   ],
+   [
+    "recent",
+    0,
+    12,
+    -3.8
+   ],
+   [
+    "watered",
+    4,
+    93,
+    -3.72
+   ],
+   [
+    "purchases",
+    0,
+    10,
+    -3.62
+   ],
+   [
+    "plastic",
+    9,
+    158,
+    -3.6
+   ],
+   [
+    "returning",
+    0,
+    8,
+    -3.41
+   ],
+   [
+    "batch",
+    2,
+    29,
+    -3.07
+   ],
+   [
+    "version",
+    1,
+    17,
+    -3.04
+   ],
+   [
+    "weak",
+    1,
+    17,
+    -3.04
+   ],
+   [
+    "broken",
+    3,
+    38,
+    -3.01
+   ],
+   [
+    "refund",
+    3,
+    38,
+    -3.01
+   ],
+   [
+    "opened",
+    1,
+    15,
+    -2.92
+   ],
+   [
+    "seemed",
+    1,
+    15,
+    -2.92
+   ],
+   [
+    "scam",
+    1,
+    14,
+    -2.85
+   ],
+   [
+    "thick",
+    2,
+    23,
+    -2.83
+   ],
+   [
+    "wasted",
+    1,
+    13,
+    -2.78
+   ],
+   [
+    "original",
+    4,
+    36,
+    -2.7
+   ],
+   [
+    "same",
+    22,
+    149,
+    -2.65
+   ],
+   [
+    "previous",
+    3,
+    26,
+    -2.62
+   ]
+  ]
+ },
+ "logodds_mujer_vs_hombre": {
+  "n_pos": 1043,
+  "n_neg": 537,
+  "pos": [
+   [
+    "husband",
+    18,
+    0,
+    2.96
+   ],
+   [
+    "everyday",
+    14,
+    0,
+    2.72
+   ],
+   [
+    "giving",
+    13,
+    0,
+    2.64
+   ],
+   [
+    "consuming",
+    12,
+    0,
+    2.57
+   ],
+   [
+    "favorite",
+    11,
+    0,
+    2.48
+   ],
+   [
+    "suppose",
+    10,
+    0,
+    2.39
+   ],
+   [
+    "needed",
+    10,
+    0,
+    2.39
+   ],
+   [
+    "smells",
+    9,
+    0,
+    2.29
+   ],
+   [
+    "severe",
+    9,
+    0,
+    2.29
+   ],
+   [
+    "write",
+    8,
+    0,
+    2.18
+   ],
+   [
+    "beyond",
+    8,
+    0,
+    2.18
+   ],
+   [
+    "mouth",
+    16,
+    1,
+    1.75
+   ],
+   [
+    "skin",
+    13,
+    1,
+    1.54
+   ],
+   [
+    "pretty",
+    13,
+    1,
+    1.54
+   ],
+   [
+    "nasty",
+    38,
+    4,
+    1.51
+   ],
+   [
+    "dose",
+    21,
+    2,
+    1.5
+   ],
+   [
+    "looked",
+    12,
+    1,
+    1.47
+   ],
+   [
+    "cramping",
+    12,
+    1,
+    1.47
+   ],
+   [
+    "enough",
+    11,
+    1,
+    1.38
+   ],
+   [
+    "told",
+    10,
+    1,
+    1.29
+   ],
+   [
+    "constipation",
+    30,
+    4,
+    1.27
+   ],
+   [
+    "smooth",
+    9,
+    1,
+    1.19
+   ],
+   [
+    "putting",
+    9,
+    1,
+    1.19
+   ],
+   [
+    "minutes",
+    9,
+    1,
+    1.19
+   ],
+   [
+    "liked",
+    9,
+    1,
+    1.19
+   ]
+  ],
+  "neg": [
+   [
+    "wife",
+    1,
+    8,
+    -2.41
+   ],
+   [
+    "own",
+    3,
+    10,
+    -1.78
+   ],
+   [
+    "pleasant",
+    2,
+    6,
+    -1.63
+   ],
+   [
+    "label",
+    3,
+    6,
+    -1.29
+   ],
+   [
+    "orders",
+    3,
+    6,
+    -1.29
+   ],
+   [
+    "colon",
+    5,
+    9,
+    -1.22
+   ],
+   [
+    "delivery",
+    5,
+    9,
+    -1.22
+   ],
+   [
+    "cheap",
+    3,
+    5,
+    -1.12
+   ],
+   [
+    "comments",
+    3,
+    5,
+    -1.12
+   ],
+   [
+    "risk",
+    4,
+    6,
+    -1.04
+   ],
+   [
+    "suggest",
+    4,
+    6,
+    -1.04
+   ],
+   [
+    "else",
+    9,
+    13,
+    -1.03
+   ],
+   [
+    "blood",
+    7,
+    10,
+    -1.01
+   ],
+   [
+    "saying",
+    5,
+    7,
+    -0.98
+   ],
+   [
+    "clearly",
+    6,
+    8,
+    -0.94
+   ],
+   [
+    "life",
+    10,
+    13,
+    -0.93
+   ],
+   [
+    "easily",
+    4,
+    5,
+    -0.87
+   ],
+   [
+    "inconsistent",
+    4,
+    5,
+    -0.87
+   ],
+   [
+    "replacement",
+    4,
+    5,
+    -0.87
+   ],
+   [
+    "effect",
+    9,
+    11,
+    -0.87
+   ],
+   [
+    "probably",
+    5,
+    6,
+    -0.84
+   ],
+   [
+    "size",
+    5,
+    6,
+    -0.84
+   ],
+   [
+    "reason",
+    6,
+    7,
+    -0.81
+   ],
+   [
+    "fine",
+    7,
+    8,
+    -0.8
+   ],
+   [
+    "herb",
+    7,
+    8,
+    -0.8
+   ]
+  ]
+ },
+ "lectura_mujeres": [
+  {
+   "id": "R1Z6GWKQUEV9I7",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "Believe the hype! Gave this to all the members of my household (kids included! I'm not a MD. CONSULT WITH YOUR MEDICAL DOCTOR). My youngest child got 1tbsp diluted in 6oz of juice and the older ages rest the full dose. The youngest I only gave 1 initial dose. The older kids I gave for 2-3 days. Used for a palate cleanser/detox to address kids digestive issues, skin/allergy inflammation, and poor digestive habits and that short period of time was good for my children's health needs. I took it consecutively and emptied the bottle. We all drank plenty of water and learned that if you are not hydrated enough you will be a little more crampier than you'd like. Discomfort of cramps no more than a "
+  },
+  {
+   "id": "RNVBQ6P2Z35P8",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I stumbled across this when I was looking for Living Bitters Tonic or Sulfur Bitters, with either one of these I take easily with a half of orange (not the juice that you get in the store) after taking the bitters I would eat that half of orange & it would cut the taste. So after reading the reviews the biggest issue was the taste, a majority of customers said that it really works ( BUT THE TASTE ), so I got me some orange from Costco & waited for my order, some customers said that they mixed it in juice, I taste it & OMG 😱, I knew the orange by itself wasn’t going to cut it so I mixed it in some mango juice & down it then grabbed the orange, I’ve been drinking Sulfur Bitters since I was a c"
+  },
+  {
+   "id": "R24SSB0GBED0SZ",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I'll keep it short and sweet. I recommend having a chaser nearby when you immediately take this, because this does not taste good at all, but but but, that's the only downside. This stuff works immediately, you will crap your brains out, but you'll feel better than you've ever felt, no more stomach pains, no more bloated feeling, definitely will no longer be backed up, this stuff stays with you. You'll get more bang for your buck! This stuff is worth it! It has plenty of helpful vitamins, it doesn't counteract with diabetic medications at least with mine. Try for yourself, but like I mentioned, you'll need a chaser."
+  },
+  {
+   "id": "R13N9FNPY4ZZ0G",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "Absolutely worth it! This is one of the best natural cleanses I've ever tried. The taste isn't as horrible as other reviews state and the drink is quick. I find the taste of bitter melons worse, but in a way, both reset the pallet. That doesn't mean it tastes good... it is bitter, pungent and potent, but for a small amount, it is worth the wonders. This formulation cleans! Be prepared to go to to bathroom (the first week, it was 2-3 a day). I just generally feel my gut health is better - I'm less foggy and my my energy levels are up. Highly recommend - I just hope they keep the formula as is."
+  },
+  {
+   "id": "R201R45CBNG26E",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "My friend actually told me about it. She said that it actually gets rid of parasites so I bought it, tried it and she wasn’t lying. First time I tried it, I felt my stomach trying to clear out. It made a lot of noise but I knew it was working. It really hit me the second day where everything just flushed out. I feel lighter, full of energy, less bloated and less hungry. I take it around 6pm and wake up the next day having to use the bathroom, that’s usually what works best for me. The one thing is it tastes and smells absolutely disgusting!! I tried mixing it with juice but it was too strong so I just drink it like a shot and chug juice after.\nI’m only doing it for a week because this is a r"
+  },
+  {
+   "id": "R29GQW6R42QNX9",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I bought the berry flavor first and now I have ordered my second bottle. I will be ordering more bottles for my husband and me. The taste is bitter as described. I take it as a tea and sip it slowly. Hot water, vanilla , hibiscus tea and soursop as recommended by Camile Hayes on Facebook. My husband has to add a little honey to get it down. I did not like the taste but prayed that this is good for my body and a must. With God's help I am getting it down. Pros: better sleep, less bloat, calm, and less sugar cravings( I have an extremely sweet tooth) and cravings in general. It is also suppose to help with weight loss and I am waiting to see what happens in that area. Once you can figure out h"
+  },
+  {
+   "id": "R39ZORZII8C2Z2",
+   "est": 4,
+   "prod": "soursop_solo",
+   "texto": "I have been taking soursop for a week now. I have noticed a huge difference in my bloating stomach. It would look like i was 8 mos. pregnant now has shrunk to looking like 4 mos pregnant. I feel so much lighter and energy is better, helps to go to bathroom. I take mine in a small juice glass, i put 2 ounces of orange juice in glass then add 2 tablespoons of soursop stirr and suck it threw a straw real fast till gone. Absolutley no bitter taste this way. I eat 3 grapes to coat my stomach. I would try this it has really helped me! I'm not near as hungry either."
+  },
+  {
+   "id": "R35VMKOM410P35",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "Update as June 28,\nI was nervous taking this because I felt a few cramps, it look gross and taste earthy.\nI take it as a shot and chase it with water.\nMy kids take it too. My teen is a trooper he just takes it but no chase.\n\nThis concoction has been cleaning me out!!!\nThe kids only been just regular a few times a day. No other other effects taking it.\n\nDay one, when I consumed it I felt light headed and aware of my body.\nDay two, I felt like my body was getting acclimated to the effects of the herbs. Bowels was immediate on this day.\nDay three, I went from 1x a day to 3x bowels a day.\nDay four, regular now! No more constipation!\nDay five, Normal self with regular soft bowels.\n\nSo far it has "
+  },
+  {
+   "id": "R1V8S4F21FDYJI",
+   "est": 1,
+   "prod": "bundle",
+   "texto": "Subject: Serious Concern About Product Quality and ConsistencyI am extremely disappointed and frustrated with a recent purchase. I’ve bought this product a total of four times. The first two times, it tasted great—I could clearly recognize the ingredients and appreciated the quality. However, the last two purchases, especially the most recent one, were drastically different. The taste was completely off—nothing like the original. It was like night and day.This raises serious concerns for me. If the product doesn’t taste like it did before, I have no idea what I’m actually consuming. It’s concerning from both a quality and safety standpoint.Amazon needs to do a better job inspecting sellers a"
+  },
+  {
+   "id": "R14BT1P763E2Y4",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "Makes you super regular and I feel has aided my weight loss (in combo with intermittent fasting and working out.) Tastes like actual stomach bile but such is life- I guess if you are one of those adults who can’t do yucky remedies because of the taste maybe this isn’t for you or maybe just get over it because I feel like the health benefits of this are worth it. Definitely give it a good shake other wise all the grainy sentiment will collet at the end- I saw one review complaining that it had gone bad but I think she just forgot to give it a good shake."
+  },
+  {
+   "id": "R17GE0YYA82OBZ",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "This product \"Soursop Bitters\" is a herbal tonic. It is concentrated herbal supplement designed to support digestion. and overall wellness. I take it daily after breakfast, but cit an be taken anytime after a meal. I mix 2 tablespoons of Soursop Bitters with about 4 ounces of my favorite juice because it is very bitter taken alone. This product also promotes detoxing and joint support. I've been taking this for 2 months, and it has really improved my gut health, and had aided my digestion. Soursop Bitters also promotes this product for detoxing and joint support. Since I have only been taking this for 2 months I can't make any claims about detoxing, but I highly recommend this product, as it"
+  },
+  {
+   "id": "R1IYS676KWR1NM",
+   "est": 4,
+   "prod": "soursop_solo",
+   "texto": "I must say that my experience with Soursop has been very favorable. As others have reported, much less bloating, more energy, my skin looks brighter, healthier and I'm much more regular. The taste takes some getting used too, and I now have no problem with it. However upon opening this order, it was not the same taste, it was more watery, less punch. I'll be watching to see if it produces the same results"
+  },
+  {
+   "id": "RZJFK5TJG7UEV",
+   "est": 3,
+   "prod": "soursop_solo",
+   "texto": "I have to say, they got me with the first bottle of this stuff. It was disgusting but it worked. It worked so well that I put this on a once a month subscription.. however, it didn’t last long. The next bottle I got was nothing like the first. The contents (ingredients) were COMPLETELY different!! The first bottle had a dark brown liquid. You could actually see little bitters. I took that and a few hours later it was magic. This next bottle the contents were a milky brown. I took 20 ml as I did with the last bottle and nothing happened. I tried 3 days back to back and nothing. Tried reaching out to Amazon and they denied a replacement. I accidentally forgot to cancel the subscription and got"
+  },
+  {
+   "id": "R13L9073T9MYFB",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "WOWZERS!!!!!!!! Talk about a cleanse!\n\nLet’s back up a bit and get to know me and why I felt compelled to write a review on this product.\n\nI’m almost 47 and have struggled for YEARS with irregular bowels and chronic constipation. It’s been super frustrating lately because to put it bluntly, I CAN’T GO! My stomach will hurt, I’ll get cramps, I’ll have the worst gas (meaning, I have A LOT of gas and it’s 24/7!!), and horrible bloating that is also chronic. If and when I do finally “go”, it’s “incomplete” … if you want to use your imagination on this one. Essentially, I’m extremely backlogged. And NOTHING WORKS for me. Nothing.\n\nI purchased this product the other day, and I’m on day two of taki"
+  },
+  {
+   "id": "R3MWBNTJ50Y7O",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "Serene herbs- Soursop Bitters Liquid is a great appetite suppressant for my household. It helps with bloating, lowers Bp, lowers blood sugar, eliminates fats from your belly, cleanses your guts, energizes the body by feeling fresh and healthy, although it tastes bitter and it makes you go frequently like twice a day, but I take it every other day which works for me. It’s worth the value. I recommended it to some of my family and friends. I like it."
+  },
+  {
+   "id": "R37OAMBCE82S47",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I am very happy with the results of this product so far. It took 3 weeks for me to receive it, so I’m assuming it’s a freshly made batch, the taste is absolutely horrific, but it’s worth that awful taste since it works. I simply pour out a tablespoon amount into an actual measuring spoon and drink it straight up! Fast and furious! There’s no way I’m going to ruin a nice juice or tea with this stuff. Trust me, you’re better off just chugging it down quickly! Stay near a toilet because for the 1st few days you’ll need to be near one to reach it fast when it hits your system. Once you get used to it, I believe you’ll get on a once a morning schedule. Good luck to all you brave constipated peopl"
+  },
+  {
+   "id": "R2Q90N6O77TN4H",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I don’t usually write reviews but I had to come on here and tell you how great this product is. Congratulations to whoever found this formula! If you struggling with using the bathroom, this will solve the problem. It’s not like those tea that give you stomach pain and diarrhea after 8 hours!! This product actually fixes the problem long term ! You will start seeing your digestive system improving overtime. You will be more regular and gives you more energy and clear mind ! It tastes nasty tho, but it’s worth it!"
+  },
+  {
+   "id": "R1E6EG1EMZZ0AV",
+   "est": 5,
+   "prod": "bundle",
+   "texto": "I don’t understand all the complaints about the taste. They’re called bitters for a reason—they’re supposed to taste bitter!\n\nMy second observation is that if you want results, you need to take them as directed. I purchased the Soursop Bitters and Black Seed Bitters combo for $59.99, but if you use Subscribe & Save, it’s only about $50 for the set. That’s an excellent price compared to buying directly from the vendor’s website, where the combo is $69.99 plus tax and shipping (around $72 total). Both bottles are 16 oz, so you get a generous amount.\n\nI watched the owner’s video on a Facebook Ad, and he recommends taking 2 tablespoons of the Soursop Bitters and 2 tablespoons of the Black Seed B"
+  },
+  {
+   "id": "R36JX2YFU6O55U",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "Good product! Great gut cleanser when taken with hot tea or hot coffee but stay near a restroom for a few hrs. It is bitter tasting but putting it in bottle water or juice makes it bearable to drink. I must say I have a lot more energy and better digestion system l don’t feel bloated anymore. Great Great product!! I’ve already purchased two more bottle after only having the first bottle for five days. So it doesn’t sell out when you find out how well it works."
+  },
+  {
+   "id": "R1RMGGVC4WHGAG",
+   "est": 2,
+   "prod": "soursop_solo",
+   "texto": "Very Disappointed — Taste and Smell Are Completely Different\n\nI am extremely disappointed with this order. I am a regular subscriber to this product and am very familiar with its usual distinctive bitter and sour taste. Unfortunately, what I received this time tastes and smells nothing like the original product.\n\nInstead of the familiar bitter-sour taste, this batch had a very strange, unpleasant flavor and odor—almost like juice made from spoiled or rotten vegetables. The difference is so significant that I am honestly afraid to consume it.\n\nAs a repeat customer and subscriber, I would really appreciate an explanation from the manufacturer or seller as to why the taste and smell have change"
+  },
+  {
+   "id": "R3QM2JIPZI3EK5",
+   "est": 1,
+   "prod": "soursop_solo",
+   "texto": "This stuff did not work for me. I brought this stuff thinking it was going to help me have regular bowel movements and go to the bathroom and remove any toxins in my body and it didn’t do any of that. The only thing it did was give me energy for a few hours then I started to crash no running to the bathroom, no sitting on the toilet for hours nothing and I just knew I was going to be on the toilet for hours….no nothing at all. My mom even took it and it didn’t do anything for her don’t believe these people that morning I had my regular bowel movement the next morning like I always do and it wasn’t like a flushed out feeling that they claim and after that haven’t been to the bathroom like the"
+  },
+  {
+   "id": "R1AICU93HGFS99",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I am starting my second week of taking soursop. It certainly lives up to the not so great flavor. It reminds me of bad tea soaked in cigarette butts🤣. The taste is gone in a very short time, which makes it easy to take. I actually squeeze fresh lemon and it’s fine. But seriously, it works. I don’t feel bloated and it seems to curb my appetite. I’m going to recommend this product."
+  },
+  {
+   "id": "R1533OVMX1S7ER",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "We originally thought we did not receive our product and requested a refund. The company was VERY quick to oblige. Days later we found the packed chucked into our bushes and we now feel horrible that you refunded us. This was the Amazon Driver's fault. They normally place packages in our mailbox or at our garage. We are so sorry you refunded us. We want you to know that we have been taking this faithfully for a week now and digestion has improved and inflammation has decreased overall in our bodies. We are only doing half doses right now just to be sure our bodies tolerate it well and so far no negative effects. We will be buying from you again! The bitters are kind of sour but I would say t"
+  },
+  {
+   "id": "R4WC3PQ0OY6F2",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I purchased soursop bitters for weight loss assistance.\nI've been taking about a week. It has helped my appetite. I've been eating much less.\nIt hasn't caused any excess bowel movements, but definitely suppressing my appetite.\nThe taste is very bitter.\nI've been adding 2 tablespoons to my tea each morning after my first meal. The tea helps camouflage the flavor.\nFrom the looks of it, I will most likely purchase again."
+  },
+  {
+   "id": "R18I0TK1JKUHJO",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "This is by far the most amazing product I have ever invested in. Normally when I am constipated i drink some Metamucil with cranberry juice, and I must say it does not work this fast. I was recently in the hospital and they had to give me a suppository because I was constipated. I only was able to use the bathroom very little. But once I got home I had 30ml of this and shortly after I felt it in my gut. This was like a wake up call for my gut. That it was time for a good cleaning. My stomach felt so uncomfortable until I finally went to the restroom. All the removes were not lying. You definitely want to stay close to the bathroom do not take it at night. And preferably take when you do not "
+  },
+  {
+   "id": "R2H4XWU1NTD6PE",
+   "est": 4,
+   "prod": "soursop_solo",
+   "texto": "Ordered mine May 30, received it May 31. I started taking it daily June 3. I have not missed a day and I am pleased with the product. I take it every morning on an empty stomach and chase it with lemon water to cleanse my palate. Within about 8hours I have a full bowel movement (bm). Each bm varies from soft to firm. I think hydration plays a part in this, but it is not diarrhea- like taking some teas & magnesium citrate. I will probably be ordering my 2nd bottle at the end of the week since I'm almost done with the 1st bottle. The pic shows an estimation of the amount I take daily (I eyeball the measurement, so this is a tad more than usual) I use a scoop I kept from protein powder. I've ne"
+  },
+  {
+   "id": "R1IHZX3L57F0JZ",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "I love this Serene Soursop Bitters. The taste wasn't that bad, although it was bitter. However it works right away. It works smoothly and efficiently on your digestive system. It doesn't cause stomach cramping and unexpected bathroom visits, but it will remove and clean you out thoroughly. If you take it regularly everyday after a meal and eat a lot of fresh fruit and vegetables. Also drink a lot of water. You will be happy with the results that it will bring. You will have a flat stomach, have more energy, eliminating bloating and gas. This Serene Soursop Bitters is definitely a high quality detox cleanse that will work for you and help your immune system."
+  },
+  {
+   "id": "RPQBX1PI9VY4H",
+   "est": 5,
+   "prod": "bundle",
+   "texto": "A Divine Blend of Wellness and Vitality!The Serene Black Seed Bitters and Soursop Bitters have completely transformed my wellness routine! From the very first sip, I could tell this was something special crafted with care, packed with nature’s finest ingredients, and full of life-giving benefits.The Serene Black Seed Bitters are smooth yet potent, with that unmistakable earthy richness of black seed. I feel a clean, lasting energy boost without the crash, and my digestion has never been better. It’s as if my body is waking up from the inside out.The Soursop Bitters bring a refreshing tang with just the right touch of bitterness invigorating yet soothing. I’ve noticed clearer skin, a lighter "
+  },
+  {
+   "id": "RUSS6VAXD93MR",
+   "est": 4,
+   "prod": "soursop_solo",
+   "texto": "The taste makes me give it a 4 at the beginning. The best way to take it is at night. Take has a shot them chaser immediately with nighttime tea. Depending on what time you want to wake up. I took a 6pm and was up by 230am. First two funky smelling gas pasted. 1 by 8p and the other by 915 is the other. 230a i was letting loose.\n\nI'm not a sell rep and I was. I would still be honest and say what I said. Plus more.... 😆 My mother used to say \" it might taste nasty but it's good for you\". Growing up the cough medicine she gave me OMG. Then Buckley came out that taste worse than this product.\n\nYou will see all types of reviews. Know this just like anything else. Some might work on others the fir"
+  },
+  {
+   "id": "R1KVNB5SX320TF",
+   "est": 5,
+   "prod": "soursop_solo",
+   "texto": "It is truly distasteful! But works!\nI took it everyday for 2 weeks. I added a walk for 15 mins to my nightly routine. I did not take my blood pressure medicine only for those 2 weeks (as online warnings suggested it could bring your blood pressure down) DON'T TRY THIS!\nSide effect was light cramping as bowl was moving through the intestines, so I understood. But you will need to not overeat and drink water after taking it. I found, that aides in the detox. I like that is was a natural progression in clearing the waste out. I had one bout of diarrhea in the whole 2 weeks, and that could have been something I ate, not sure. But reviews said some things about long term use. So, as a 2week detox"
+  }
+ ],
+ "coocurrencia_dolor_probo": {
+  "hinchazon": {
+   "fibra": 0,
+   "laxantes_otc": 9,
+   "probioticos": 0,
+   "dieta_agua": 12,
+   "doctor": 6,
+   "remedios_naturales": 40,
+   "tried_everything": 2
+  },
+  "estrenimiento": {
+   "fibra": 1,
+   "laxantes_otc": 10,
+   "probioticos": 0,
+   "dieta_agua": 5,
+   "doctor": 7,
+   "remedios_naturales": 14,
+   "tried_everything": 4
+  },
+  "digestion_general": {
+   "fibra": 4,
+   "laxantes_otc": 18,
+   "probioticos": 2,
+   "dieta_agua": 24,
+   "doctor": 13,
+   "remedios_naturales": 113,
+   "tried_everything": 9
+  },
+  "energia": {
+   "fibra": 1,
+   "laxantes_otc": 3,
+   "probioticos": 0,
+   "dieta_agua": 9,
+   "doctor": 8,
+   "remedios_naturales": 59,
+   "tried_everything": 3
+  },
+  "detox_limpieza": {
+   "fibra": 0,
+   "laxantes_otc": 13,
+   "probioticos": 0,
+   "dieta_agua": 23,
+   "doctor": 8,
+   "remedios_naturales": 61,
+   "tried_everything": 7
+  }
+ },
+ "coocurrencia_dolor_queja": {
+  "hinchazon": {
+   "sabor": 120,
+   "urgencia_calambres": 41,
+   "plastico_aguado": 31,
+   "suscripcion_cobro": 9,
+   "falso_envio": 16,
+   "no_funciono": 11,
+   "senna_laxante": 9,
+   "precio": 8
+  },
+  "estrenimiento": {
+   "sabor": 44,
+   "urgencia_calambres": 27,
+   "plastico_aguado": 14,
+   "suscripcion_cobro": 6,
+   "falso_envio": 3,
+   "no_funciono": 5,
+   "senna_laxante": 9,
+   "precio": 3
+  },
+  "digestion_general": {
+   "sabor": 342,
+   "urgencia_calambres": 104,
+   "plastico_aguado": 74,
+   "suscripcion_cobro": 15,
+   "falso_envio": 24,
+   "no_funciono": 33,
+   "senna_laxante": 18,
+   "precio": 19
+  },
+  "energia": {
+   "sabor": 148,
+   "urgencia_calambres": 30,
+   "plastico_aguado": 27,
+   "suscripcion_cobro": 6,
+   "falso_envio": 12,
+   "no_funciono": 13,
+   "senna_laxante": 4,
+   "precio": 8
+  },
+  "detox_limpieza": {
+   "sabor": 159,
+   "urgencia_calambres": 58,
+   "plastico_aguado": 44,
+   "suscripcion_cobro": 4,
+   "falso_envio": 12,
+   "no_funciono": 20,
+   "senna_laxante": 13,
+   "precio": 9
+  }
+ },
+ "coocurrencia_dolor_estrellas": {
+  "hinchazon": {
+   "1": 12,
+   "2": 13,
+   "3": 6,
+   "4": 26,
+   "5": 178
+  },
+  "estrenimiento": {
+   "1": 7,
+   "2": 6,
+   "3": 6,
+   "4": 7,
+   "5": 67
+  },
+  "digestion_general": {
+   "1": 45,
+   "2": 31,
+   "3": 40,
+   "4": 54,
+   "5": 546
+  },
+  "energia": {
+   "1": 10,
+   "2": 7,
+   "3": 13,
+   "4": 18,
+   "5": 239
+  },
+  "detox_limpieza": {
+   "1": 15,
+   "2": 12,
+   "3": 26,
+   "4": 28,
+   "5": 278
+  },
+  "peso_antojos": {
+   "1": 11,
+   "2": 6,
+   "3": 9,
+   "4": 16,
+   "5": 150
+  },
+  "inmunidad": {
+   "1": 8,
+   "2": 4,
+   "3": 3,
+   "4": 5,
+   "5": 51
+  },
+  "piel_pelo": {
+   "1": 4,
+   "2": 1,
+   "3": 2,
+   "4": 5,
+   "5": 23
+  },
+  "sueno_estres": {
+   "1": 1,
+   "2": 2,
+   "3": 3,
+   "4": 5,
+   "5": 38
+  },
+  "dolor_inflamacion": {
+   "1": 10,
+   "2": 4,
+   "3": 4,
+   "4": 8,
+   "5": 87
+  },
+  "azucar_presion": {
+   "1": 7,
+   "2": 2,
+   "4": 3,
+   "5": 20
+  },
+  "hormonas_edad": {
+   "1": 1,
+   "2": 3,
+   "3": 3,
+   "4": 2,
+   "5": 11
+  },
+  "cancer_grave": {
+   "1": 1,
+   "4": 1,
+   "5": 4
+  }
+ }
+}

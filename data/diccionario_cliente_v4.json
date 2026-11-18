@@ -1,0 +1,7723 @@
+{
+ "_meta": {
+  "fuente": "03_Serene-Soursop/datos/reviews_bundle_soursop_bitters_v4.xlsx",
+  "resenas": 1271,
+  "por_estrellas": {
+   "1": 342,
+   "2": 102,
+   "3": 99,
+   "4": 120,
+   "5": 608
+  },
+  "por_genero_estimado": {
+   "No claro": 513,
+   "Hombre": 292,
+   "Mujer": 466
+  },
+  "nota": "Genero estimado (nombre/texto), aproximado. Conteo = resenas distintas que mencionan el grupo. Coincidencias por regex: pueden incluir falsos positivos (p. ej. bitter como nombre del producto)."
+ },
+ "categorias": {
+  "dolor_sintoma": {
+   "estrenimiento": {
+    "resenas": 15,
+    "por_estrellas": {
+     "1": 2,
+     "2": 0,
+     "3": 1,
+     "4": 3,
+     "5": 9
+    },
+    "por_genero": {
+     "No claro": 9,
+     "Mujer": 4,
+     "Hombre": 2
+    },
+    "terminos_top": [
+     [
+      "constipation",
+      12
+     ],
+     [
+      "constipated",
+      3
+     ],
+     [
+      "can't go",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R16BKTHKJ1GJJT",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "I’m usually very constipated."
+     },
+     {
+      "id": "R1E6EG1EMZZ0AV",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I’m no longer constipated or bloated, and I’ve lost my vacation weight—and then some!"
+     },
+     {
+      "id": "R1M98LAQBWSUTN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Stool was mostly hard like I was constipated."
+     },
+     {
+      "id": "R281R6UMCRTQBL",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Taste like crud and dosent do anything except cause constipation!"
+     },
+     {
+      "id": "R30FT2G66YNYO9",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "Even though it has helped with slow digestion and constipation I would not recommend because of flavor."
+     },
+     {
+      "id": "R3966A87X3UZ2L",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "So taking them both together for my gut and constipation."
+     },
+     {
+      "id": "RDZFKFOYAD7C5",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "The results aren’t the same, leading to more bloating and constipation."
+     }
+    ]
+   },
+   "hinchazon_gases": {
+    "resenas": 76,
+    "por_estrellas": {
+     "1": 8,
+     "2": 5,
+     "3": 2,
+     "4": 11,
+     "5": 50
+    },
+    "por_genero": {
+     "No claro": 37,
+     "Mujer": 27,
+     "Hombre": 12
+    },
+    "terminos_top": [
+     [
+      "bloating",
+      51
+     ],
+     [
+      "bloated",
+      22
+     ],
+     [
+      "gas",
+      9
+     ],
+     [
+      "gassy",
+      5
+     ],
+     [
+      "bloat",
+      3
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R3M9VO38ZSQGUY",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I’m feeling less bloated and gassy, which was my main concern when I started."
+     },
+     {
+      "id": "R11KA1IDHV2IJI",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Bloat is gone but do your research first!."
+     },
+     {
+      "id": "R18ZK2QBSD2EI5",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "The first two bottles I had were great , I did not need to be by the bathroom but my bloating and water retention diminished and over quality felt great!"
+     },
+     {
+      "id": "R1M98LAQBWSUTN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "When I changed and started taking it after the last meal of day, it helped some but did have gassy stomach pain by morning."
+     },
+     {
+      "id": "R1Q167AL1S2ZX9",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Feeling less bloated andnow complete bowel movements.The taste is not as bad as I had been told."
+     },
+     {
+      "id": "R1T4G0ZC8AUTUY",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "3rd it was really efficient for gas."
+     },
+     {
+      "id": "R23L076Q6HY4OL",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "It tastes like you're drinking gas ⛽️ 🤣 i can't ."
+     },
+     {
+      "id": "R2Y8RFBDLX1DAT",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Amazon purchase made my stomach feel bloated and burning."
+     }
+    ]
+   },
+   "digestion_estomago": {
+    "resenas": 254,
+    "por_estrellas": {
+     "1": 26,
+     "2": 5,
+     "3": 11,
+     "4": 21,
+     "5": 191
+    },
+    "por_genero": {
+     "No claro": 105,
+     "Hombre": 51,
+     "Mujer": 98
+    },
+    "terminos_top": [
+     [
+      "gut",
+      98
+     ],
+     [
+      "digestion",
+      78
+     ],
+     [
+      "stomach",
+      68
+     ],
+     [
+      "digestive",
+      45
+     ],
+     [
+      "bowel",
+      25
+     ],
+     [
+      "belly",
+      11
+     ],
+     [
+      "tummy",
+      10
+     ],
+     [
+      "colon",
+      10
+     ],
+     [
+      "intestines",
+      5
+     ],
+     [
+      "digestión",
+      4
+     ],
+     [
+      "intestine",
+      3
+     ],
+     [
+      "digest",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RFGQ72DNBH34O",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "I brought this for helping with my gut health and to shrink this tummy… I have been feeling like my tummy has gone down but haven’t really weighed in to see."
+     },
+     {
+      "id": "R1KDTTC9ZC3PL1",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Each 16oz bottle is packed with potent, natural ingredients — no fillers or artificial junk — just pure, concentrated herbal goodness.I’ve noticed a real improvement in my digestion and overall gut comfort since I started using it daily."
+     },
+     {
+      "id": "R21DOCMN94OUQ4",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "Effectively at cleansing the intestine just like Halleys colon tea.Its definitely overpriced."
+     },
+     {
+      "id": "R2M5FJCDFL7FZN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Title: Great results for digestion, but the taste is challengingI’ve been taking this daily and have definitely noticed a real improvement in my digestion, specifically with decreased bloating and constipation."
+     },
+     {
+      "id": "R107MGRADSCJG6",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I remember the first 2 times I purchased, I felt amazing and had healthy and absolutely amazing bowel movements, blood pressure had dropped immensely."
+     },
+     {
+      "id": "R11L3MM91YO7WG",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "The true product has a strong effect on the stomach and I react to it easily."
+     },
+     {
+      "id": "R11VG69B2F9A81",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "It only works if you do the recommended dosage, this has not once sent me to the restroom, but I do believe it does work on your gut I have seen results there, but for that I think I'll switch over to the pill form, the taste is not worth it!!!"
+     },
+     {
+      "id": "R15SLOKQRV4FET",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "It helps gut health and I flatiron."
+     }
+    ]
+   },
+   "acidez_reflujo": {
+    "resenas": 8,
+    "por_estrellas": {
+     "1": 1,
+     "2": 2,
+     "3": 0,
+     "4": 3,
+     "5": 2
+    },
+    "por_genero": {
+     "No claro": 5,
+     "Mujer": 2,
+     "Hombre": 1
+    },
+    "terminos_top": [
+     [
+      "acid",
+      3
+     ],
+     [
+      "heartburn",
+      3
+     ],
+     [
+      "acid reflux",
+      2
+     ],
+     [
+      "gerd",
+      1
+     ],
+     [
+      "reflux",
+      1
+     ],
+     [
+      "acidic",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R16BKTHKJ1GJJT",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Taste is horrific and it gives me heartburn."
+     },
+     {
+      "id": "R17NFM226S599E",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I had problems with ingesting, I go to bed with sour stomach n heartburn."
+     },
+     {
+      "id": "R18O0291GZP56B",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "I used to force down water mixed with baking soda in order to help my acid reflux, now THAT tastes bad."
+     },
+     {
+      "id": "R1RUIQM5ZSPS8C",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Good if you don’t have acid issues."
+     },
+     {
+      "id": "R2J2OKOV8JWEI5",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "It taste like stomach acid."
+     },
+     {
+      "id": "R2MNF36YP0I1N0",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "This order of soursop bitters was packaged different and taste very acidic and spicey."
+     },
+     {
+      "id": "RNV5EZN5HRJZC",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Gave me reflux, which I dont usually have.."
+     }
+    ]
+   },
+   "diarrea_nausea": {
+    "resenas": 27,
+    "por_estrellas": {
+     "1": 8,
+     "2": 4,
+     "3": 3,
+     "4": 2,
+     "5": 10
+    },
+    "por_genero": {
+     "Hombre": 5,
+     "Mujer": 13,
+     "No claro": 9
+    },
+    "terminos_top": [
+     [
+      "diarrhea",
+      9
+     ],
+     [
+      "cramping",
+      8
+     ],
+     [
+      "cramps",
+      5
+     ],
+     [
+      "nausea",
+      4
+     ],
+     [
+      "threw up",
+      3
+     ],
+     [
+      "vomit",
+      3
+     ],
+     [
+      "cramp",
+      2
+     ],
+     [
+      "vomited",
+      1
+     ],
+     [
+      "loose stool",
+      1
+     ],
+     [
+      "nauseous",
+      1
+     ],
+     [
+      "upset stomach",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R2OFS0DRYR4BER",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "About 5 hours later I had excruciating cramping, nausea and headache/dizziness, I felt  unwell."
+     },
+     {
+      "id": "RCM405SM54N99",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "Diarrhea severe cramping."
+     },
+     {
+      "id": "RWQG1IPRWJRA1",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "It may cause nausea and diarrhea."
+     },
+     {
+      "id": "R11KA1IDHV2IJI",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It was concerning for me because I started to get lightheaded and nauseous by the end of the week."
+     },
+     {
+      "id": "R1AX453MQQ1DIS",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "This product will clean you out, no your stomach willNot cramp."
+     },
+     {
+      "id": "R20ZPHQVV7TA4X",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "I took one spoonful of it and threw up."
+     },
+     {
+      "id": "R2C7KI9DXG60CR",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I threw up trying to take it."
+     },
+     {
+      "id": "R2TKH6JMBFTH3",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "It makes me extremely nausea."
+     }
+    ]
+   },
+   "dolor_inflamacion": {
+    "resenas": 37,
+    "por_estrellas": {
+     "1": 6,
+     "2": 2,
+     "3": 2,
+     "4": 5,
+     "5": 22
+    },
+    "por_genero": {
+     "No claro": 17,
+     "Mujer": 14,
+     "Hombre": 6
+    },
+    "terminos_top": [
+     [
+      "pain",
+      23
+     ],
+     [
+      "joint",
+      6
+     ],
+     [
+      "swelling",
+      6
+     ],
+     [
+      "pains",
+      5
+     ],
+     [
+      "inflammation",
+      4
+     ],
+     [
+      "inflammatory",
+      3
+     ],
+     [
+      "painful",
+      2
+     ],
+     [
+      "headache",
+      2
+     ],
+     [
+      "swell",
+      2
+     ],
+     [
+      "inflamo",
+      1
+     ],
+     [
+      "migraine",
+      1
+     ],
+     [
+      "joints",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R17BJYV1ED485J",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "But let me tell you i started it Thursday night and now its Tuesday the inflammation in my body has left, muscle pains decreased dramatically, more energy, less cravings for sweets, sleeping better, digestive issues left and just overall feel way better!"
+     },
+     {
+      "id": "R1M98LAQBWSUTN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Joint and back pains are little to none and I’ve lost 4 lbs."
+     },
+     {
+      "id": "R2698EP6XASSYP",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "They say it's bitter but I cant say it is, the taste you will acquire over time but trust me this is a very good supplement if you are like me who have joint pains some times or feel low energy...."
+     },
+     {
+      "id": "R7NIF7TXOMLC8",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "I had a slight allergic reaction with some abdominal pain and throat swelling the first day."
+     },
+     {
+      "id": "R1RUIQM5ZSPS8C",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "If you have any sort of acid issues gastritis or anything just beware that it will put you in a lot of pain."
+     },
+     {
+      "id": "R26HK7YKAL6XHP",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "NOT WORTH THE MONEY, I GAVE IT 3 WEEKS AND I ENDED UP AT MY DRS WITH THE WORST STOMACH PAIN EVER!TRUST ME!"
+     },
+     {
+      "id": "R2OFS0DRYR4BER",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "About 5 hours later I had excruciating cramping, nausea and headache/dizziness, I felt  unwell."
+     },
+     {
+      "id": "R30FT2G66YNYO9",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I have been taking for a week or so 2X daily per instructions and have noticed more BMs, but I have loud gas circulating through my abdomen all day just gurgling nonstop sometimes it’s painful."
+     }
+    ]
+   },
+   "azucar_presion": {
+    "resenas": 10,
+    "por_estrellas": {
+     "1": 3,
+     "2": 1,
+     "3": 1,
+     "4": 0,
+     "5": 5
+    },
+    "por_genero": {
+     "No claro": 4,
+     "Hombre": 5,
+     "Mujer": 1
+    },
+    "terminos_top": [
+     [
+      "blood pressure",
+      6
+     ],
+     [
+      "hypertension",
+      2
+     ],
+     [
+      "blood sugar",
+      2
+     ],
+     [
+      "diabetic",
+      2
+     ],
+     [
+      "diabetes",
+      1
+     ],
+     [
+      "glucose",
+      1
+     ],
+     [
+      "hypertensive",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R34YNOFO7ZO8D6",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "I am diabetic and have high blood pressure for now about 3 to 4 years."
+     },
+     {
+      "id": "RWG9228WR4BHK",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "Great product.Especially for persons with diabetes and high blood pressure.I would definitely recommend."
+     },
+     {
+      "id": "R107MGRADSCJG6",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I remember the first 2 times I purchased, I felt amazing and had healthy and absolutely amazing bowel movements, blood pressure had dropped immensely."
+     },
+     {
+      "id": "R1JP1JPT0EZ4UA",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Put me into what doctor’s call hypertensive crisis."
+     },
+     {
+      "id": "R2PQRXIPDZ360J",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "Tastes terrible and raised my glucose level"
+     },
+     {
+      "id": "R2U5MLHAA5DESC",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "Not Hypertension friendly!!!"
+     }
+    ]
+   },
+   "energia_fatiga": {
+    "resenas": 113,
+    "por_estrellas": {
+     "1": 4,
+     "2": 2,
+     "3": 3,
+     "4": 9,
+     "5": 95
+    },
+    "por_genero": {
+     "No claro": 40,
+     "Mujer": 48,
+     "Hombre": 25
+    },
+    "terminos_top": [
+     [
+      "energy",
+      105
+     ],
+     [
+      "energized",
+      17
+     ],
+     [
+      "sluggish",
+      3
+     ],
+     [
+      "tired",
+      3
+     ],
+     [
+      "exhausted",
+      2
+     ],
+     [
+      "lethargic",
+      1
+     ],
+     [
+      "fatigue",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R1RCQU21QA83NY",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I also feel more energized throughout the day — not a jittery kind of energy, but steady and clear.Another plus is the clean ingredient list."
+     },
+     {
+      "id": "R24WLFT3HVSO65",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "Also My energy levels elevated, i no longer feel exhausted after sleep."
+     },
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "As for the product itself it’s been two weeks, haven’t really noticed energy yet.."
+     },
+     {
+      "id": "R1AR7JJ8K1V5HJ",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "It only been 4 days and I feel and see no difference as of 9/18/2025, also no energy level or effectiveness."
+     },
+     {
+      "id": "R1IREEPS06D9XZ",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Not only it has help me with shedding pounds, my inmune system is stronger, i sleep better and have more energy."
+     },
+     {
+      "id": "R1VA0NXE58W9GK",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "This product gives me energy i can't speak for any one else but im satisfied with the product and will order more when i run out"
+     },
+     {
+      "id": "R384YMHOQTJMYI",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "I have not felt any difference in appetite, energy or less bloating and I'm 14 consecutive days in."
+     },
+     {
+      "id": "R3MNAJ77EBV15",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "No improvement in digestion or energy like I hoped."
+     }
+    ]
+   },
+   "sueno_estres": {
+    "resenas": 28,
+    "por_estrellas": {
+     "1": 0,
+     "2": 1,
+     "3": 1,
+     "4": 5,
+     "5": 21
+    },
+    "por_genero": {
+     "Mujer": 12,
+     "Hombre": 6,
+     "No claro": 10
+    },
+    "terminos_top": [
+     [
+      "sleep",
+      16
+     ],
+     [
+      "sleeping",
+      4
+     ],
+     [
+      "calm",
+      2
+     ],
+     [
+      "stress",
+      2
+     ],
+     [
+      "relax",
+      1
+     ],
+     [
+      "stressful",
+      1
+     ],
+     [
+      "sleepy",
+      1
+     ],
+     [
+      "relaxing",
+      1
+     ],
+     [
+      "calming",
+      1
+     ],
+     [
+      "relaxed",
+      1
+     ],
+     [
+      "calmer",
+      1
+     ],
+     [
+      "insomnia",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RCSQCUX1QARJF",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It did relax me and I went right to sleep."
+     },
+     {
+      "id": "R17BJYV1ED485J",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "But let me tell you i started it Thursday night and now its Tuesday the inflammation in my body has left, muscle pains decreased dramatically, more energy, less cravings for sweets, sleeping better, digestive issues left and just overall feel way better!"
+     },
+     {
+      "id": "R1G6CVESYKE71Y",
+      "estrellas": 4,
+      "genero": "Hombre",
+      "texto": "I like  it sleep  better  at night"
+     },
+     {
+      "id": "R1IREEPS06D9XZ",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Not only it has help me with shedding pounds, my inmune system is stronger, i sleep better and have more energy."
+     },
+     {
+      "id": "R1L5NF6U9I39NY",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "This plastic bottle was very nasty glass bottle has a more calmer taste won’t purchase this again."
+     },
+     {
+      "id": "R2OFS0DRYR4BER",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I didn’t get any sleep that night."
+     }
+    ]
+   },
+   "peso_apetito": {
+    "resenas": 60,
+    "por_estrellas": {
+     "1": 4,
+     "2": 2,
+     "3": 3,
+     "4": 8,
+     "5": 43
+    },
+    "por_genero": {
+     "No claro": 26,
+     "Mujer": 17,
+     "Hombre": 17
+    },
+    "terminos_top": [
+     [
+      "weight",
+      30
+     ],
+     [
+      "appetite",
+      18
+     ],
+     [
+      "cravings",
+      12
+     ],
+     [
+      "belly fat",
+      4
+     ],
+     [
+      "crave",
+      3
+     ],
+     [
+      "slims",
+      1
+     ],
+     [
+      "slimmer",
+      1
+     ],
+     [
+      "lost 24 pounds",
+      1
+     ],
+     [
+      "lost 4 lbs",
+      1
+     ],
+     [
+      "lost 25lbs",
+      1
+     ],
+     [
+      "slimming",
+      1
+     ],
+     [
+      "lost 6 lbs",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RXB5PWS66H71Z",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "I lost 6 lbs so far in the two weeks I’ve taken it, and my appetite has decreased."
+     },
+     {
+      "id": "R11KA1IDHV2IJI",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I noticed a change in my eating habits and cravings."
+     },
+     {
+      "id": "R16JMVVIHC5W4N",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "For the taste alone these are costly but if they remove brain fog, I lose some weight ( belly) fat and can feel significantly better it might be worth the cost."
+     },
+     {
+      "id": "R1M98LAQBWSUTN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "It did suppress my appetite and when I ate, you immediately have to go to the bathroom."
+     },
+     {
+      "id": "R23M40IVPTFAY9",
+      "estrellas": 4,
+      "genero": "Hombre",
+      "texto": "I mix these with the v8 beet and Ginger..I noticed i use the toilet more and losing some weight"
+     },
+     {
+      "id": "R2M49ZS6ON23N4",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I am dropping weight so much, and our daughter looks this up."
+     },
+     {
+      "id": "R3320T8AMS1ZCY",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I’ve haven’t really noticed any appetite suppressant effects but I’ll stick with a little longer and edit my review if I see additional benefits."
+     },
+     {
+      "id": "R35H3G3FKDJA91",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "My first order was bitter and I lost weight."
+     }
+    ]
+   },
+   "parasitos_detox": {
+    "resenas": 115,
+    "por_estrellas": {
+     "1": 8,
+     "2": 6,
+     "3": 8,
+     "4": 10,
+     "5": 83
+    },
+    "por_genero": {
+     "No claro": 42,
+     "Mujer": 48,
+     "Hombre": 25
+    },
+    "terminos_top": [
+     [
+      "detox",
+      53
+     ],
+     [
+      "cleansing",
+      23
+     ],
+     [
+      "cleanse",
+      19
+     ],
+     [
+      "cleans",
+      12
+     ],
+     [
+      "flush",
+      6
+     ],
+     [
+      "detoxing",
+      5
+     ],
+     [
+      "worms",
+      4
+     ],
+     [
+      "parasites",
+      4
+     ],
+     [
+      "toxins",
+      3
+     ],
+     [
+      "cleanser",
+      3
+     ],
+     [
+      "detoxification",
+      2
+     ],
+     [
+      "candida",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R2005LX42SUCB9",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "I noticed a big improvement in digestion and overall mood.No side effects so far, which is a plus for me.Perfect for anyone starting a cleanse or detox journey."
+     },
+     {
+      "id": "R2HRMDMF6W42HQ",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "BUT the benefit of gut health and release of mucus, toxins, parasites are AMAZING and necessary!"
+     },
+     {
+      "id": "RBWP067Y4YEGI",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Did some research and this product can cause hives, due to the cleansing detox nature."
+     },
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "but it is detoxing mildly, and I feel a little better with movement and going up/down the stairs."
+     },
+     {
+      "id": "R1C05DW1VXUC4E",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "And ofcourse it didn’t detox my body like before at all."
+     },
+     {
+      "id": "R1UPQ2T6Q2FKRJ",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Would not waste my money on the detox or the black seed bitters."
+     },
+     {
+      "id": "R1Y6UQ2KG59PPS",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I’ve been taking the Serene Herb Soursop Bitters and Black Seed detox for about a week and I have not had any results."
+     },
+     {
+      "id": "R25LDFMJESK0SW",
+      "estrellas": 4,
+      "genero": "Hombre",
+      "texto": "It doesn't show obvious signs of detox until the 4th day."
+     }
+    ]
+   },
+   "inmunidad": {
+    "resenas": 49,
+    "por_estrellas": {
+     "1": 7,
+     "2": 2,
+     "3": 2,
+     "4": 4,
+     "5": 34
+    },
+    "por_genero": {
+     "Mujer": 18,
+     "No claro": 23,
+     "Hombre": 8
+    },
+    "terminos_top": [
+     [
+      "immune",
+      37
+     ],
+     [
+      "sick",
+      18
+     ],
+     [
+      "immunity",
+      4
+     ],
+     [
+      "cold",
+      4
+     ],
+     [
+      "flu",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R381HK7HUT70YF",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It’s also been a fantastic boost for my immune system, especially during cold and flu season.What I love most is the clean energy and clarity I feel throughout the day."
+     },
+     {
+      "id": "RFNJF93B192X5",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "On day two of consuming I was terribly sick and since ceasing to use have not been sick."
+     },
+     {
+      "id": "R12BLPFYQ0HE0",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "I mainly bought this for the premium black seed oil because there has been a buzz about how good and effective it is for not just the immune system but for many vital organs."
+     },
+     {
+      "id": "R14FI616KDCUV0",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "I got deathly sick on the 1st tsp 🤢🤮 I didn't even want to give it 1 star but the app made me"
+     },
+     {
+      "id": "R16BKTHKJ1GJJT",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Been taking this on and off because I have been sick and was on several medications and for women during there menstruation have to be off (makes your flow heavy)."
+     },
+     {
+      "id": "R1HE9PRZNSOJD3",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "This bundle has been great for digestion and even helped curb my cold symptoms."
+     },
+     {
+      "id": "R21ZEK1A8A1AQE",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Because of this, I’ve only managed to take one dose so far.Since I haven’t taken it regularly, I can’t speak to digestive or immune benefits yet, there has been no noticeable change after 24+ hours, which is expected with limited use."
+     },
+     {
+      "id": "R2OFS0DRYR4BER",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I’m still not sure if  it’s helping to improve my immune and digestive system ."
+     }
+    ]
+   },
+   "piel_cabello": {
+    "resenas": 14,
+    "por_estrellas": {
+     "1": 1,
+     "2": 1,
+     "3": 2,
+     "4": 1,
+     "5": 9
+    },
+    "por_genero": {
+     "Mujer": 8,
+     "No claro": 6
+    },
+    "terminos_top": [
+     [
+      "skin",
+      12
+     ],
+     [
+      "hair",
+      2
+     ],
+     [
+      "nails",
+      1
+     ],
+     [
+      "rashes",
+      1
+     ],
+     [
+      "rash",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R1SSCQ8YLJ9V4S",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Also it's caused my skin to clear up and my skin is glowing."
+     },
+     {
+      "id": "RGBZ5HFXGQ53L",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It has cleared my skin and made my nails stronger."
+     },
+     {
+      "id": "R368RSOAH6O3KK",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "It has no effect on my skin whatsoever."
+     },
+     {
+      "id": "RBWP067Y4YEGI",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "After taking this, I'm getting rashes and hives."
+     },
+     {
+      "id": "RGW5BAGTK84V8",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Additionally, consider applying coconut oil to your skin after showering."
+     },
+     {
+      "id": "RMO02A4BEGF19",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "I’m 12lbs down and my skin cleared up."
+     }
+    ]
+   },
+   "higado_rinon_tiroides": {
+    "resenas": 10,
+    "por_estrellas": {
+     "1": 1,
+     "2": 1,
+     "3": 0,
+     "4": 0,
+     "5": 8
+    },
+    "por_genero": {
+     "No claro": 4,
+     "Mujer": 4,
+     "Hombre": 2
+    },
+    "terminos_top": [
+     [
+      "liver",
+      7
+     ],
+     [
+      "kidneys",
+      2
+     ],
+     [
+      "thyroid",
+      1
+     ],
+     [
+      "menopause",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RMMKM7FZVFKTM",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Helps my Liver and Kidneys."
+     },
+     {
+      "id": "R106BXGAPOGDPN",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "After taking it my liver is messed up."
+     },
+     {
+      "id": "R25NOZCZIKVGQK",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "That awful taste is what jumpstarts the bile production in your liver and gets your gut juices flowing."
+     },
+     {
+      "id": "R3DZPLATF855OE",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Read ingredients if you have thyroid issues."
+     }
+    ]
+   },
+   "cancer_enfermedad_grave": {
+    "resenas": 3,
+    "por_estrellas": {
+     "1": 1,
+     "2": 0,
+     "3": 0,
+     "4": 1,
+     "5": 1
+    },
+    "por_genero": {
+     "No claro": 1,
+     "Mujer": 2
+    },
+    "terminos_top": [
+     [
+      "chemotherapy",
+      1
+     ],
+     [
+      "chemo",
+      1
+     ],
+     [
+      "cancer",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R1FCE5E2ZQGVP7",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I canceled my order Please don’t send this product to me, My Doctor said this stuff will interfere with my with my chemotherapy treatment, Don’t send please."
+     },
+     {
+      "id": "R1JL2USPZ6YBLR",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Still waiting to see if it affected my cancer positively"
+     },
+     {
+      "id": "R24UH1NZ6V62B8",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "I am hoping it will help with chemo side effects (stomach issues)."
+     }
+    ]
+   }
+  },
+  "resultado": {
+   "funciona_mejora": {
+    "resenas": 489,
+    "por_estrellas": {
+     "1": 65,
+     "2": 25,
+     "3": 37,
+     "4": 51,
+     "5": 311
+    },
+    "por_genero": {
+     "Hombre": 99,
+     "Mujer": 182,
+     "No claro": 208
+    },
+    "terminos_top": [
+     [
+      "works",
+      107
+     ],
+     [
+      "work",
+      105
+     ],
+     [
+      "results",
+      102
+     ],
+     [
+      "it works",
+      90
+     ],
+     [
+      "help",
+      48
+     ],
+     [
+      "effective",
+      47
+     ],
+     [
+      "helps",
+      42
+     ],
+     [
+      "worked",
+      29
+     ],
+     [
+      "helped",
+      27
+     ],
+     [
+      "really works",
+      22
+     ],
+     [
+      "improvement",
+      20
+     ],
+     [
+      "improved",
+      12
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R11VG69B2F9A81",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "It only works if you do the recommended dosage, this has not once sent me to the restroom, but I do believe it does work on your gut I have seen results there, but for that I think I'll switch over to the pill form, the taste is not worth it!!!"
+     },
+     {
+      "id": "R306FQAHTROTUA",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "I’d keep taking it I feel like I need to take a shot glass sometime it works but kind of doesn’t work all the way and makes me feel sick and I will do some enemas to help - but I like the product wish it was more in amount ."
+     },
+     {
+      "id": "RJWZAAP65JL2J",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "product so far has help improve my gut health and, sleep help."
+     },
+     {
+      "id": "R12S1EKP9GYRSR",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "is horrible it doesn’t work at all, it tastes horrible, i wasted my money on something that doesn’t work"
+     },
+     {
+      "id": "R17NFM226S599E",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It’s work so I ordered some more , because it works for me I gave my sister some."
+     },
+     {
+      "id": "R1Q167AL1S2ZX9",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "It works and it helps with my gut issues."
+     },
+     {
+      "id": "R2CNRIY0I082J8",
+      "estrellas": 3,
+      "genero": "Hombre",
+      "texto": "I probably would not have bought this if I knew it had Senna in it b/c though Senna helps you go very effectively, it is not met to be used for more than 7 consecutive days."
+     },
+     {
+      "id": "R2O8Y7KAIOQ6LY",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "DONT WASTE YOUR MONEY THIS WAS ABSOLUTELY WASTER AND A SCAM, I was drinking shots just to see if it works at high quantity and it did not work"
+     }
+    ]
+   },
+   "sin_efecto": {
+    "resenas": 60,
+    "por_estrellas": {
+     "1": 28,
+     "2": 10,
+     "3": 10,
+     "4": 6,
+     "5": 6
+    },
+    "por_genero": {
+     "Mujer": 19,
+     "No claro": 30,
+     "Hombre": 11
+    },
+    "terminos_top": [
+     [
+      "waste of money",
+      8
+     ],
+     [
+      "no change",
+      7
+     ],
+     [
+      "no side effects",
+      6
+     ],
+     [
+      "did not work",
+      6
+     ],
+     [
+      "no results",
+      5
+     ],
+     [
+      "no difference",
+      4
+     ],
+     [
+      "not working",
+      3
+     ],
+     [
+      "nothing happened",
+      2
+     ],
+     [
+      "does not work",
+      2
+     ],
+     [
+      "didn't work",
+      2
+     ],
+     [
+      "not effectiveness",
+      2
+     ],
+     [
+      "doesn't work",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RKYAC0Q5Z6T3O",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "no change in bowel movements, no weight loss, no change in energy."
+     },
+     {
+      "id": "R13RGRTTUA97X3",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I just bought it again and it seems about half the strength for more money and not as effective as before."
+     },
+     {
+      "id": "R1AR7JJ8K1V5HJ",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "It only been 4 days and I feel and see no difference as of 9/18/2025, also no energy level or effectiveness."
+     },
+     {
+      "id": "R1M1AWQL64YMJZ",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Forfeiting $50 for a product that does not provide results is bad for business."
+     },
+     {
+      "id": "R1NO5ZEEKQ24ON",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "did not work as expected."
+     },
+     {
+      "id": "R1SSCQ8YLJ9V4S",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "All the ingredients are natural and I've felt no side effects the past few days."
+     },
+     {
+      "id": "R1XFUXJ206N2LV",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "The Ingredients in this bottle Taste delicious too me with no Side Effects"
+     },
+     {
+      "id": "R1Y6UQ2KG59PPS",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I’ve been taking the Serene Herb Soursop Bitters and Black Seed detox for about a week and I have not had any results."
+     }
+    ]
+   },
+   "efecto_adverso": {
+    "resenas": 42,
+    "por_estrellas": {
+     "1": 17,
+     "2": 7,
+     "3": 2,
+     "4": 4,
+     "5": 12
+    },
+    "por_genero": {
+     "No claro": 14,
+     "Mujer": 20,
+     "Hombre": 8
+    },
+    "terminos_top": [
+     [
+      "side effects",
+      17
+     ],
+     [
+      "reaction",
+      11
+     ],
+     [
+      "diarrhea",
+      9
+     ],
+     [
+      "allergic",
+      7
+     ],
+     [
+      "hives",
+      4
+     ],
+     [
+      "made me sick",
+      3
+     ],
+     [
+      "burns",
+      2
+     ],
+     [
+      "rash",
+      2
+     ],
+     [
+      "burning",
+      1
+     ],
+     [
+      "migraine",
+      1
+     ],
+     [
+      "burnt",
+      1
+     ],
+     [
+      "hospital",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R1Q69PFSCTNUOL",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "I scaled back but I still had the allergic reaction."
+     },
+     {
+      "id": "R22RNT81W62DA5",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "It’s taste awful, and I’m experiencing an allergic reaction."
+     },
+     {
+      "id": "R7NIF7TXOMLC8",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Allergic Reaction intolerable taste won’t allow return."
+     },
+     {
+      "id": "RBWP067Y4YEGI",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "After taking this, I'm getting rashes and hives."
+     },
+     {
+      "id": "R1J2KX72T8E97W",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Product has side effects."
+     },
+     {
+      "id": "R1M98LAQBWSUTN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "It’s not something I want to continue to take over a long period of time due to the side effects."
+     },
+     {
+      "id": "R1SSCQ8YLJ9V4S",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "All the ingredients are natural and I've felt no side effects the past few days."
+     },
+     {
+      "id": "R2U5IFLANKO6AC",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Made me sick in more ways than one"
+     }
+    ]
+   },
+   "efecto_rapido_fuerte": {
+    "resenas": 159,
+    "por_estrellas": {
+     "1": 40,
+     "2": 10,
+     "3": 11,
+     "4": 14,
+     "5": 84
+    },
+    "por_genero": {
+     "No claro": 70,
+     "Mujer": 65,
+     "Hombre": 24
+    },
+    "terminos_top": [
+     [
+      "strong",
+      61
+     ],
+     [
+      "first time",
+      32
+     ],
+     [
+      "bathroom",
+      32
+     ],
+     [
+      "powerful",
+      24
+     ],
+     [
+      "bowel movements",
+      10
+     ],
+     [
+      "poop",
+      8
+     ],
+     [
+      "immediately",
+      8
+     ],
+     [
+      "first day",
+      7
+     ],
+     [
+      "bowel movement",
+      5
+     ],
+     [
+      "right away",
+      4
+     ],
+     [
+      "first dose",
+      2
+     ],
+     [
+      "poops",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R13RGRTTUA97X3",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "The first time I bought this product it was really good and worked immediately."
+     },
+     {
+      "id": "R1M98LAQBWSUTN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "It did suppress my appetite and when I ate, you immediately have to go to the bathroom."
+     },
+     {
+      "id": "R1WW8YO7YBI6UC",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "I started taking right away, nothing happened not even sending me to the bathroom."
+     },
+     {
+      "id": "R318OWFLH0XN5A",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "all I can say about this product is OMG  it works wonders I feel super light after the first time in the bathroom and lighter each and every time after that thank you TK for your vision I'm on my second set I wouldn't ran out of this product"
+     },
+     {
+      "id": "R35E271HWUUKH9",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "After the first day, my digestion improved, I was going to the bathroom regularly, and I felt noticeably less bloated."
+     },
+     {
+      "id": "R370YHWYV6J2ET",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "First time I noted the strong herbal taste to it."
+     },
+     {
+      "id": "R3HBSY8HIVR81X",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "Powerful you will have bowel movement so be sure to take it with care to have access to the restroom."
+     },
+     {
+      "id": "R3RIWW2DFZ326S",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "the first ones that i purchase was strong and took a while to get the taste out but this time it like water , no strong taste or bitter , just like water Amazon Sucks !!!!!!!"
+     }
+    ]
+   },
+   "recompra_recomienda": {
+    "resenas": 157,
+    "por_estrellas": {
+     "1": 34,
+     "2": 12,
+     "3": 8,
+     "4": 5,
+     "5": 98
+    },
+    "por_genero": {
+     "No claro": 57,
+     "Mujer": 69,
+     "Hombre": 31
+    },
+    "terminos_top": [
+     [
+      "recommend",
+      79
+     ],
+     [
+      "recommended",
+      23
+     ],
+     [
+      "my second",
+      16
+     ],
+     [
+      "buying again",
+      6
+     ],
+     [
+      "buy again",
+      6
+     ],
+     [
+      "staple",
+      6
+     ],
+     [
+      "order again",
+      5
+     ],
+     [
+      "will order",
+      5
+     ],
+     [
+      "ordering again",
+      5
+     ],
+     [
+      "will buy",
+      4
+     ],
+     [
+      "reordering",
+      4
+     ],
+     [
+      "reordered",
+      3
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R21GDNL863NTTP",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Whether I’m winding down in the evening or just taking a moment for myself, it’s become a go-to.Overall, I would definitely recommend SourSop Serene Herbs to anyone looking for a natural way to support their wellness."
+     },
+     {
+      "id": "R11VG69B2F9A81",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "It only works if you do the recommended dosage, this has not once sent me to the restroom, but I do believe it does work on your gut I have seen results there, but for that I think I'll switch over to the pill form, the taste is not worth it!!!"
+     },
+     {
+      "id": "R137C06DH0MKVX",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I would recommend it to anyone looking"
+     },
+     {
+      "id": "R13RGRTTUA97X3",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I would totally recommend it if they went back to the original recipe and strength."
+     },
+     {
+      "id": "R1GT94XBFZ8NMH",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "This is my second time purchasing this brand of soursop bitters."
+     },
+     {
+      "id": "R1HE9PRZNSOJD3",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "However, the taste is pretty unpleasant, so I’d recommend having something to chew on or a hard candy ready afterward."
+     },
+     {
+      "id": "R1L670QPS6UVEY",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I do not recommend unless maybe you have no taste or smell."
+     },
+     {
+      "id": "R1LGXMQBVH06ZV",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "This stuff caused me to end up with blood in my stool, I don't recommend this if you're worried about the side affects."
+     }
+    ]
+   }
+  },
+  "objecion_sabor": {
+   "amargo": {
+    "resenas": 230,
+    "por_estrellas": {
+     "1": 65,
+     "2": 17,
+     "3": 17,
+     "4": 23,
+     "5": 108
+    },
+    "por_genero": {
+     "Hombre": 43,
+     "Mujer": 88,
+     "No claro": 99
+    },
+    "terminos_top": [
+     [
+      "bitter",
+      225
+     ],
+     [
+      "sour",
+      51
+     ],
+     [
+      "bitterness",
+      21
+     ],
+     [
+      "harsh",
+      7
+     ],
+     [
+      "bite",
+      4
+     ],
+     [
+      "bittersthe",
+      1
+     ],
+     [
+      "bittersweet",
+      1
+     ],
+     [
+      "bittering",
+      1
+     ],
+     [
+      "bitterr",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RPG83LQBVSUBJ",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "The Sour Sap Bitter is bitter but good for your gut health while the Black Seed Bitters provides a boost of antioxidants and anti-inflammatory properties."
+     },
+     {
+      "id": "R12M4BGNFCXT6P",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "Received my Sour Sop Bitters & Black Seed Oil and the sour sop bottle had leaked everywhere inside the package….low 1/4 of my bottle and these aren’t cheap….buyer beware"
+     },
+     {
+      "id": "R24WRWHGBFQTAF",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "The product is supposed to be bitter—this batch isn’t bitter at all, and the soursop version is much thicker than before."
+     },
+     {
+      "id": "R2A29K9A9C3UN2",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "I like sour and bitter taste so this may be most people’s complaint or adjustment."
+     },
+     {
+      "id": "R2EJ7RG17S1S5M",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "It's not sour as advertised - just a very harsh chemical taste."
+     },
+     {
+      "id": "R2LCQLQFCAQWIJ",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "The soursop bitter supposed to be bitter.."
+     },
+     {
+      "id": "R2ZK9DY2KY0X1L",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "Works well to reduce stomach fat with modest exercise although it is really bitter if you are not used to really bitter."
+     },
+     {
+      "id": "R32KGR2ZB8AEAL",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Bitter not Bitter but Bad."
+     }
+    ]
+   },
+   "sabor_malo_asco": {
+    "resenas": 173,
+    "por_estrellas": {
+     "1": 66,
+     "2": 17,
+     "3": 19,
+     "4": 18,
+     "5": 53
+    },
+    "por_genero": {
+     "No claro": 77,
+     "Mujer": 74,
+     "Hombre": 22
+    },
+    "terminos_top": [
+     [
+      "horrible",
+      68
+     ],
+     [
+      "nasty",
+      46
+     ],
+     [
+      "awful",
+      36
+     ],
+     [
+      "terrible",
+      26
+     ],
+     [
+      "disgusting",
+      21
+     ],
+     [
+      "gag",
+      8
+     ],
+     [
+      "gagged",
+      6
+     ],
+     [
+      "yuck",
+      5
+     ],
+     [
+      "gross",
+      5
+     ],
+     [
+      "hard to take",
+      3
+     ],
+     [
+      "can't stand",
+      3
+     ],
+     [
+      "hard to swallow",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R12S1EKP9GYRSR",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "is horrible it doesn’t work at all, it tastes horrible, i wasted my money on something that doesn’t work"
+     },
+     {
+      "id": "R1L4XFJ7JCHTI3",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "I gulped it down and prepared for the gag from the awful, thick, bitter taste."
+     },
+     {
+      "id": "RP23ZXGG3333Q",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "The taste is Horrible, I mean just Horrible, but I’m still taking it every day."
+     },
+     {
+      "id": "R10MOY6JWPCZ2N",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Works wonderfully, but tastes awful."
+     },
+     {
+      "id": "R12AW1BHMN2R0N",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "The taste is very horrible I haven't felt any changes but I have noticed I've been going to the bathroom a lot."
+     },
+     {
+      "id": "R13SKFPQ098TPA",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I'm going to give it 3 stars for now because I haven't had it/used to long enough to notice results but THIS STUFF TASTES DISGUSTING!!!!!!!"
+     },
+     {
+      "id": "R13WHFCA5AGK29",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Img this taste is horrible!"
+     },
+     {
+      "id": "R16FDZN2AVSOMX",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "However, the taste is horrible, I don’t know how I’m going to ingest this daily."
+     }
+    ]
+   },
+   "sabor_aceptable": {
+    "resenas": 111,
+    "por_estrellas": {
+     "1": 12,
+     "2": 4,
+     "3": 4,
+     "4": 13,
+     "5": 78
+    },
+    "por_genero": {
+     "Mujer": 39,
+     "Hombre": 24,
+     "No claro": 48
+    },
+    "terminos_top": [
+     [
+      "mix it with",
+      18
+     ],
+     [
+      "taste good",
+      16
+     ],
+     [
+      "get used to",
+      13
+     ],
+     [
+      "tolerable",
+      13
+     ],
+     [
+      "pleasant",
+      9
+     ],
+     [
+      "mixed with",
+      9
+     ],
+     [
+      "mixing it with",
+      8
+     ],
+     [
+      "delicious",
+      5
+     ],
+     [
+      "chaser",
+      5
+     ],
+     [
+      "taste is not bad",
+      4
+     ],
+     [
+      "bearable",
+      3
+     ],
+     [
+      "not bad",
+      3
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R25NOZCZIKVGQK",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "I either mix it into a powder greens to slam in the morning or mix it with honey and lemon with hot water in the evening."
+     },
+     {
+      "id": "R2B3RM1UXAMMY",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "The taste is not pleasant, you definitely should mix it with some type of juice"
+     },
+     {
+      "id": "R3T0CUP5XWUB3K",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "I did have to mix it with some juice but omg it’s still nasty barely was able to drink it after mixing it with the juice."
+     },
+     {
+      "id": "R72V97UHEHL0K",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Doesn't taste good but you get used to it."
+     },
+     {
+      "id": "R1BB4OHU7TN1CD",
+      "estrellas": 3,
+      "genero": "Hombre",
+      "texto": "It says to mix it with something like juice …."
+     },
+     {
+      "id": "R1C2JKTHB3SEWR",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I tried mixing it in strong beverages to mask the taste…nothing worked!"
+     },
+     {
+      "id": "R1JDF9X3KR4BH2",
+      "estrellas": 3,
+      "genero": "Hombre",
+      "texto": "One thing to remember if it has a pleasant taste, you don’t have enough sour sap in it."
+     },
+     {
+      "id": "R1RUIQM5ZSPS8C",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "You pretty much have to take it like a shot  and have a chaser after."
+     }
+    ]
+   },
+   "sabor_general": {
+    "resenas": 499,
+    "por_estrellas": {
+     "1": 152,
+     "2": 46,
+     "3": 50,
+     "4": 49,
+     "5": 202
+    },
+    "por_genero": {
+     "Hombre": 93,
+     "No claro": 218,
+     "Mujer": 188
+    },
+    "terminos_top": [
+     [
+      "taste",
+      642
+     ],
+     [
+      "tastes",
+      87
+     ],
+     [
+      "tasted",
+      40
+     ],
+     [
+      "flavor",
+      34
+     ],
+     [
+      "tasting",
+      26
+     ],
+     [
+      "smell",
+      15
+     ],
+     [
+      "flavors",
+      8
+     ],
+     [
+      "aftertaste",
+      8
+     ],
+     [
+      "smells",
+      5
+     ],
+     [
+      "flavored",
+      4
+     ],
+     [
+      "tastetaste",
+      1
+     ],
+     [
+      "tasteless",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R20L6WTNY3AJEG",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "The taste is not gonna be sweet it’s bitters it’s supposed to have a bitter taste.You will get used to the taste its worth the purchase."
+     },
+     {
+      "id": "R10CQ3Q3XWQYRY",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "It tastes like water because I ordered it before knowing what it was supposed to taste like."
+     },
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "The taste is less then desirable but I follow up with a lime to get the taste off my tongue."
+     },
+     {
+      "id": "R17DGZCRB2XRM9",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "The taste is fruity and taste good!"
+     },
+     {
+      "id": "R18D1QV80RZ9H0",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Smells like cinnamon and that’s not what the bitters are suppose to smell like more  earthy if that make sense"
+     },
+     {
+      "id": "R1HTKT3OPCUR3R",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "It’s time I stop telling people to buy this product because a few things have changed about it.- Now comes in plastic bottles.- The soursop bitters had a peppery taste and I couldn’t smell soursop at all."
+     },
+     {
+      "id": "R1P83WJQ5CTZK7",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "The taste is VERY bitter, but manageable is added to a sweeter tasting juice."
+     },
+     {
+      "id": "R1ZU43UHIDG0PD",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Opened the Amazon box today June 8th and This batch came in a plastic bottle (previous was glass) the taste is of water mixed with black pepper..Hence it tastes nothing like the original order!"
+     }
+    ]
+   },
+   "natural_de_hierbas": {
+    "resenas": 181,
+    "por_estrellas": {
+     "1": 32,
+     "2": 12,
+     "3": 9,
+     "4": 13,
+     "5": 115
+    },
+    "por_genero": {
+     "Mujer": 69,
+     "No claro": 75,
+     "Hombre": 37
+    },
+    "terminos_top": [
+     [
+      "herbs",
+      103
+     ],
+     [
+      "natural",
+      82
+     ],
+     [
+      "ingredients",
+      60
+     ],
+     [
+      "herbal",
+      57
+     ],
+     [
+      "organic",
+      31
+     ],
+     [
+      "herb",
+      10
+     ],
+     [
+      "ingredient",
+      6
+     ],
+     [
+      "extract",
+      3
+     ],
+     [
+      "tinctures",
+      2
+     ],
+     [
+      "tincture",
+      2
+     ],
+     [
+      "herbaceous",
+      1
+     ],
+     [
+      "tinctured",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R34JMZNBUT4VMJ",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "The ingredients are organic and natural, which gives me peace of mind, and the blend tastes exactly like a real herbal tonic should — earthy and powerful."
+     },
+     {
+      "id": "R1557WTKQTKENN",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I also like that it’s made from all-natural herbs—ones I can read and understand.If you’re looking for a gentle, natural detox or just want to support your digestion, I’d definitely recommend giving it a try."
+     },
+     {
+      "id": "R35E271HWUUKH9",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I purchased the Serene Herbs Soursop Bitters Liquid & Black Seed Bundle (Organic Herbal Guanabana for Digestive Support & Immune Health, 16 oz each).I’ll be honest—the taste is awful."
+     },
+     {
+      "id": "R1M1AWQL64YMJZ",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "The formula/ingredient list has changed per Serene Herbs Customer Service."
+     },
+     {
+      "id": "R1VQ7Q786IQFG2",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Also i dont remember but either soursop or blackseeds bitters, one of the ingredients was “camphor” which doesn’t make sense as it’s a toxic substance.Make sure you understand all the ingredients listed on the label before drinking this."
+     },
+     {
+      "id": "R2M5FJCDFL7FZN",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "It works well and I appreciate the organic ingredients."
+     },
+     {
+      "id": "R3V0DGBSB6GBA9",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Why would you put herbal ingredients in plastic"
+     },
+     {
+      "id": "RGGRJZLBAEIA6",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Serene Herbs Soursop Bitters & Black Seed Bundle – Organics for Digestive Support & Immune Health."
+     }
+    ]
+   }
+  },
+  "objecion_precio": {
+   "caro": {
+    "resenas": 29,
+    "por_estrellas": {
+     "1": 12,
+     "2": 1,
+     "3": 6,
+     "4": 1,
+     "5": 9
+    },
+    "por_genero": {
+     "No claro": 13,
+     "Hombre": 8,
+     "Mujer": 8
+    },
+    "terminos_top": [
+     [
+      "expensive",
+      14
+     ],
+     [
+      "too much",
+      8
+     ],
+     [
+      "cost",
+      7
+     ],
+     [
+      "overpriced",
+      6
+     ],
+     [
+      "pricey",
+      1
+     ],
+     [
+      "costly",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R16JMVVIHC5W4N",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "For the taste alone these are costly but if they remove brain fog, I lose some weight ( belly) fat and can feel significantly better it might be worth the cost."
+     },
+     {
+      "id": "R2Y5460KXWXR4Y",
+      "estrellas": 3,
+      "genero": "Hombre",
+      "texto": "We've had no problems from this bundle except for the one we just received and they cost too much for me not to get what I paid for."
+     },
+     {
+      "id": "RFX8J6NKNQJZ5",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "This stuff cost too much for them to not be transparent."
+     },
+     {
+      "id": "R13SHJEHBB07PB",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "One of the best fines I’ve found us for very overpriced."
+     },
+     {
+      "id": "R1E5VM2JREPP7A",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "It’s too expensive when you can get it cheaper elsewhere $44 for two bottles"
+     },
+     {
+      "id": "R1GT94XBFZ8NMH",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "As for the black seed bitters this was my first time trying it so I can't say too much about it other than it looks watered down also."
+     },
+     {
+      "id": "R1UMMDF2S7Y1KP",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I m not sure that is safe but I’d definitely not and also read the risks or side effects of consuming too much of certain herbs."
+     },
+     {
+      "id": "R26ERVMDQPFSX2",
+      "estrellas": 4,
+      "genero": "Hombre",
+      "texto": "Love this stuff but it’s super pricey!"
+     }
+    ]
+   },
+   "buen_valor": {
+    "resenas": 88,
+    "por_estrellas": {
+     "1": 16,
+     "2": 3,
+     "3": 4,
+     "4": 8,
+     "5": 57
+    },
+    "por_genero": {
+     "Hombre": 23,
+     "Mujer": 27,
+     "No claro": 38
+    },
+    "terminos_top": [
+     [
+      "worth it",
+      29
+     ],
+     [
+      "worth the",
+      24
+     ],
+     [
+      "cheaper",
+      8
+     ],
+     [
+      "cheap",
+      8
+     ],
+     [
+      "value",
+      7
+     ],
+     [
+      "great value",
+      7
+     ],
+     [
+      "good price",
+      3
+     ],
+     [
+      "worth every",
+      3
+     ],
+     [
+      "affordable",
+      2
+     ],
+     [
+      "good value",
+      2
+     ],
+     [
+      "good deal",
+      1
+     ],
+     [
+      "great deal",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R107MGRADSCJG6",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Finding the quality of a lot of products has dropped a great deal."
+     },
+     {
+      "id": "R11VG69B2F9A81",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "It only works if you do the recommended dosage, this has not once sent me to the restroom, but I do believe it does work on your gut I have seen results there, but for that I think I'll switch over to the pill form, the taste is not worth it!!!"
+     },
+     {
+      "id": "R12M4BGNFCXT6P",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "Received my Sour Sop Bitters & Black Seed Oil and the sour sop bottle had leaked everywhere inside the package….low 1/4 of my bottle and these aren’t cheap….buyer beware"
+     },
+     {
+      "id": "R13RGRTTUA97X3",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "Not worth the price anymore."
+     },
+     {
+      "id": "R14MVRJRGL3VCC",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "This is a great health good value for you money ease to take"
+     },
+     {
+      "id": "R1557WTKQTKENN",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "The taste is definitely bitter (no surprise there), but the results make it worth it.Within a few days, I felt lighter, less bloated, and had more energy later in the day."
+     },
+     {
+      "id": "R1HE9PRZNSOJD3",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Despite the strong flavor, the benefits make it worth it!"
+     },
+     {
+      "id": "R1ZPD1MP9R2W0F",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "I liked this bundle overall and thought it was a nice value for getting both bottles together."
+     }
+    ]
+   },
+   "precio_general": {
+    "resenas": 116,
+    "por_estrellas": {
+     "1": 60,
+     "2": 5,
+     "3": 9,
+     "4": 5,
+     "5": 37
+    },
+    "por_genero": {
+     "Hombre": 34,
+     "Mujer": 35,
+     "No claro": 47
+    },
+    "terminos_top": [
+     [
+      "money",
+      75
+     ],
+     [
+      "price",
+      35
+     ],
+     [
+      "deal",
+      9
+     ],
+     [
+      "paid",
+      8
+     ],
+     [
+      "$50",
+      5
+     ],
+     [
+      "pay",
+      3
+     ],
+     [
+      "$70",
+      1
+     ],
+     [
+      "$30",
+      1
+     ],
+     [
+      "$64",
+      1
+     ],
+     [
+      "pricey",
+      1
+     ],
+     [
+      "$59",
+      1
+     ],
+     [
+      "$69",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R16JMVVIHC5W4N",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "The price should be $25 each in my opinion between $40-50 so this better work,"
+     },
+     {
+      "id": "R1E6EG1EMZZ0AV",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "That’s an excellent price compared to buying directly from the vendor’s website, where the combo is $69.99 plus tax and shipping (around $72 total)."
+     },
+     {
+      "id": "R17NFM226S599E",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "A friend told me about Soursop I brought the tea good.Then I brought 2 n1 deal Soursop bitter, $64.19 good buy."
+     },
+     {
+      "id": "R2ICCOI1H8S7M0",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "Unfortunately my attempt to buy more from their website ended with my losing $125.99 on a 6 bottle deal that never arrived."
+     },
+     {
+      "id": "R2PVKI3FKO0QTK",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I paid Almost $50 for something that I do not even know if they’re the same ingredients."
+     },
+     {
+      "id": "R13RGRTTUA97X3",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "Not worth the price anymore."
+     },
+     {
+      "id": "R18ZK2QBSD2EI5",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "If I see this company get back to their original roots , they have a life long customer in me.All I can pass on to the next customer is to simply be careful and pay attention."
+     },
+     {
+      "id": "R1UPQ2T6Q2FKRJ",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Would not waste my money on the detox or the black seed bitters."
+     }
+    ]
+   }
+  },
+  "objecion_envio_producto": {
+   "envio_tardio": {
+    "resenas": 136,
+    "por_estrellas": {
+     "1": 57,
+     "2": 14,
+     "3": 15,
+     "4": 9,
+     "5": 41
+    },
+    "por_genero": {
+     "Mujer": 48,
+     "No claro": 56,
+     "Hombre": 32
+    },
+    "terminos_top": [
+     [
+      "package",
+      48
+     ],
+     [
+      "packaging",
+      32
+     ],
+     [
+      "arrived",
+      26
+     ],
+     [
+      "delivery",
+      21
+     ],
+     [
+      "shipping",
+      20
+     ],
+     [
+      "delivered",
+      17
+     ],
+     [
+      "late",
+      4
+     ],
+     [
+      "delivers",
+      3
+     ],
+     [
+      "delayed",
+      3
+     ],
+     [
+      "delay",
+      2
+     ],
+     [
+      "deliver",
+      2
+     ],
+     [
+      "took about a week",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R10FEXAE4OSKDS",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "Other than a delay in arrival delivered asd described."
+     },
+     {
+      "id": "R11H0IY4BHM1CS",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I love these bitters but they are often delayed weeks even months when shipping so be aware!"
+     },
+     {
+      "id": "R137C06DH0MKVX",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It arrived well packaged and is easy to add to my daily routine."
+     },
+     {
+      "id": "R18YI0BS4MMUVJ",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "I ordered from the official website, and the product arrived in glass bottles with professional packaging."
+     },
+     {
+      "id": "R1A5THOZMLISVF",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Companies need to be aware that glass packaging is a healthier packaging."
+     },
+     {
+      "id": "R1AQBMDOBS7Y8A",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I just got my 3rd bottle today after 2 shipping delays, took me almost a month to get them."
+     },
+     {
+      "id": "R1ZPD1MP9R2W0F",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "The packaging was good and everything arrived sealed with no issues."
+     },
+     {
+      "id": "R22A3ABV5X4AD3",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "The product always have been delivered in a glass container and lately it have been delivered in plastic which contains bacteria."
+     }
+    ]
+   },
+   "danado_derrame": {
+    "resenas": 75,
+    "por_estrellas": {
+     "1": 51,
+     "2": 7,
+     "3": 6,
+     "4": 2,
+     "5": 9
+    },
+    "por_genero": {
+     "Mujer": 25,
+     "No claro": 39,
+     "Hombre": 11
+    },
+    "terminos_top": [
+     [
+      "broken",
+      51
+     ],
+     [
+      "damaged",
+      22
+     ],
+     [
+      "leaking",
+      17
+     ],
+     [
+      "damage",
+      7
+     ],
+     [
+      "broke",
+      6
+     ],
+     [
+      "leaked",
+      6
+     ],
+     [
+      "soaked",
+      4
+     ],
+     [
+      "crushed",
+      3
+     ],
+     [
+      "spilled",
+      3
+     ],
+     [
+      "leaks",
+      3
+     ],
+     [
+      "cracked",
+      3
+     ],
+     [
+      "leakage",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R2N8P9N1HP4MT1",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Product was damaged beyond use both bottles were crushed so it showed up as a box of crushed glass"
+     },
+     {
+      "id": "R17OPHC2L4TZXW",
+      "estrellas": 1,
+      "genero": "Hombre",
+      "texto": "Damaged package- broken glass bottle."
+     },
+     {
+      "id": "R5AZ4K956PDDF",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Product came leaking with damaged cork."
+     },
+     {
+      "id": "RDF347N87S7NG",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "The package arrived on time and was well-sealed, with no leaks or damage to the bottles.The instructions on the label were easy to follow."
+     },
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I didn’t see any evidence of leakage in the box so I’m assuming it was sent to the warehouse this way."
+     },
+     {
+      "id": "R13WHFCA5AGK29",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "If you don't have a doppler, I suggest you get one because it will spill out trying to put it in a tablespoon.I would also say, just take it immediately."
+     },
+     {
+      "id": "R1NU22BWV1ON3J",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "The bottle was  broken upon delivery."
+     },
+     {
+      "id": "R1TUBPVM4V7EWN",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "The product is great however my bottle of soursop bitters came broken and the item is ineligible for return."
+     }
+    ]
+   },
+   "sello_envase": {
+    "resenas": 324,
+    "por_estrellas": {
+     "1": 171,
+     "2": 46,
+     "3": 36,
+     "4": 16,
+     "5": 55
+    },
+    "por_genero": {
+     "No claro": 147,
+     "Mujer": 116,
+     "Hombre": 61
+    },
+    "terminos_top": [
+     [
+      "bottles",
+      295
+     ],
+     [
+      "plastic",
+      249
+     ],
+     [
+      "bottle",
+      227
+     ],
+     [
+      "sealed",
+      16
+     ],
+     [
+      "seal",
+      10
+     ],
+     [
+      "lid",
+      5
+     ],
+     [
+      "bottled",
+      4
+     ],
+     [
+      "cap",
+      4
+     ],
+     [
+      "tampered",
+      3
+     ],
+     [
+      "safety seal",
+      3
+     ],
+     [
+      "tampering",
+      2
+     ],
+     [
+      "seals",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RCSQCUX1QARJF",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "The plastic sealed bottles came in a plastic sealed wrap , which I think is great, to avoid possible breakage due to mishandling and noticeable tampering."
+     },
+     {
+      "id": "R1V49TOU9X1QHB",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "My first order was in glass bottles and had a seal around the top and when you opened  The plastic seal there was another seal that you had to remove."
+     },
+     {
+      "id": "R2T1ULGGRBE10",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "I see that they now come in plastic bottles...They still say the same amount, but the plastic bottles are slightly smaller than the glass bottles were."
+     },
+     {
+      "id": "RYGQO31V7PW0M",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I received my most recent order of the soursop and black seed bitters 2 bottle bundle set and was very disappointed that they have change the glass bottles to plastic bottles which is not good for anyones health a glass bottle is best."
+     },
+     {
+      "id": "R11AUZZIH3E45F",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "Sadly, I’ll have to try out different companies that use glass bottles and not the toxic plastic bottles."
+     },
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "My order arrived and my soursop bottle had a plastic safety seal and my black seed botttle did not."
+     },
+     {
+      "id": "R1FIU9YIIZ8CMK",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "On second bottles but annoyed due to the second purchase they came in plastic bottles."
+     },
+     {
+      "id": "R1L5NF6U9I39NY",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "This plastic bottle was very nasty glass bottle has a more calmer taste won’t purchase this again."
+     }
+    ]
+   },
+   "autenticidad_diluido": {
+    "resenas": 177,
+    "por_estrellas": {
+     "1": 102,
+     "2": 25,
+     "3": 18,
+     "4": 11,
+     "5": 21
+    },
+    "por_genero": {
+     "No claro": 82,
+     "Mujer": 56,
+     "Hombre": 39
+    },
+    "terminos_top": [
+     [
+      "watered",
+      85
+     ],
+     [
+      "not the same",
+      60
+     ],
+     [
+      "formula",
+      36
+     ],
+     [
+      "real",
+      25
+     ],
+     [
+      "scam",
+      19
+     ],
+     [
+      "diluted",
+      13
+     ],
+     [
+      "different from",
+      11
+     ],
+     [
+      "fake",
+      5
+     ],
+     [
+      "different than",
+      4
+     ],
+     [
+      "authentic",
+      4
+     ],
+     [
+      "expired",
+      4
+     ],
+     [
+      "authenticity",
+      3
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R2XGD19ZKN40BT",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "This is not the same product that if been getting,it came in plastic instead of glass and was not the same formula I’ve been using."
+     },
+     {
+      "id": "R18D1QV80RZ9H0",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I bought this once and it came in a glass bottle and now it came in a plastic bottle and it’s not the real bitters Fake !!!!!"
+     },
+     {
+      "id": "R18ZK2QBSD2EI5",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "The second bottle I used the product seemed to be quite a bit watered down and diluted."
+     },
+     {
+      "id": "R1AQBMDOBS7Y8A",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "It taste like watered down coffee, I’m feeling like this batch is not the same quality as the other two."
+     },
+     {
+      "id": "R1ATCOLIX423R4",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Watered down not the original formula."
+     },
+     {
+      "id": "R1F8GXWLKOJC37",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "This stuff is a Scam not the same thing."
+     },
+     {
+      "id": "R1RCQU21QA83NY",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I’ve tried different herbal detox products in the past, but this one stands out because it’s both organic and thoughtfully formulated.The taste is definitely bitter, as expected, but that’s how you know it’s the real deal."
+     },
+     {
+      "id": "R1FCD19OWF2WCP",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I will not be reordering it, I will be looking for the original formula."
+     }
+    ]
+   }
+  },
+  "objecion_reembolso": {
+   "reembolso_devolucion": {
+    "resenas": 83,
+    "por_estrellas": {
+     "1": 59,
+     "2": 15,
+     "3": 7,
+     "4": 0,
+     "5": 2
+    },
+    "por_genero": {
+     "Hombre": 14,
+     "Mujer": 27,
+     "No claro": 42
+    },
+    "terminos_top": [
+     [
+      "refund",
+      36
+     ],
+     [
+      "return",
+      35
+     ],
+     [
+      "replacement",
+      9
+     ],
+     [
+      "returned",
+      8
+     ],
+     [
+      "canceled",
+      7
+     ],
+     [
+      "money back",
+      3
+     ],
+     [
+      "canceling",
+      3
+     ],
+     [
+      "returns",
+      3
+     ],
+     [
+      "replaced",
+      2
+     ],
+     [
+      "cancelling",
+      1
+     ],
+     [
+      "cancel",
+      1
+     ],
+     [
+      "cancelled",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I was gonna return the blackseed until I found out this item cannot be returned because it’s considered a perishable."
+     },
+     {
+      "id": "R2IXH22O9HKIZN",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "I use the product daily however I’m returning my product and canceling my subscription and tryin other brands based on their ingredient list and source of the product."
+     },
+     {
+      "id": "R2VBJ9KOBBMW62",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "And this product is not eligible for return/refund, fifty bucks wasted VERY Disappointed :(."
+     },
+     {
+      "id": "R3PKXYRSSVWTMW",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I already open it but truly wish I didn't so I could have return for a full refund."
+     },
+     {
+      "id": "R3V3N2TTAJET0X",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "This is not the bitters it's the worst  thing I have ever taste no bitters at all in this thing I will return and want my money back this is junk  who made this thing  this does not taste like the last purchase"
+     },
+     {
+      "id": "R577F8DFO4ICK",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "I am not happy about it as you can not return them or get a refund."
+     },
+     {
+      "id": "R1F8GXWLKOJC37",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Stop selling this now people just scamming I have bought this stuff for a minute it was worth it this last to sets is trash stop selling this give me my money back on both sets this is not the same product!"
+     },
+     {
+      "id": "R1SP5UE57KLN9I",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "It’s says that it’s nonreturnable, but I would like to get what I paid for without any problems or a refund."
+     }
+    ]
+   },
+   "servicio_cliente": {
+    "resenas": 53,
+    "por_estrellas": {
+     "1": 7,
+     "2": 1,
+     "3": 4,
+     "4": 2,
+     "5": 39
+    },
+    "por_genero": {
+     "No claro": 24,
+     "Mujer": 21,
+     "Hombre": 8
+    },
+    "terminos_top": [
+     [
+      "support",
+      45
+     ],
+     [
+      "customer service",
+      11
+     ],
+     [
+      "complaints",
+      6
+     ],
+     [
+      "complaint",
+      1
+     ],
+     [
+      "complaining",
+      1
+     ],
+     [
+      "complain",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "RBMCCBK6FMT92",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "Changing to 3 stars because of their customer service support.This product is in plastic bottles."
+     },
+     {
+      "id": "R105SDHGTS6G3I",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Love this product but their customer service is the worst."
+     },
+     {
+      "id": "R12BLPFYQ0HE0",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "Both support immune health and function plus digestive health as well as many other benefits."
+     },
+     {
+      "id": "R1557WTKQTKENN",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I also like that it’s made from all-natural herbs—ones I can read and understand.If you’re looking for a gentle, natural detox or just want to support your digestion, I’d definitely recommend giving it a try."
+     },
+     {
+      "id": "R1AM5WTXRITYEO",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Customer service satisfaction has to be #1 if you want to keep up and I was almost going to be a subscription service customer."
+     },
+     {
+      "id": "R1M1AWQL64YMJZ",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "The formula/ingredient list has changed per Serene Herbs Customer Service."
+     },
+     {
+      "id": "R2A29K9A9C3UN2",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "I like sour and bitter taste so this may be most people’s complaint or adjustment."
+     },
+     {
+      "id": "R2PVKI3FKO0QTK",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I  did add another star for good customer service!!"
+     }
+    ]
+   }
+  },
+  "emocional": {
+   "gratitud_amor": {
+    "resenas": 398,
+    "por_estrellas": {
+     "1": 34,
+     "2": 12,
+     "3": 14,
+     "4": 30,
+     "5": 308
+    },
+    "por_genero": {
+     "Hombre": 91,
+     "Mujer": 153,
+     "No claro": 154
+    },
+    "terminos_top": [
+     [
+      "great",
+      240
+     ],
+     [
+      "love",
+      114
+     ],
+     [
+      "amazing",
+      49
+     ],
+     [
+      "happy",
+      35
+     ],
+     [
+      "excellent",
+      30
+     ],
+     [
+      "thank",
+      26
+     ],
+     [
+      "awesome",
+      23
+     ],
+     [
+      "loved",
+      13
+     ],
+     [
+      "thanks",
+      8
+     ],
+     [
+      "fantastic",
+      5
+     ],
+     [
+      "wonderful",
+      5
+     ],
+     [
+      "loves",
+      4
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R2IWCE8P8BSUN4",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Love and love and love love love"
+     },
+     {
+      "id": "RYLMDK80DMMIW",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "love love love this brand of sour all bitters it is amazing .I use it everyday."
+     },
+     {
+      "id": "R107MGRADSCJG6",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I remember the first 2 times I purchased, I felt amazing and had healthy and absolutely amazing bowel movements, blood pressure had dropped immensely."
+     },
+     {
+      "id": "R18ZK2QBSD2EI5",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "The first two bottles I had were great , I did not need to be by the bathroom but my bloating and water retention diminished and over quality felt great!"
+     },
+     {
+      "id": "R1XGKAKMXV3MSR",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I love this product but I don’t like the new plastic bottles they come in, I loved the glass bottles because it’s better for the quality of the product."
+     },
+     {
+      "id": "R21ZEK1A8A1AQE",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "I wanted to love this bundle because the ingredients and potential health benefits sound great, but this review is based strictly on taste—not effectiveness."
+     },
+     {
+      "id": "R105SDHGTS6G3I",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Love this product but their customer service is the worst."
+     },
+     {
+      "id": "R10MOY6JWPCZ2N",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Works wonderfully, but tastes awful."
+     }
+    ]
+   },
+   "sorpresa_asombro": {
+    "resenas": 41,
+    "por_estrellas": {
+     "1": 5,
+     "2": 2,
+     "3": 2,
+     "4": 6,
+     "5": 26
+    },
+    "por_genero": {
+     "Mujer": 19,
+     "Hombre": 5,
+     "No claro": 17
+    },
+    "terminos_top": [
+     [
+      "impressed",
+      10
+     ],
+     [
+      "wow",
+      7
+     ],
+     [
+      "surprise",
+      6
+     ],
+     [
+      "surprised",
+      6
+     ],
+     [
+      "magic",
+      5
+     ],
+     [
+      "surprisingly",
+      4
+     ],
+     [
+      "miracle",
+      2
+     ],
+     [
+      "impressive",
+      2
+     ],
+     [
+      "unbelievable",
+      1
+     ],
+     [
+      "incredible",
+      1
+     ],
+     [
+      "shocked",
+      1
+     ],
+     [
+      "can't believe",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R7HSF5T8V88XW",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Nothing.....nothing changes the taste in my mouth as i sip everything around me  wow......wow......wow....."
+     },
+     {
+      "id": "R3TROSRL1XQ38H",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "It might just surprise you the way it surprised me."
+     },
+     {
+      "id": "R11KA1IDHV2IJI",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "My husband ordered this for me and wow did it take all the bloating away."
+     },
+     {
+      "id": "R11WJ4BX5WIO2Q",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Wow I know the cost of things changes but plastic bottles are not a good idea."
+     },
+     {
+      "id": "R1AFYBM6XFD3C0",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "I really wanted to be impressed with this but I’m not."
+     },
+     {
+      "id": "R1WPOSLUBPZNAH",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "Wow the Taste of the Soursop!!"
+     },
+     {
+      "id": "R1ZPD1MP9R2W0F",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Not a miracle product or anything, but overall I’m happy with it and would keep using it."
+     },
+     {
+      "id": "R254XY53HU0HU1",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "I'm surprised at the low quality of the products received."
+     }
+    ]
+   },
+   "alivio": {
+    "resenas": 69,
+    "por_estrellas": {
+     "1": 4,
+     "2": 3,
+     "3": 5,
+     "4": 2,
+     "5": 55
+    },
+    "por_genero": {
+     "Hombre": 13,
+     "Mujer": 29,
+     "No claro": 27
+    },
+    "terminos_top": [
+     [
+      "lighter",
+      17
+     ],
+     [
+      "feel light",
+      13
+     ],
+     [
+      "no more",
+      10
+     ],
+     [
+      "relief",
+      8
+     ],
+     [
+      "finally",
+      6
+     ],
+     [
+      "so much better",
+      6
+     ],
+     [
+      "feel good",
+      3
+     ],
+     [
+      "a lot better",
+      3
+     ],
+     [
+      "cleaner",
+      2
+     ],
+     [
+      "feeling light",
+      2
+     ],
+     [
+      "feel great",
+      2
+     ],
+     [
+      "feel clean",
+      2
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R3R3D19II32B5T",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "No more bloating and my digestion is finally back on track."
+     },
+     {
+      "id": "R11KA1IDHV2IJI",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "I will still use this product as it is effective and made me feel a lot lighter and more energy."
+     },
+     {
+      "id": "R1GT94XBFZ8NMH",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "Immediately I noticed that it is lighter in color."
+     },
+     {
+      "id": "R1U41PS55Z74AV",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "If you need some relief just do what I did, buy some prune juice, it cheaper."
+     },
+     {
+      "id": "R21DOCMN94OUQ4",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "Its a colon cleaner but very overpriced."
+     },
+     {
+      "id": "R22RSUDWYU9466",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "We actually went from going daily or every other day to once no more than 2x's in that week and a half."
+     },
+     {
+      "id": "R2QAA308MD1NMK",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "No more bloating though.."
+     },
+     {
+      "id": "R2Y5HP6V35NN35",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "The 2 tablespoons each did not provide me any relief."
+     }
+    ]
+   },
+   "enojo_decepcion": {
+    "resenas": 228,
+    "por_estrellas": {
+     "1": 126,
+     "2": 23,
+     "3": 24,
+     "4": 17,
+     "5": 38
+    },
+    "por_genero": {
+     "Mujer": 86,
+     "No claro": 106,
+     "Hombre": 36
+    },
+    "terminos_top": [
+     [
+      "horrible",
+      68
+     ],
+     [
+      "disappointed",
+      62
+     ],
+     [
+      "waste",
+      36
+     ],
+     [
+      "awful",
+      36
+     ],
+     [
+      "worst",
+      31
+     ],
+     [
+      "terrible",
+      26
+     ],
+     [
+      "disappointing",
+      19
+     ],
+     [
+      "do not buy",
+      13
+     ],
+     [
+      "upset",
+      9
+     ],
+     [
+      "regret",
+      6
+     ],
+     [
+      "don't buy",
+      4
+     ],
+     [
+      "don't waste",
+      3
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R12S1EKP9GYRSR",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "is horrible it doesn’t work at all, it tastes horrible, i wasted my money on something that doesn’t work"
+     },
+     {
+      "id": "R1V8S4F21FDYJI",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Subject: Serious Concern About Product Quality and ConsistencyI am extremely disappointed and frustrated with a recent purchase."
+     },
+     {
+      "id": "R3H7MIEQ6SX4HG",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "Subject: Serious Concern About Product Quality and ConsistencyI am extremely disappointed and frustrated with a recent purchase."
+     },
+     {
+      "id": "RBMCCBK6FMT92",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "Disappointing, it wouldn’t be as disappointing if they would of given me a refund."
+     },
+     {
+      "id": "RP23ZXGG3333Q",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "The taste is Horrible, I mean just Horrible, but I’m still taking it every day."
+     },
+     {
+      "id": "R10MOY6JWPCZ2N",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Works wonderfully, but tastes awful."
+     },
+     {
+      "id": "R12AW1BHMN2R0N",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "The taste is very horrible I haven't felt any changes but I have noticed I've been going to the bathroom a lot."
+     },
+     {
+      "id": "R13WHEOQDZOTJ2",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "Also disappointed these are not glass bottles."
+     }
+    ]
+   },
+   "miedo_duda_escepticismo": {
+    "resenas": 110,
+    "por_estrellas": {
+     "1": 28,
+     "2": 20,
+     "3": 16,
+     "4": 11,
+     "5": 35
+    },
+    "por_genero": {
+     "Hombre": 26,
+     "No claro": 48,
+     "Mujer": 36
+    },
+    "terminos_top": [
+     [
+      "expected",
+      38
+     ],
+     [
+      "not sure",
+      19
+     ],
+     [
+      "hope",
+      13
+     ],
+     [
+      "hopefully",
+      8
+     ],
+     [
+      "doubt",
+      6
+     ],
+     [
+      "expecting",
+      6
+     ],
+     [
+      "afraid",
+      6
+     ],
+     [
+      "expect",
+      5
+     ],
+     [
+      "scared",
+      5
+     ],
+     [
+      "skeptical",
+      5
+     ],
+     [
+      "expectations",
+      4
+     ],
+     [
+      "worried",
+      4
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R34YNOFO7ZO8D6",
+      "estrellas": 5,
+      "genero": "Hombre",
+      "texto": "I am also perimenopausal.I really had hopes that this product would help me with belly fat.When I got the product and started drinking it, I was expecting to taste to be a lot worse than what it was based on the descriptions from people it was not undrinkable."
+     },
+     {
+      "id": "R18ZK2QBSD2EI5",
+      "estrellas": 2,
+      "genero": "Hombre",
+      "texto": "I hope this specific company is able to reel back in and fulfill to the highest quality ."
+     },
+     {
+      "id": "R1AQBMDOBS7Y8A",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "I’m worried now though that the quality has gone down since they have become so popular."
+     },
+     {
+      "id": "R1EMQZ5510AW2R",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Hopefully it slims her down a little"
+     },
+     {
+      "id": "R1FIU9YIIZ8CMK",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "Not sure why they gave me plastic when it's supposed to be a healthy product company."
+     },
+     {
+      "id": "R1G4QGJOSXCI5P",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "Hopefully the next one tastes better."
+     },
+     {
+      "id": "R1LGXMQBVH06ZV",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "This stuff caused me to end up with blood in my stool, I don't recommend this if you're worried about the side affects."
+     },
+     {
+      "id": "R1NO5ZEEKQ24ON",
+      "estrellas": 2,
+      "genero": "No claro",
+      "texto": "did not work as expected."
+     }
+    ]
+   },
+   "confianza_fe": {
+    "resenas": 50,
+    "por_estrellas": {
+     "1": 17,
+     "2": 5,
+     "3": 6,
+     "4": 3,
+     "5": 19
+    },
+    "por_genero": {
+     "No claro": 24,
+     "Hombre": 8,
+     "Mujer": 18
+    },
+    "terminos_top": [
+     [
+      "believe",
+      18
+     ],
+     [
+      "honestly",
+      15
+     ],
+     [
+      "trust",
+      12
+     ],
+     [
+      "honest",
+      7
+     ],
+     [
+      "legit",
+      2
+     ],
+     [
+      "testimonials",
+      1
+     ],
+     [
+      "faith",
+      1
+     ],
+     [
+      "honesty",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R32NV2I90UB9TT",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "I’m going to be completely honest it tastes bitter but I believe it’s working."
+     },
+     {
+      "id": "RPBACQ7JLGAX5",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "I honestly can't believe how people can drink this."
+     },
+     {
+      "id": "R11VG69B2F9A81",
+      "estrellas": 3,
+      "genero": "Mujer",
+      "texto": "It only works if you do the recommended dosage, this has not once sent me to the restroom, but I do believe it does work on your gut I have seen results there, but for that I think I'll switch over to the pill form, the taste is not worth it!!!"
+     },
+     {
+      "id": "R1557WTKQTKENN",
+      "estrellas": 5,
+      "genero": "Mujer",
+      "texto": "Serene Herbal Bitters – My Honest Thoughts."
+     },
+     {
+      "id": "R1PEIUO3NAKCER",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "I’m not getting the same results and I believe this seller is watering down the original product."
+     },
+     {
+      "id": "R1U4SI9PLED3UV",
+      "estrellas": 2,
+      "genero": "Mujer",
+      "texto": "I tried mixing it in different juices and drinks to make it work, and it just wont relent.I don’t know if I believe any of these people that have been taking it for so long."
+     },
+     {
+      "id": "R25H1WJONXNH93",
+      "estrellas": 1,
+      "genero": "Mujer",
+      "texto": "I no longer trust this brand."
+     },
+     {
+      "id": "R3GAAJ20NN5AYS",
+      "estrellas": 4,
+      "genero": "No claro",
+      "texto": "Don't believe all the advertisements about a flat tummy, without the lifestyle change."
+     }
+    ]
+   },
+   "cambio_vida": {
+    "resenas": 14,
+    "por_estrellas": {
+     "1": 2,
+     "2": 0,
+     "3": 1,
+     "4": 2,
+     "5": 9
+    },
+    "por_genero": {
+     "No claro": 7,
+     "Hombre": 2,
+     "Mujer": 5
+    },
+    "terminos_top": [
+     [
+      "my health",
+      6
+     ],
+     [
+      "life changing",
+      3
+     ],
+     [
+      "saved my",
+      2
+     ],
+     [
+      "game changer",
+      2
+     ],
+     [
+      "changed my life",
+      1
+     ],
+     [
+      "gamechanger",
+      1
+     ],
+     [
+      "lifechanging",
+      1
+     ]
+    ],
+    "citas": [
+     {
+      "id": "R19R3Y5MDZWO1H",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "Help manage my health, specially my weight...very comfortable with the results 🙏"
+     },
+     {
+      "id": "R1FCE5E2ZQGVP7",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Product not benefiting to my health, To many ingredients, where is sour sop and Black seed."
+     },
+     {
+      "id": "R1FIU9YIIZ8CMK",
+      "estrellas": 4,
+      "genero": "Mujer",
+      "texto": "I saved my glass bottles and poured the ones in plastic in the glass."
+     },
+     {
+      "id": "R1QACRRBBLFGJY",
+      "estrellas": 5,
+      "genero": "No claro",
+      "texto": "This is by far the best thing I have done for my self and my health!"
+     },
+     {
+      "id": "R228CSHC73IM0O",
+      "estrellas": 1,
+      "genero": "No claro",
+      "texto": "Due to the fact that I'm talking this product to improve my health,the plastic bottles is a complete disaster for me ."
+     },
+     {
+      "id": "R2P9UGCP68H35H",
+      "estrellas": 3,
+      "genero": "No claro",
+      "texto": "The first one changed my life and health is doing better  I was a Anemia all my life but now it’s gone."
+     }
+    ]
+   }
+  }
+ },
+ "frases_por_banda": {
+  "1-2 estrellas": [
+   [
+    "plastic bottles",
+    59
+   ],
+   [
+    "watered down",
+    54
+   ],
+   [
+    "glass bottles",
+    45
+   ],
+   [
+    "plastic bottle",
+    41
+   ],
+   [
+    "don t",
+    32
+   ],
+   [
+    "black seed",
+    31
+   ],
+   [
+    "glass bottle",
+    30
+   ],
+   [
+    "taste like",
+    24
+   ],
+   [
+    "didn t",
+    24
+   ],
+   [
+    "soursop bitters",
+    23
+   ],
+   [
+    "came in plastic",
+    22
+   ],
+   [
+    "doesn t",
+    19
+   ],
+   [
+    "black seed bitters",
+    17
+   ],
+   [
+    "seed bitters",
+    17
+   ],
+   [
+    "same product",
+    16
+   ],
+   [
+    "first time",
+    16
+   ],
+   [
+    "ordered this product",
+    14
+   ],
+   [
+    "t work",
+    13
+   ],
+   [
+    "tastes like",
+    13
+   ],
+   [
+    "sour sop",
+    13
+   ],
+   [
+    "won t",
+    12
+   ],
+   [
+    "came in glass",
+    12
+   ],
+   [
+    "first order",
+    12
+   ],
+   [
+    "serene herbs",
+    11
+   ],
+   [
+    "do not buy",
+    11
+   ],
+   [
+    "bitter taste",
+    11
+   ],
+   [
+    "taste the same",
+    10
+   ],
+   [
+    "couldn t",
+    9
+   ],
+   [
+    "t taste",
+    9
+   ],
+   [
+    "both bottles",
+    9
+   ],
+   [
+    "totally different",
+    9
+   ],
+   [
+    "tasted like",
+    8
+   ],
+   [
+    "go back",
+    8
+   ],
+   [
+    "buy this product",
+    8
+   ],
+   [
+    "isn t",
+    8
+   ],
+   [
+    "order came",
+    8
+   ],
+   [
+    "t know",
+    8
+   ],
+   [
+    "don t know",
+    8
+   ],
+   [
+    "completely different",
+    8
+   ],
+   [
+    "these products",
+    8
+   ]
+  ],
+  "3 estrellas": [
+   [
+    "glass bottles",
+    12
+   ],
+   [
+    "don t",
+    11
+   ],
+   [
+    "plastic bottles",
+    11
+   ],
+   [
+    "watered down",
+    9
+   ],
+   [
+    "black seed",
+    9
+   ],
+   [
+    "soursop bitters",
+    8
+   ],
+   [
+    "didn t",
+    6
+   ],
+   [
+    "glass bottle",
+    5
+   ],
+   [
+    "serene herbs",
+    4
+   ],
+   [
+    "taste the same",
+    4
+   ],
+   [
+    "first time",
+    4
+   ],
+   [
+    "know how",
+    4
+   ],
+   [
+    "product works",
+    4
+   ],
+   [
+    "horrible taste",
+    4
+   ],
+   [
+    "see any",
+    4
+   ],
+   [
+    "love this product",
+    4
+   ],
+   [
+    "black seed bitters",
+    4
+   ],
+   [
+    "seed bitters",
+    4
+   ],
+   [
+    "sour sap",
+    3
+   ],
+   [
+    "do believe",
+    3
+   ],
+   [
+    "tik tok",
+    3
+   ],
+   [
+    "try it again",
+    3
+   ],
+   [
+    "doesn t",
+    3
+   ],
+   [
+    "tastes like",
+    3
+   ],
+   [
+    "all over",
+    3
+   ],
+   [
+    "plastic bottle",
+    3
+   ],
+   [
+    "another review",
+    3
+   ],
+   [
+    "see results",
+    3
+   ],
+   [
+    "after days",
+    3
+   ],
+   [
+    "past the taste",
+    3
+   ],
+   [
+    "t really",
+    3
+   ],
+   [
+    "taste like",
+    3
+   ],
+   [
+    "came in plastic",
+    3
+   ],
+   [
+    "first order",
+    3
+   ]
+  ],
+  "4-5 estrellas": [
+   [
+    "black seed",
+    78
+   ],
+   [
+    "soursop bitters",
+    60
+   ],
+   [
+    "great product",
+    53
+   ],
+   [
+    "serene herbs",
+    51
+   ],
+   [
+    "gut health",
+    36
+   ],
+   [
+    "good product",
+    35
+   ],
+   [
+    "black seed bitters",
+    35
+   ],
+   [
+    "seed bitters",
+    35
+   ],
+   [
+    "herbs soursop",
+    29
+   ],
+   [
+    "more energy",
+    27
+   ],
+   [
+    "serene herbs soursop",
+    27
+   ],
+   [
+    "highly recommend",
+    26
+   ],
+   [
+    "works great",
+    23
+   ],
+   [
+    "herbs soursop bitters",
+    22
+   ],
+   [
+    "don t",
+    22
+   ],
+   [
+    "really works",
+    21
+   ],
+   [
+    "bitter taste",
+    20
+   ],
+   [
+    "these products",
+    17
+   ],
+   [
+    "few days",
+    17
+   ],
+   [
+    "soursop and black",
+    16
+   ],
+   [
+    "works well",
+    15
+   ],
+   [
+    "doesn t",
+    15
+   ],
+   [
+    "digestive system",
+    15
+   ],
+   [
+    "seed bundle",
+    15
+   ],
+   [
+    "black seed bundle",
+    15
+   ],
+   [
+    "non gmo",
+    15
+   ],
+   [
+    "immune system",
+    15
+   ],
+   [
+    "product works",
+    14
+   ],
+   [
+    "taste good",
+    14
+   ],
+   [
+    "ve been using",
+    14
+   ],
+   [
+    "more energized",
+    14
+   ],
+   [
+    "throughout the day",
+    13
+   ],
+   [
+    "side effects",
+    13
+   ],
+   [
+    "bitters and black",
+    13
+   ],
+   [
+    "much better",
+    13
+   ],
+   [
+    "love this product",
+    13
+   ],
+   [
+    "daily routine",
+    12
+   ],
+   [
+    "feel lighter",
+    12
+   ],
+   [
+    "exactly what",
+    12
+   ],
+   [
+    "less bloated",
+    12
+   ]
+  ]
+ },
+ "palabras_que_separan": [
+  [
+   "return",
+   0,
+   32,
+   0.0,
+   31
+  ],
+  [
+   "disappointed",
+   1,
+   52,
+   1.3,
+   43
+  ],
+  [
+   "plastic bottle",
+   1,
+   46,
+   1.5,
+   42
+  ],
+  [
+   "refund",
+   1,
+   30,
+   2.2,
+   26
+  ],
+  [
+   "company",
+   1,
+   27,
+   2.5,
+   23
+  ],
+  [
+   "original",
+   1,
+   25,
+   2.7,
+   22
+  ],
+  [
+   "broken",
+   2,
+   48,
+   2.8,
+   34
+  ],
+  [
+   "same product",
+   1,
+   17,
+   3.9,
+   17
+  ],
+  [
+   "disappointing",
+   1,
+   16,
+   4.1,
+   17
+  ],
+  [
+   "top",
+   1,
+   15,
+   4.4,
+   15
+  ],
+  [
+   "not buy",
+   1,
+   15,
+   4.4,
+   14
+  ],
+  [
+   "batch",
+   1,
+   15,
+   4.4,
+   12
+  ],
+  [
+   "scam",
+   1,
+   14,
+   4.7,
+   12
+  ],
+  [
+   "watered",
+   5,
+   67,
+   4.9,
+   60
+  ],
+  [
+   "watered down",
+   5,
+   64,
+   5.1,
+   59
+  ],
+  [
+   "plastic",
+   16,
+   196,
+   5.3,
+   142
+  ],
+  [
+   "plastic bottles",
+   7,
+   78,
+   5.8,
+   64
+  ],
+  [
+   "taste like",
+   3,
+   29,
+   6.6,
+   27
+  ],
+  [
+   "box",
+   2,
+   19,
+   6.7,
+   16
+  ],
+  [
+   "damaged",
+   2,
+   18,
+   7.1,
+   17
+  ],
+  [
+   "glass bottle",
+   4,
+   35,
+   7.3,
+   34
+  ],
+  [
+   "worst",
+   3,
+   26,
+   7.3,
+   25
+  ],
+  [
+   "leaking",
+   2,
+   15,
+   8.4,
+   13
+  ],
+  [
+   "color",
+   2,
+   13,
+   9.5,
+   13
+  ],
+  [
+   "seller",
+   2,
+   13,
+   9.5,
+   15
+  ],
+  [
+   "waste",
+   4,
+   26,
+   9.5,
+   26
+  ],
+  [
+   "purchased",
+   6,
+   36,
+   10.2,
+   38
+  ],
+  [
+   "different",
+   14,
+   82,
+   10.5,
+   73
+  ],
+  [
+   "totally",
+   3,
+   17,
+   10.8,
+   18
+  ],
+  [
+   "instead",
+   3,
+   17,
+   10.8,
+   19
+  ],
+  [
+   "same",
+   19,
+   106,
+   10.9,
+   91
+  ],
+  [
+   "formula",
+   5,
+   27,
+   11.2,
+   25
+  ],
+  [
+   "website",
+   3,
+   16,
+   11.4,
+   13
+  ],
+  [
+   "amazon",
+   8,
+   42,
+   11.5,
+   36
+  ],
+  [
+   "items",
+   4,
+   21,
+   11.5,
+   24
+  ],
+  [
+   "off",
+   7,
+   36,
+   11.7,
+   33
+  ],
+  [
+   "glass",
+   28,
+   142,
+   11.9,
+   133
+  ],
+  [
+   "disgusting",
+   3,
+   15,
+   12.0,
+   17
+  ],
+  [
+   "changed",
+   8,
+   39,
+   12.3,
+   33
+  ],
+  [
+   "tasted",
+   6,
+   29,
+   12.4,
+   31
+  ],
+  [
+   "bottle",
+   35,
+   164,
+   12.7,
+   138
+  ],
+  [
+   "glass bottles",
+   12,
+   53,
+   13.4,
+   55
+  ],
+  [
+   "delivered",
+   3,
+   13,
+   13.6,
+   12
+  ],
+  [
+   "never",
+   6,
+   26,
+   13.6,
+   29
+  ],
+  [
+   "came",
+   20,
+   81,
+   14.5,
+   85
+  ],
+  [
+   "ordered",
+   13,
+   51,
+   14.9,
+   55
+  ],
+  [
+   "completely",
+   6,
+   23,
+   15.1,
+   25
+  ],
+  [
+   "times",
+   8,
+   30,
+   15.4,
+   30
+  ],
+  [
+   "didn't",
+   13,
+   45,
+   16.5,
+   49
+  ],
+  [
+   "received",
+   16,
+   55,
+   16.6,
+   64
+  ],
+  [
+   "bottles",
+   60,
+   199,
+   17.1,
+   158
+  ],
+  [
+   "here",
+   4,
+   13,
+   17.4,
+   16
+  ],
+  [
+   "anymore",
+   4,
+   13,
+   17.4,
+   17
+  ],
+  [
+   "money",
+   16,
+   51,
+   17.7,
+   59
+  ],
+  [
+   "order",
+   27,
+   86,
+   17.7,
+   87
+  ],
+  [
+   "purchasing",
+   7,
+   22,
+   17.9,
+   28
+  ],
+  [
+   "bought",
+   11,
+   34,
+   18.1,
+   41
+  ],
+  [
+   "i'm not",
+   5,
+   15,
+   18.6,
+   20
+  ],
+  [
+   "tastes like",
+   5,
+   14,
+   19.6,
+   17
+  ],
+  [
+   "nothing",
+   12,
+   33,
+   19.9,
+   39
+  ],
+  [
+   "reason",
+   4,
+   11,
+   19.9,
+   15
+  ],
+  [
+   "directly",
+   4,
+   11,
+   19.9,
+   13
+  ],
+  [
+   "extremely",
+   6,
+   16,
+   20.4,
+   19
+  ],
+  [
+   "sick",
+   5,
+   13,
+   20.8,
+   13
+  ],
+  [
+   "won't",
+   7,
+   18,
+   21.0,
+   25
+  ],
+  [
+   "sour sop",
+   6,
+   15,
+   21.5,
+   18
+  ],
+  [
+   "first time",
+   8,
+   20,
+   21.5,
+   24
+  ],
+  [
+   "purchase",
+   16,
+   40,
+   21.5,
+   46
+  ],
+  [
+   "ordering",
+   7,
+   17,
+   22.0,
+   24
+  ],
+  [
+   "anything",
+   12,
+   29,
+   22.1,
+   38
+  ],
+  [
+   "change",
+   10,
+   24,
+   22.2,
+   27
+  ],
+  [
+   "package",
+   10,
+   24,
+   22.2,
+   27
+  ],
+  [
+   "quality",
+   22,
+   52,
+   22.4,
+   50
+  ],
+  [
+   "brand",
+   6,
+   14,
+   22.7,
+   17
+  ],
+  [
+   "set",
+   9,
+   20,
+   23.5,
+   18
+  ],
+  [
+   "no longer",
+   5,
+   11,
+   23.7,
+   12
+  ],
+  [
+   "sop",
+   7,
+   15,
+   24.2,
+   19
+  ],
+  [
+   "terrible",
+   8,
+   17,
+   24.4,
+   21
+  ],
+  [
+   "item",
+   9,
+   19,
+   24.5,
+   26
+  ],
+  [
+   "customer",
+   9,
+   19,
+   24.5,
+   23
+  ],
+  [
+   "not",
+   180,
+   376,
+   24.7,
+   351
+  ],
+  [
+   "down",
+   46,
+   95,
+   24.9,
+   115
+  ],
+  [
+   "able",
+   6,
+   12,
+   25.5,
+   17
+  ],
+  [
+   "couldn't",
+   7,
+   14,
+   25.5,
+   19
+  ],
+  [
+   "i'll",
+   6,
+   12,
+   25.5,
+   16
+  ],
+  [
+   "dont",
+   5,
+   10,
+   25.5,
+   13
+  ],
+  [
+   "don't know",
+   6,
+   12,
+   25.5,
+   17
+  ],
+  [
+   "last",
+   18,
+   34,
+   26.6,
+   46
+  ],
+  [
+   "packaging",
+   8,
+   15,
+   26.7,
+   19
+  ],
+  [
+   "first",
+   44,
+   82,
+   26.9,
+   100
+  ],
+  [
+   "inside",
+   7,
+   13,
+   26.9,
+   18
+  ],
+  [
+   "once",
+   7,
+   13,
+   26.9,
+   20
+  ],
+  [
+   "not bitter",
+   6,
+   11,
+   27.2,
+   14
+  ],
+  [
+   "buying",
+   11,
+   19,
+   28.4,
+   29
+  ],
+  [
+   "why",
+   7,
+   12,
+   28.5,
+   19
+  ],
+  [
+   "new",
+   10,
+   17,
+   28.7,
+   25
+  ],
+  [
+   "both bottles",
+   6,
+   10,
+   29.1,
+   15
+  ],
+  [
+   "comes",
+   9,
+   15,
+   29.1,
+   22
+  ],
+  [
+   "look",
+   6,
+   10,
+   29.1,
+   16
+  ],
+  [
+   "again",
+   33,
+   54,
+   29.5,
+   82
+  ],
+  [
+   "longer",
+   8,
+   13,
+   29.6,
+   17
+  ],
+  [
+   "mouth",
+   7,
+   11,
+   30.3,
+   15
+  ],
+  [
+   "months",
+   9,
+   14,
+   30.5,
+   21
+  ],
+  [
+   "can't",
+   15,
+   23,
+   30.9,
+   33
+  ],
+  [
+   "tastes",
+   30,
+   46,
+   30.9,
+   62
+  ],
+  [
+   "smell",
+   6,
+   9,
+   31.3,
+   15
+  ],
+  [
+   "however",
+   12,
+   18,
+   31.3,
+   29
+  ],
+  [
+   "please",
+   12,
+   18,
+   31.3,
+   28
+  ],
+  [
+   "said",
+   8,
+   12,
+   31.3,
+   19
+  ],
+  [
+   "delivery",
+   8,
+   12,
+   31.3,
+   17
+  ],
+  [
+   "another",
+   11,
+   16,
+   32.0,
+   27
+  ],
+  [
+   "gave",
+   7,
+   10,
+   32.4,
+   15
+  ],
+  [
+   "time",
+   61,
+   82,
+   33.7,
+   112
+  ],
+  [
+   "doesn't",
+   23,
+   31,
+   33.7,
+   50
+  ],
+  [
+   "like",
+   117,
+   155,
+   34.1,
+   208
+  ],
+  [
+   "tasting",
+   11,
+   14,
+   35.0,
+   20
+  ],
+  [
+   "thing",
+   16,
+   20,
+   35.4,
+   31
+  ],
+  [
+   "almost",
+   8,
+   10,
+   35.4,
+   16
+  ],
+  [
+   "ago",
+   8,
+   10,
+   35.4,
+   17
+  ],
+  [
+   "ever",
+   16,
+   20,
+   35.4,
+   32
+  ],
+  [
+   "find",
+   8,
+   10,
+   35.4,
+   18
+  ],
+  [
+   "tried",
+   25,
+   31,
+   35.6,
+   50
+  ],
+  [
+   "don't",
+   57,
+   70,
+   35.8,
+   100
+  ],
+  [
+   "what",
+   68,
+   83,
+   35.9,
+   124
+  ],
+  [
+   "still",
+   21,
+   25,
+   36.5,
+   41
+  ],
+  [
+   "there",
+   18,
+   21,
+   37.0,
+   33
+  ],
+  [
+   "arrived",
+   12,
+   14,
+   37.0,
+   25
+  ],
+  [
+   "back",
+   27,
+   31,
+   37.3,
+   52
+  ],
+  [
+   "stop",
+   7,
+   8,
+   37.4,
+   14
+  ],
+  [
+   "smaller",
+   7,
+   8,
+   37.4,
+   13
+  ],
+  [
+   "wasn't",
+   8,
+   9,
+   37.8,
+   15
+  ],
+  [
+   "buy",
+   35,
+   39,
+   38.0,
+   61
+  ],
+  [
+   "next",
+   10,
+   11,
+   38.3,
+   20
+  ],
+  [
+   "second",
+   22,
+   24,
+   38.5,
+   38
+  ],
+  [
+   "because",
+   45,
+   49,
+   38.6,
+   78
+  ],
+  [
+   "even",
+   26,
+   28,
+   38.9,
+   46
+  ],
+  [
+   "past",
+   15,
+   16,
+   39.1,
+   29
+  ],
+  [
+   "their",
+   17,
+   18,
+   39.3,
+   31
+  ],
+  [
+   "any",
+   28,
+   29,
+   39.8,
+   51
+  ],
+  [
+   "before",
+   28,
+   29,
+   39.8,
+   51
+  ],
+  [
+   "now",
+   68,
+   70,
+   39.9,
+   114
+  ],
+  [
+   "something",
+   34,
+   35,
+   39.9,
+   62
+  ],
+  [
+   "product",
+   283,
+   287,
+   40.3,
+   399
+  ],
+  [
+   "should",
+   12,
+   12,
+   40.6,
+   22
+  ],
+  [
+   "horrible",
+   29,
+   29,
+   40.6,
+   47
+  ],
+  [
+   "doesn't taste",
+   10,
+   10,
+   40.6,
+   20
+  ],
+  [
+   "due",
+   8,
+   8,
+   40.6,
+   15
+  ],
+  [
+   "drinking",
+   17,
+   17,
+   40.6,
+   30
+  ],
+  [
+   "water",
+   43,
+   43,
+   40.6,
+   70
+  ],
+  [
+   "other",
+   28,
+   27,
+   41.5,
+   50
+  ],
+  [
+   "sour",
+   21,
+   20,
+   41.8,
+   33
+  ],
+  [
+   "worked",
+   14,
+   13,
+   42.4,
+   25
+  ],
+  [
+   "may",
+   12,
+   11,
+   42.7,
+   23
+  ],
+  [
+   "supposed",
+   12,
+   11,
+   42.7,
+   23
+  ],
+  [
+   "bitterness",
+   11,
+   10,
+   42.9,
+   18
+  ],
+  [
+   "it's not",
+   21,
+   19,
+   43.1,
+   38
+  ],
+  [
+   "today",
+   9,
+   8,
+   43.5,
+   17
+  ],
+  [
+   "all",
+   65,
+   57,
+   43.8,
+   103
+  ],
+  [
+   "know",
+   32,
+   28,
+   43.9,
+   51
+  ],
+  [
+   "myself",
+   8,
+   7,
+   43.9,
+   14
+  ],
+  [
+   "come",
+   8,
+   7,
+   43.9,
+   13
+  ],
+  [
+   "into",
+   13,
+   11,
+   44.7,
+   21
+  ],
+  [
+   "changes",
+   13,
+   11,
+   44.7,
+   22
+  ],
+  [
+   "real",
+   13,
+   11,
+   44.7,
+   22
+  ],
+  [
+   "strong",
+   31,
+   26,
+   44.9,
+   52
+  ],
+  [
+   "both",
+   42,
+   35,
+   45.1,
+   64
+  ],
+  [
+   "reviews",
+   17,
+   14,
+   45.4,
+   27
+  ],
+  [
+   "two",
+   32,
+   26,
+   45.7,
+   52
+  ],
+  [
+   "made",
+   33,
+   26,
+   46.5,
+   52
+  ],
+  [
+   "taste",
+   316,
+   249,
+   46.5,
+   379
+  ],
+  [
+   "products",
+   47,
+   37,
+   46.5,
+   73
+  ],
+  [
+   "ingredients",
+   32,
+   25,
+   46.7,
+   50
+  ],
+  [
+   "let",
+   9,
+   7,
+   46.8,
+   15
+  ],
+  [
+   "awful",
+   18,
+   14,
+   46.8,
+   27
+  ],
+  [
+   "i'm",
+   100,
+   77,
+   47.1,
+   142
+  ],
+  [
+   "review",
+   17,
+   13,
+   47.2,
+   24
+  ],
+  [
+   "want",
+   20,
+   15,
+   47.7,
+   31
+  ],
+  [
+   "nasty",
+   24,
+   18,
+   47.7,
+   39
+  ],
+  [
+   "need",
+   19,
+   14,
+   48.1,
+   31
+  ],
+  [
+   "expected",
+   22,
+   16,
+   48.5,
+   34
+  ],
+  [
+   "work",
+   60,
+   43,
+   48.8,
+   87
+  ],
+  [
+   "absolutely",
+   14,
+   10,
+   48.9,
+   22
+  ],
+  [
+   "oil",
+   14,
+   10,
+   48.9,
+   19
+  ],
+  [
+   "bad",
+   48,
+   34,
+   49.1,
+   68
+  ],
+  [
+   "getting",
+   17,
+   12,
+   49.2,
+   27
+  ],
+  [
+   "think",
+   17,
+   12,
+   49.2,
+   29
+  ],
+  [
+   "many",
+   17,
+   12,
+   49.2,
+   26
+  ],
+  [
+   "hard",
+   10,
+   7,
+   49.4,
+   16
+  ],
+  [
+   "stars",
+   10,
+   7,
+   49.4,
+   17
+  ],
+  [
+   "over",
+   23,
+   16,
+   49.6,
+   35
+  ],
+  [
+   "thought",
+   13,
+   9,
+   49.7,
+   22
+  ],
+  [
+   "who",
+   15,
+   10,
+   50.7,
+   24
+  ],
+  [
+   "month",
+   18,
+   12,
+   50.7,
+   28
+  ],
+  [
+   "went",
+   12,
+   8,
+   50.7,
+   19
+  ],
+  [
+   "mixed",
+   15,
+   10,
+   50.7,
+   23
+  ],
+  [
+   "isn't",
+   14,
+   9,
+   51.6,
+   21
+  ],
+  [
+   "away",
+   11,
+   7,
+   51.8,
+   18
+  ],
+  [
+   "flavor",
+   19,
+   12,
+   52.0,
+   26
+  ],
+  [
+   "liquid",
+   24,
+   15,
+   52.3,
+   36
+  ],
+  [
+   "actually",
+   16,
+   10,
+   52.3,
+   26
+  ],
+  [
+   "advertised",
+   13,
+   8,
+   52.6,
+   19
+  ],
+  [
+   "these",
+   90,
+   55,
+   52.8,
+   111
+  ],
+  [
+   "bitter taste",
+   20,
+   12,
+   53.3,
+   31
+  ],
+  [
+   "potent",
+   15,
+   9,
+   53.3,
+   23
+  ],
+  [
+   "only",
+   35,
+   21,
+   53.3,
+   48
+  ],
+  [
+   "done",
+   10,
+   6,
+   53.3,
+   15
+  ],
+  [
+   "things",
+   15,
+   9,
+   53.3,
+   23
+  ],
+  [
+   "give",
+   25,
+   15,
+   53.3,
+   39
+  ],
+  [
+   "bitter",
+   135,
+   79,
+   53.9,
+   165
+  ],
+  [
+   "how",
+   35,
+   20,
+   54.5,
+   50
+  ],
+  [
+   "going",
+   35,
+   20,
+   54.5,
+   51
+  ],
+  [
+   "right",
+   23,
+   13,
+   54.8,
+   35
+  ],
+  [
+   "sure",
+   25,
+   14,
+   55.0,
+   38
+  ],
+  [
+   "put",
+   18,
+   10,
+   55.2,
+   28
+  ],
+  [
+   "used",
+   35,
+   19,
+   55.8,
+   48
+  ],
+  [
+   "seems",
+   13,
+   7,
+   56.0,
+   18
+  ],
+  [
+   "cleansing",
+   13,
+   7,
+   56.0,
+   18
+  ],
+  [
+   "high",
+   13,
+   7,
+   56.0,
+   18
+  ],
+  [
+   "effects",
+   19,
+   10,
+   56.5,
+   28
+  ],
+  [
+   "which",
+   38,
+   20,
+   56.5,
+   54
+  ],
+  [
+   "way",
+   41,
+   21,
+   57.2,
+   56
+  ],
+  [
+   "about",
+   72,
+   36,
+   57.8,
+   93
+  ],
+  [
+   "these products",
+   18,
+   9,
+   57.8,
+   25
+  ],
+  [
+   "maybe",
+   12,
+   6,
+   57.8,
+   17
+  ],
+  [
+   "felt",
+   18,
+   9,
+   57.8,
+   22
+  ],
+  [
+   "i've",
+   100,
+   50,
+   57.8,
+   128
+  ],
+  [
+   "through",
+   12,
+   6,
+   57.8,
+   17
+  ],
+  [
+   "notice",
+   16,
+   8,
+   57.8,
+   24
+  ],
+  [
+   "make",
+   39,
+   19,
+   58.4,
+   53
+  ],
+  [
+   "seed bitters",
+   42,
+   20,
+   59.0,
+   52
+  ],
+  [
+   "soursop",
+   145,
+   69,
+   59.0,
+   167
+  ],
+  [
+   "people",
+   19,
+   9,
+   59.1,
+   24
+  ],
+  [
+   "trying",
+   15,
+   7,
+   59.5,
+   20
+  ],
+  [
+   "but",
+   310,
+   144,
+   59.6,
+   338
+  ],
+  [
+   "night",
+   13,
+   6,
+   59.7,
+   17
+  ],
+  [
+   "most",
+   13,
+   6,
+   59.7,
+   19
+  ],
+  [
+   "found",
+   13,
+   6,
+   59.7,
+   18
+  ],
+  [
+   "three",
+   13,
+   6,
+   59.7,
+   19
+  ],
+  [
+   "until",
+   13,
+   6,
+   59.7,
+   19
+  ],
+  [
+   "it's",
+   202,
+   92,
+   60.0,
+   222
+  ],
+  [
+   "tea",
+   11,
+   5,
+   60.1,
+   14
+  ],
+  [
+   "shipping",
+   11,
+   5,
+   60.1,
+   16
+  ],
+  [
+   "read",
+   11,
+   5,
+   60.1,
+   14
+  ],
+  [
+   "too",
+   33,
+   15,
+   60.1,
+   47
+  ],
+  [
+   "keep",
+   20,
+   9,
+   60.3,
+   28
+  ],
+  [
+   "some",
+   48,
+   21,
+   61.0,
+   59
+  ],
+  [
+   "use",
+   54,
+   23,
+   61.6,
+   68
+  ],
+  [
+   "says",
+   19,
+   8,
+   61.9,
+   24
+  ],
+  [
+   "stuff",
+   55,
+   23,
+   62.1,
+   65
+  ],
+  [
+   "try",
+   53,
+   22,
+   62.2,
+   63
+  ],
+  [
+   "soursop bitters",
+   68,
+   28,
+   62.4,
+   83
+  ],
+  [
+   "benefits",
+   39,
+   16,
+   62.5,
+   48
+  ],
+  [
+   "bitters",
+   215,
+   87,
+   62.8,
+   204
+  ],
+  [
+   "after",
+   99,
+   40,
+   62.9,
+   115
+  ],
+  [
+   "long",
+   20,
+   8,
+   63.1,
+   26
+  ],
+  [
+   "continue",
+   15,
+   6,
+   63.1,
+   21
+  ],
+  [
+   "bit",
+   20,
+   8,
+   63.1,
+   24
+  ],
+  [
+   "serene",
+   78,
+   31,
+   63.3,
+   92
+  ],
+  [
+   "black",
+   111,
+   43,
+   63.9,
+   120
+  ],
+  [
+   "took",
+   31,
+   12,
+   63.9,
+   39
+  ],
+  [
+   "seed",
+   104,
+   40,
+   64.0,
+   113
+  ],
+  [
+   "out",
+   91,
+   35,
+   64.0,
+   102
+  ],
+  [
+   "haven't",
+   21,
+   8,
+   64.2,
+   26
+  ],
+  [
+   "black seed",
+   102,
+   38,
+   64.7,
+   109
+  ],
+  [
+   "seed oil",
+   11,
+   4,
+   65.3,
+   11
+  ],
+  [
+   "starting",
+   11,
+   4,
+   65.3,
+   14
+  ],
+  [
+   "price",
+   22,
+   8,
+   65.3,
+   26
+  ],
+  [
+   "experience",
+   11,
+   4,
+   65.3,
+   13
+  ],
+  [
+   "much",
+   47,
+   17,
+   65.4,
+   59
+  ],
+  [
+   "day",
+   83,
+   30,
+   65.4,
+   85
+  ],
+  [
+   "drink",
+   42,
+   15,
+   65.7,
+   47
+  ],
+  [
+   "recommend",
+   56,
+   20,
+   65.7,
+   74
+  ],
+  [
+   "always",
+   14,
+   5,
+   65.7,
+   18
+  ],
+  [
+   "really",
+   96,
+   34,
+   65.9,
+   109
+  ],
+  [
+   "couple",
+   17,
+   6,
+   66.0,
+   21
+  ],
+  [
+   "pain",
+   17,
+   6,
+   66.0,
+   20
+  ],
+  [
+   "happy",
+   23,
+   8,
+   66.3,
+   29
+  ],
+  [
+   "see",
+   49,
+   17,
+   66.4,
+   58
+  ],
+  [
+   "each",
+   30,
+   10,
+   67.2,
+   34
+  ],
+  [
+   "side",
+   15,
+   5,
+   67.2,
+   20
+  ],
+  [
+   "without",
+   18,
+   6,
+   67.2,
+   23
+  ],
+  [
+   "stomach",
+   49,
+   16,
+   67.7,
+   59
+  ],
+  [
+   "since",
+   31,
+   10,
+   68.0,
+   40
+  ],
+  [
+   "makes",
+   22,
+   7,
+   68.3,
+   27
+  ],
+  [
+   "days",
+   60,
+   19,
+   68.4,
+   66
+  ],
+  [
+   "juice",
+   54,
+   17,
+   68.5,
+   62
+  ],
+  [
+   "results",
+   64,
+   20,
+   68.6,
+   70
+  ],
+  [
+   "giving",
+   13,
+   4,
+   69.0,
+   16
+  ],
+  [
+   "side effects",
+   13,
+   4,
+   69.0,
+   17
+  ],
+  [
+   "taking",
+   103,
+   31,
+   69.5,
+   110
+  ],
+  [
+   "doing",
+   17,
+   5,
+   69.9,
+   20
+  ],
+  [
+   "yet",
+   24,
+   7,
+   70.1,
+   27
+  ],
+  [
+   "better",
+   83,
+   24,
+   70.3,
+   85
+  ],
+  [
+   "life",
+   14,
+   4,
+   70.5,
+   18
+  ],
+  [
+   "fast",
+   14,
+   4,
+   70.5,
+   15
+  ],
+  [
+   "few",
+   39,
+   11,
+   70.8,
+   43
+  ],
+  [
+   "while",
+   25,
+   7,
+   71.0,
+   31
+  ],
+  [
+   "take",
+   101,
+   28,
+   71.2,
+   109
+  ],
+  [
+   "difference",
+   51,
+   14,
+   71.4,
+   63
+  ],
+  [
+   "using",
+   73,
+   20,
+   71.4,
+   80
+  ],
+  [
+   "bathroom",
+   22,
+   6,
+   71.5,
+   26
+  ],
+  [
+   "tell",
+   22,
+   6,
+   71.5,
+   27
+  ],
+  [
+   "herbs",
+   78,
+   21,
+   71.8,
+   82
+  ],
+  [
+   "though",
+   15,
+   4,
+   72.0,
+   19
+  ],
+  [
+   "serene herbs",
+   57,
+   15,
+   72.2,
+   62
+  ],
+  [
+   "lol",
+   12,
+   3,
+   73.2,
+   14
+  ],
+  [
+   "these bitters",
+   12,
+   3,
+   73.2,
+   13
+  ],
+  [
+   "being",
+   20,
+   5,
+   73.2,
+   22
+  ],
+  [
+   "anyone",
+   20,
+   5,
+   73.2,
+   25
+  ],
+  [
+   "already",
+   16,
+   4,
+   73.2,
+   20
+  ],
+  [
+   "week",
+   48,
+   12,
+   73.2,
+   50
+  ],
+  [
+   "you're",
+   28,
+   7,
+   73.2,
+   32
+  ],
+  [
+   "later",
+   12,
+   3,
+   73.2,
+   15
+  ],
+  [
+   "that's",
+   24,
+   6,
+   73.2,
+   29
+  ],
+  [
+   "say",
+   49,
+   12,
+   73.6,
+   52
+  ],
+  [
+   "morning",
+   29,
+   7,
+   73.9,
+   32
+  ],
+  [
+   "more",
+   122,
+   29,
+   74.2,
+   126
+  ],
+  [
+   "every",
+   38,
+   9,
+   74.3,
+   39
+  ],
+  [
+   "non",
+   17,
+   4,
+   74.4,
+   21
+  ],
+  [
+   "bundle",
+   47,
+   11,
+   74.5,
+   47
+  ],
+  [
+   "level",
+   13,
+   3,
+   74.8,
+   15
+  ],
+  [
+   "effective",
+   27,
+   6,
+   75.5,
+   28
+  ],
+  [
+   "gone",
+   18,
+   4,
+   75.5,
+   20
+  ],
+  [
+   "full",
+   18,
+   4,
+   75.5,
+   21
+  ],
+  [
+   "well",
+   84,
+   18,
+   76.2,
+   89
+  ],
+  [
+   "lost",
+   19,
+   4,
+   76.5,
+   23
+  ],
+  [
+   "especially",
+   19,
+   4,
+   76.5,
+   21
+  ],
+  [
+   "satisfied",
+   15,
+   3,
+   77.4,
+   16
+  ],
+  [
+   "definitely",
+   87,
+   17,
+   77.8,
+   97
+  ],
+  [
+   "healthy",
+   26,
+   5,
+   78.1,
+   30
+  ],
+  [
+   "together",
+   21,
+   4,
+   78.2,
+   23
+  ],
+  [
+   "lot",
+   32,
+   6,
+   78.5,
+   37
+  ],
+  [
+   "supplement",
+   16,
+   3,
+   78.5,
+   17
+  ],
+  [
+   "mix",
+   27,
+   5,
+   78.7,
+   30
+  ],
+  [
+   "looking",
+   38,
+   7,
+   78.8,
+   41
+  ],
+  [
+   "help",
+   39,
+   7,
+   79.2,
+   42
+  ],
+  [
+   "but it's",
+   17,
+   3,
+   79.5,
+   20
+  ],
+  [
+   "improvement",
+   17,
+   3,
+   79.5,
+   20
+  ],
+  [
+   "recommended",
+   18,
+   3,
+   80.4,
+   21
+  ],
+  [
+   "weeks",
+   36,
+   6,
+   80.4,
+   39
+  ],
+  [
+   "good",
+   247,
+   41,
+   80.5,
+   240
+  ],
+  [
+   "daily",
+   43,
+   7,
+   80.8,
+   48
+  ],
+  [
+   "far",
+   37,
+   6,
+   80.8,
+   38
+  ],
+  [
+   "highly",
+   31,
+   5,
+   80.9,
+   35
+  ],
+  [
+   "bloating",
+   44,
+   7,
+   81.1,
+   45
+  ],
+  [
+   "bowel",
+   13,
+   2,
+   81.6,
+   13
+  ],
+  [
+   "within",
+   13,
+   2,
+   81.6,
+   15
+  ],
+  [
+   "amazing",
+   40,
+   6,
+   82.0,
+   38
+  ],
+  [
+   "herbal",
+   48,
+   7,
+   82.4,
+   43
+  ],
+  [
+   "worth",
+   57,
+   8,
+   83.0,
+   61
+  ],
+  [
+   "noticed",
+   58,
+   8,
+   83.2,
+   62
+  ],
+  [
+   "bitter but",
+   29,
+   4,
+   83.2,
+   32
+  ],
+  [
+   "body",
+   73,
+   10,
+   83.3,
+   65
+  ],
+  [
+   "helped",
+   22,
+   3,
+   83.4,
+   25
+  ],
+  [
+   "thank",
+   22,
+   3,
+   83.4,
+   23
+  ],
+  [
+   "appetite",
+   15,
+   2,
+   83.7,
+   15
+  ],
+  [
+   "exactly",
+   16,
+   2,
+   84.6,
+   18
+  ],
+  [
+   "weight",
+   25,
+   3,
+   85.1,
+   26
+  ],
+  [
+   "started",
+   42,
+   5,
+   85.2,
+   43
+  ],
+  [
+   "start",
+   17,
+   2,
+   85.3,
+   19
+  ],
+  [
+   "feel",
+   144,
+   17,
+   85.3,
+   128
+  ],
+  [
+   "amount",
+   17,
+   2,
+   85.3,
+   17
+  ],
+  [
+   "taste but",
+   26,
+   3,
+   85.6,
+   28
+  ],
+  [
+   "bloated",
+   19,
+   2,
+   86.7,
+   21
+  ],
+  [
+   "less",
+   39,
+   4,
+   87.0,
+   38
+  ],
+  [
+   "little",
+   39,
+   4,
+   87.0,
+   34
+  ],
+  [
+   "good product",
+   40,
+   4,
+   87.2,
+   39
+  ],
+  [
+   "herbs soursop",
+   31,
+   3,
+   87.6,
+   32
+  ],
+  [
+   "must",
+   21,
+   2,
+   87.8,
+   23
+  ],
+  [
+   "feels",
+   32,
+   3,
+   87.9,
+   31
+  ],
+  [
+   "great",
+   218,
+   20,
+   88.2,
+   204
+  ],
+  [
+   "working",
+   23,
+   2,
+   88.7,
+   24
+  ],
+  [
+   "feeling",
+   35,
+   3,
+   88.9,
+   35
+  ],
+  [
+   "helps",
+   36,
+   3,
+   89.1,
+   35
+  ],
+  [
+   "health",
+   131,
+   11,
+   89.1,
+   113
+  ],
+  [
+   "system",
+   49,
+   4,
+   89.3,
+   52
+  ],
+  [
+   "gut",
+   87,
+   7,
+   89.5,
+   74
+  ],
+  [
+   "regular",
+   27,
+   2,
+   90.2,
+   29
+  ],
+  [
+   "organic",
+   27,
+   2,
+   90.2,
+   28
+  ],
+  [
+   "lighter",
+   28,
+   2,
+   90.5,
+   29
+  ],
+  [
+   "sugar",
+   14,
+   1,
+   90.5,
+   13
+  ],
+  [
+   "gives",
+   14,
+   1,
+   90.5,
+   15
+  ],
+  [
+   "value",
+   14,
+   1,
+   90.5,
+   15
+  ],
+  [
+   "love",
+   101,
+   7,
+   90.8,
+   96
+  ],
+  [
+   "digestive system",
+   15,
+   1,
+   91.1,
+   16
+  ],
+  [
+   "product works",
+   15,
+   1,
+   91.1,
+   15
+  ],
+  [
+   "job",
+   15,
+   1,
+   91.1,
+   16
+  ],
+  [
+   "issues",
+   30,
+   2,
+   91.1,
+   28
+  ],
+  [
+   "detox",
+   47,
+   3,
+   91.5,
+   42
+  ],
+  [
+   "best",
+   47,
+   3,
+   91.5,
+   41
+  ],
+  [
+   "energy",
+   96,
+   6,
+   91.6,
+   90
+  ],
+  [
+   "support",
+   33,
+   2,
+   91.9,
+   30
+  ],
+  [
+   "natural",
+   68,
+   4,
+   92.1,
+   54
+  ],
+  [
+   "few days",
+   18,
+   1,
+   92.5,
+   18
+  ],
+  [
+   "digestive",
+   41,
+   2,
+   93.3,
+   40
+  ],
+  [
+   "awesome",
+   22,
+   1,
+   93.8,
+   21
+  ],
+  [
+   "gut health",
+   46,
+   2,
+   94.0,
+   38
+  ],
+  [
+   "digestion",
+   73,
+   3,
+   94.3,
+   61
+  ],
+  [
+   "yes",
+   25,
+   1,
+   94.5,
+   24
+  ],
+  [
+   "boost",
+   25,
+   1,
+   94.5,
+   20
+  ],
+  [
+   "works",
+   211,
+   8,
+   94.7,
+   182
+  ],
+  [
+   "highly recommend",
+   26,
+   1,
+   94.7,
+   27
+  ],
+  [
+   "eat",
+   27,
+   1,
+   94.9,
+   25
+  ],
+  [
+   "routine",
+   27,
+   1,
+   94.9,
+   26
+  ],
+  [
+   "overall",
+   56,
+   2,
+   95.0,
+   51
+  ],
+  [
+   "great product",
+   58,
+   2,
+   95.2,
+   55
+  ],
+  [
+   "clean",
+   29,
+   1,
+   95.2,
+   29
+  ],
+  [
+   "excellent",
+   29,
+   1,
+   95.2,
+   27
+  ],
+  [
+   "immune",
+   34,
+   1,
+   95.9,
+   29
+  ],
+  [
+   "easy",
+   27,
+   0,
+   100.0,
+   23
+  ],
+  [
+   "works well",
+   16,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "non gmo",
+   15,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "more energy",
+   28,
+   0,
+   100.0,
+   27
+  ],
+  [
+   "taste good",
+   15,
+   0,
+   100.0,
+   14
+  ],
+  [
+   "works great",
+   25,
+   0,
+   100.0,
+   23
+  ],
+  [
+   "powerful",
+   24,
+   0,
+   100.0,
+   23
+  ],
+  [
+   "throughout",
+   15,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "gmo",
+   15,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "seed bundle",
+   15,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "cleanse",
+   17,
+   0,
+   100.0,
+   16
+  ],
+  [
+   "immune system",
+   16,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "energized",
+   17,
+   0,
+   100.0,
+   17
+  ],
+  [
+   "wellness",
+   33,
+   0,
+   100.0,
+   24
+  ],
+  [
+   "sleep",
+   15,
+   0,
+   100.0,
+   15
+  ],
+  [
+   "really works",
+   22,
+   0,
+   100.0,
+   21
+  ]
+ ]
+}

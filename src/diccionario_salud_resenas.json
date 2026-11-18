@@ -1,0 +1,40 @@
+{
+  "_nota": "Diccionario propio de temas de salud para analizar reseñas (uso interno, no para claims en anuncios). Cada tema es una lista de frases/palabras en minuscula; se buscan como palabra completa. Se amplia cruzando con el CHV (UMLS) y las palabras frecuentes de las reseñas.",
+  "temas": {
+    "digestion": ["digest", "digestion", "digestive", "stomach", "belly", "tummy", "gut", "bloat", "bloating", "bloated", "gas", "gassy", "indigestion", "cramp", "cramps", "abdominal"],
+    "estrenimiento": ["constipation", "constipated", "bowel", "bowels", "bm", "poop", "poo", "stool", "regular", "regularity", "bathroom", "laxative", "go number two"],
+    "diarrea_nausea": ["diarrhea", "loose stool", "nausea", "nauseous", "vomit", "vomiting", "threw up", "throw up", "upset stomach", "queasy"],
+    "acidez_reflujo": ["acid reflux", "reflux", "heartburn", "gerd", "acid", "ulcer", "gastritis"],
+    "parasitos_limpieza": ["parasite", "parasites", "worms", "cleanse", "cleansing", "detox", "candida", "toxins"],
+    "peso_apetito": ["weight", "weight loss", "lose weight", "lost weight", "appetite", "cravings", "metabolism", "belly fat", "pounds", "lbs"],
+    "energia_fatiga": ["energy", "energized", "fatigue", "tired", "exhausted", "sluggish", "stamina"],
+    "sueno_estres": ["sleep", "sleeping", "insomnia", "stress", "anxiety", "anxious", "calm", "relax", "relaxing", "mood"],
+    "azucar_presion": ["blood sugar", "sugar", "diabetes", "diabetic", "a1c", "glucose", "blood pressure", "hypertension", "cholesterol"],
+    "inflamacion_dolor": ["inflammation", "inflamed", "swelling", "pain", "ache", "aching", "joint", "joints", "arthritis", "headache", "migraine"],
+    "inmunidad": ["immune", "immunity", "cold", "flu", "infection", "antibacterial"],
+    "piel_cabello": ["skin", "acne", "rash", "eczema", "hair", "glow"],
+    "higado_rinon_tiroides": ["liver", "kidney", "kidneys", "thyroid", "gallbladder", "hormone", "hormones", "period", "menopause"],
+    "cancer_enfermedad_grave": ["cancer", "tumor", "chemo", "chemotherapy", "tumors"],
+    "efecto_adverso": ["side effect", "side effects", "allergic", "allergy", "reaction", "hives", "dizzy", "dizziness", "sick", "got sick", "made me sick", "worse", "burning", "diarrhea", "vomit", "vomiting", "threw up", "headache", "cramps"]
+  },
+  "resultado": {
+    "mejora": ["helped", "help", "helps", "works", "worked", "working", "relief", "relieved", "better", "improved", "improvement", "feel great", "feeling better", "love it", "amazing", "recommend", "life changing", "noticed a difference", "results"],
+    "sin_efecto": ["no effect", "nothing", "didn't work", "did not work", "doesn't work", "does not work", "no results", "no difference", "waste of money", "not working", "useless"],
+    "efecto_adverso": ["made me sick", "got sick", "side effect", "side effects", "allergic", "reaction", "threw up", "vomit", "vomiting", "worse", "burning", "diarrhea", "cramps", "dizzy"]
+  },
+  "emociones": {
+    "alegria_satisfaccion": ["love", "loved", "happy", "great", "amazing", "awesome", "excellent", "perfect", "wonderful", "fantastic", "best", "satisfied", "pleased", "glad"],
+    "gratitud": ["thank", "thanks", "grateful", "blessed", "appreciate", "god bless"],
+    "esperanza_confianza": ["hope", "hopeful", "trust", "believe", "faith", "recommend", "recommended", "will buy again", "repurchase", "reorder"],
+    "sorpresa": ["surprised", "wow", "unexpected", "didn't expect", "shocked", "blown away"],
+    "decepcion_enojo": ["disappointed", "disappointing", "waste", "useless", "terrible", "worst", "horrible", "awful", "scam", "fake", "angry", "mad", "refund", "return", "never again", "ripoff", "rip off"],
+    "miedo_preocupacion": ["scared", "afraid", "worried", "worry", "concerned", "concern", "fear", "nervous", "careful", "warning", "dangerous", "unsafe"],
+    "asco": ["disgusting", "gross", "nasty", "vile", "yuck", "foul", "undrinkable", "can't stand"],
+    "tristeza_frustracion": ["sad", "frustrated", "frustrating", "tired of", "struggle", "struggling", "desperate", "suffering", "miserable"],
+    "alivio": ["relief", "relieved", "finally", "at last", "no more", "gone"]
+  },
+  "genero_pistas": {
+    "mujer": ["as a woman", "as a mom", "as a mother", "i'm a mom", "i am a mom", "i'm a woman", "i am a woman", "as a wife", "grandmother", "grandma", "my husband and i", "pregnant", "my period", "menopause"],
+    "hombre": ["as a man", "as a dad", "as a father", "i'm a man", "i am a man", "as a husband", "grandfather", "grandpa", "my wife and i", "prostate"]
+  }
+}

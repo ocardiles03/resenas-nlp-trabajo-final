@@ -1,0 +1,151 @@
+﻿termino,tema,frecuencia,estrella_1,estrella_5
+taste,sabor,636,174,238
+bottles,envase_plastico_vidrio,295,159,43
+plastic,envase_plastico_vidrio,236,152,10
+bitter,sabor,225,60,103
+bottle,envase_plastico_vidrio,221,118,27
+glass,envase_plastico_vidrio,195,109,18
+order,entrega_pedido,129,66,21
+different,entrega_pedido,110,66,12
+came,entrega_pedido,105,65,17
+plastic bottles,envase_plastico_vidrio,100,65,5
+water,sabor,90,36,33
+tastes,sabor,86,36,25
+watered,dudas_autenticidad,85,52,1
+quality,dudas_autenticidad,82,29,20
+watered down,dudas_autenticidad,78,46,1
+glass bottles,envase_plastico_vidrio,77,41,8
+received,entrega_pedido,77,41,11
+juice,sabor,75,16,43
+money,precio_valor,74,47,16
+worth,precio_valor,71,6,47
+ordered,entrega_pedido,70,43,10
+drink,sabor,61,11,34
+strong,sabor,61,21,25
+ingredients,dudas_autenticidad,60,16,29
+not the same,dudas_autenticidad,59,41,4
+broken,envase_plastico_vidrio,55,43,2
+sour,sabor,50,19,19
+changed,dudas_autenticidad,48,25,6
+plastic bottle,envase_plastico_vidrio,48,32,1
+nasty,sabor,45,10,17
+glass bottle,envase_plastico_vidrio,44,27,2
+tasted,sabor,40,24,2
+package,envase_plastico_vidrio,36,20,7
+refund,precio_valor,36,24,1
+used to,dudas_autenticidad,36,5,21
+price,precio_valor,35,8,16
+taste like,sabor,35,23,1
+company,dudas_autenticidad,34,23,0
+flavor,sabor,34,7,12
+formula,dudas_autenticidad,34,19,5
+return,entrega_pedido,34,26,0
+bitter taste,sabor,33,7,18
+drinking,sabor,33,16,14
+mix,sabor,33,3,21
+packaging,envase_plastico_vidrio,33,11,2
+waste,precio_valor,32,22,2
+customer,entrega_pedido,30,10,7
+worth it,precio_valor,29,1,20
+arrived,entrega_pedido,27,12,11
+ordering,entrega_pedido,27,14,6
+original,dudas_autenticidad,27,14,1
+mixed,sabor,26,9,13
+tasting,sabor,26,12,7
+box,envase_plastico_vidrio,24,19,2
+real,dudas_autenticidad,24,9,11
+brand,dudas_autenticidad,22,11,6
+tastes like,sabor,22,12,3
+bitterness,sabor,21,8,9
+disgusting,sabor,21,15,3
+delivery,entrega_pedido,20,8,8
+shipping,entrega_pedido,20,4,10
+website,dudas_autenticidad,20,11,2
+batch,dudas_autenticidad,19,8,0
+damaged,entrega_pedido,19,12,1
+first order,entrega_pedido,18,11,0
+mouth,sabor,18,7,5
+same product,dudas_autenticidad,18,14,1
+tea,sabor,18,4,11
+leaking,envase_plastico_vidrio,17,15,1
+color,dudas_autenticidad,16,10,1
+seller,entrega_pedido,16,11,1
+taste good,sabor,16,0,13
+scam,dudas_autenticidad,15,14,1
+sealed,envase_plastico_vidrio,15,6,5
+shot,sabor,15,2,6
+smell,sabor,15,6,5
+value,precio_valor,15,0,13
+consistency,dudas_autenticidad,14,7,1
+delivered,entrega_pedido,14,9,2
+expensive,precio_valor,14,5,4
+subscription,entrega_pedido,14,5,1
+container,envase_plastico_vidrio,13,7,1
+on time,entrega_pedido,13,1,9
+one bottle,envase_plastico_vidrio,13,7,3
+orders,entrega_pedido,13,10,0
+seal,envase_plastico_vidrio,13,9,0
+service,entrega_pedido,13,6,2
+swallow,sabor,13,5,6
+thick,dudas_autenticidad,13,10,1
+totally different,dudas_autenticidad,13,10,0
+unbearable,sabor,13,5,4
+version,dudas_autenticidad,13,8,0
+empty,envase_plastico_vidrio,12,4,5
+honey,sabor,12,2,7
+horrible taste,sabor,12,3,3
+mixing,sabor,12,4,5
+opened,envase_plastico_vidrio,12,8,0
+order came,entrega_pedido,12,6,2
+sent,entrega_pedido,12,6,2
+tolerable,sabor,12,2,6
+customer service,entrega_pedido,11,6,1
+diluted,dudas_autenticidad,11,3,2
+save,precio_valor,11,8,1
+sweet,sabor,11,2,8
+clear,dudas_autenticidad,10,2,5
+coffee,sabor,10,1,6
+completely different,dudas_autenticidad,10,7,0
+containers,envase_plastico_vidrio,10,8,0
+dark,dudas_autenticidad,10,7,1
+definitely worth,precio_valor,10,0,10
+earthy,sabor,10,2,6
+label,dudas_autenticidad,10,6,2
+lemon,sabor,10,1,5
+nothing like,dudas_autenticidad,10,6,0
+open,envase_plastico_vidrio,10,4,1
+receive,entrega_pedido,10,5,2
+shipment,entrega_pedido,10,5,0
+vendor,entrega_pedido,10,4,3
+deal,precio_valor,9,4,5
+packaged,envase_plastico_vidrio,9,2,4
+send,entrega_pedido,9,5,1
+watery,dudas_autenticidad,9,7,0
+wrap,envase_plastico_vidrio,9,4,4
+aftertaste,sabor,8,3,3
+cheap,precio_valor,8,7,0
+cheaper,precio_valor,8,7,0
+flavors,sabor,8,3,4
+gag,sabor,8,5,1
+last order,entrega_pedido,8,4,0
+orange juice,sabor,8,1,7
+originally,dudas_autenticidad,8,5,0
+packed,envase_plastico_vidrio,8,1,7
+paid,precio_valor,8,4,1
+replacement,entrega_pedido,8,5,0
+returned,entrega_pedido,8,6,0
+ship,entrega_pedido,8,7,0
+sip,sabor,8,0,6
+taste different,sabor,8,2,0
+tastes terrible,sabor,8,2,4
+two bottles,envase_plastico_vidrio,8,3,3
+unpleasant,sabor,8,2,4
+waste of money,precio_valor,8,7,0
+wasted,precio_valor,8,8,0
+broken glass,envase_plastico_vidrio,7,6,0
+canceled,entrega_pedido,7,4,0
+chase,sabor,7,2,4
+cost,precio_valor,7,5,0
+drinks,sabor,7,2,3
+extremely bitter,sabor,7,2,3
+great value,precio_valor,7,0,7

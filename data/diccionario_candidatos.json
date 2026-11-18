@@ -1,0 +1,6331 @@
+{
+  "digestion": {
+    "terminos": [
+      {
+        "termino": "bowel",
+        "fuente": "wordnet",
+        "id_fuente": "noun:02983741",
+        "sinonimos": [
+          "gut",
+          "intestine"
+        ],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:02983741"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05534333"
+          }
+        ]
+      },
+      {
+        "termino": "digestion",
+        "fuente": "mesh",
+        "id_fuente": "D004063",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D004063"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13465809"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13465998"
+          }
+        ]
+      },
+      {
+        "termino": "indigestion",
+        "fuente": "medlineplus",
+        "id_fuente": "4293",
+        "sinonimos": [
+          "dyspepsia"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4293"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0410281"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D004415"
+          }
+        ]
+      },
+      {
+        "termino": "stomach",
+        "fuente": "mesh",
+        "id_fuente": "D013270",
+        "sinonimos": [
+          "abdomen",
+          "belly"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013270"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05556943"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07485916"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07499276"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00668099"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:01197626"
+          }
+        ]
+      },
+      {
+        "termino": "acid indigestion",
+        "fuente": "medlineplus",
+        "id_fuente": "512",
+        "sinonimos": [
+          "acid reflux",
+          "acid reflux disease",
+          "esophageal reflux",
+          "gastric acid reflux",
+          "gastric acid reflux disease",
+          "gastroesophageal reflux",
+          "gastroesophageal reflux disease",
+          "heartburn"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "512"
+          },
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1653"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002020"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005764"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006356"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14335223"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14335485"
+          }
+        ]
+      },
+      {
+        "termino": "bowel function",
+        "fuente": "medlineplus",
+        "id_fuente": "5262",
+        "sinonimos": [
+          "bowel movement",
+          "bowel movements",
+          "stool"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5262"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003672"
+          }
+        ]
+      },
+      {
+        "termino": "bowel incontinence",
+        "fuente": "medlineplus",
+        "id_fuente": "5316",
+        "sinonimos": [
+          "anal incontinence",
+          "faecal incontinence",
+          "fecal incontinence"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5316"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002607"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005242"
+          }
+        ]
+      },
+      {
+        "termino": "digestive diseases",
+        "fuente": "medlineplus",
+        "id_fuente": "29",
+        "sinonimos": [
+          "gastrointestinal diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "29"
+          }
+        ]
+      },
+      {
+        "termino": "digestive tract",
+        "fuente": "mesh",
+        "id_fuente": "D041981",
+        "sinonimos": [
+          "gastrointestinal tract"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D041981"
+          }
+        ]
+      },
+      {
+        "termino": "stomach cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "419",
+        "sinonimos": [
+          "gastric cancer",
+          "gastric neoplasm",
+          "gastric neoplasms",
+          "stomach neoplasm",
+          "stomach neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "419"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012126"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013274"
+          }
+        ]
+      },
+      {
+        "termino": "stomach disease",
+        "fuente": "mesh",
+        "id_fuente": "D013272",
+        "sinonimos": [
+          "gastric disease",
+          "gastric diseases",
+          "stomach diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013272"
+          }
+        ]
+      },
+      {
+        "termino": "stomach disorders",
+        "fuente": "medlineplus",
+        "id_fuente": "420",
+        "sinonimos": [
+          "gastric disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "420"
+          }
+        ]
+      },
+      {
+        "termino": "stomach inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0005263",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0005263"
+          }
+        ]
+      },
+      {
+        "termino": "stomach pain",
+        "fuente": "medlineplus",
+        "id_fuente": "3061",
+        "sinonimos": [
+          "abdominal pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3061"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002027"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015746"
+          }
+        ]
+      },
+      {
+        "termino": "stomach tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0006753",
+        "sinonimos": [
+          "stomach tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0006753"
+          }
+        ]
+      },
+      {
+        "termino": "bloody bowel movement",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025085",
+        "sinonimos": [
+          "bloody diarrhea"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025085"
+          }
+        ]
+      },
+      {
+        "termino": "inflammatory bowel disease",
+        "fuente": "mesh",
+        "id_fuente": "D015212",
+        "sinonimos": [
+          "inflammatory bowel diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015212"
+          }
+        ]
+      }
+    ]
+  },
+  "bloating_gas": {
+    "terminos": [
+      {
+        "termino": "bloating",
+        "fuente": "hpo",
+        "id_fuente": "HP:0003270",
+        "sinonimos": [
+          "abdominal bloating",
+          "abdominal distension",
+          "abdominal distention",
+          "abdominal swelling",
+          "belly bloating"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003270"
+          }
+        ]
+      },
+      {
+        "termino": "flatulence",
+        "fuente": "medlineplus",
+        "id_fuente": "4291",
+        "sinonimos": [
+          "gas"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4291"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0033589"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005414"
+          }
+        ]
+      }
+    ]
+  },
+  "constipation": {
+    "terminos": [
+      {
+        "termino": "constipated",
+        "fuente": "wordnet",
+        "id_fuente": "adj:00638253",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:00638253"
+          }
+        ]
+      },
+      {
+        "termino": "constipation",
+        "fuente": "medlineplus",
+        "id_fuente": "200",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "200"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002019"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003248"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14371161"
+          }
+        ]
+      },
+      {
+        "termino": "acute constipation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012451",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012451"
+          }
+        ]
+      },
+      {
+        "termino": "chronic constipation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012450",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012450"
+          }
+        ]
+      }
+    ]
+  },
+  "diarrhea_nausea_vomiting": {
+    "terminos": [
+      {
+        "termino": "diarrhea",
+        "fuente": "medlineplus",
+        "id_fuente": "211",
+        "sinonimos": [
+          "diarrhoea"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "211"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002014"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003967"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14371913"
+          }
+        ]
+      },
+      {
+        "termino": "nausea",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002018",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002018"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009325"
+          }
+        ]
+      },
+      {
+        "termino": "vomiting",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002013",
+        "sinonimos": [
+          "vomit"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002013"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014839"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:00118733"
+          }
+        ]
+      },
+      {
+        "termino": "bloody diarrhea",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025085",
+        "sinonimos": [
+          "bloody bowel movement"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025085"
+          }
+        ]
+      },
+      {
+        "termino": "chronic diarrhea",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002028",
+        "sinonimos": [
+          "chronic diarrhoea"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002028"
+          }
+        ]
+      },
+      {
+        "termino": "faecal vomiting",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025089",
+        "sinonimos": [
+          "fecal vomiting"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025089"
+          }
+        ]
+      },
+      {
+        "termino": "infantile diarrhea",
+        "fuente": "mesh",
+        "id_fuente": "D003968",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003968"
+          }
+        ]
+      },
+      {
+        "termino": "vomiting blood",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002248",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002248"
+          }
+        ]
+      }
+    ]
+  },
+  "acid_reflux_heartburn": {
+    "terminos": [
+      {
+        "termino": "heartburn",
+        "fuente": "medlineplus",
+        "id_fuente": "512",
+        "sinonimos": [
+          "acid indigestion",
+          "acid reflux",
+          "acid reflux disease",
+          "esophageal reflux",
+          "gastric acid reflux",
+          "gastric acid reflux disease",
+          "gastroesophageal reflux",
+          "gastroesophageal reflux disease"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "512"
+          },
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1653"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002020"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005764"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006356"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14335223"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14335485"
+          }
+        ]
+      }
+    ]
+  },
+  "parasites_detox_cleanse": {
+    "terminos": [
+      {
+        "termino": "cleanse",
+        "fuente": "wordnet",
+        "id_fuente": "verb:00035758",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00035758"
+          }
+        ]
+      },
+      {
+        "termino": "detox",
+        "fuente": "wordnet",
+        "id_fuente": "verb:00079788",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00079788"
+          }
+        ]
+      },
+      {
+        "termino": "detoxification",
+        "fuente": "wordnet",
+        "id_fuente": "noun:00699146",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:00699146"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:00699320"
+          }
+        ]
+      },
+      {
+        "termino": "parasite",
+        "fuente": "mesh",
+        "id_fuente": "D010271",
+        "sinonimos": [
+          "parasites"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D010271"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic",
+        "fuente": "wordnet",
+        "id_fuente": "adj:00726723",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:00726723"
+          }
+        ]
+      },
+      {
+        "termino": "blood parasite",
+        "fuente": "hpo",
+        "id_fuente": "HP:0034523",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0034523"
+          }
+        ]
+      },
+      {
+        "termino": "parasite allergy",
+        "fuente": "hpo",
+        "id_fuente": "HP:0410337",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0410337"
+          }
+        ]
+      },
+      {
+        "termino": "parasite infection",
+        "fuente": "medlineplus",
+        "id_fuente": "482",
+        "sinonimos": [
+          "parasite infections",
+          "parasitic disease",
+          "parasitic diseases",
+          "parasitic infection",
+          "parasitic infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "482"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D010272"
+          }
+        ]
+      },
+      {
+        "termino": "lung parasitic infection",
+        "fuente": "mesh",
+        "id_fuente": "D008174",
+        "sinonimos": [
+          "lung parasitic infections",
+          "parasitic lung disease",
+          "parasitic lung diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008174"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic complications pregnancy",
+        "fuente": "mesh",
+        "id_fuente": "D015597",
+        "sinonimos": [
+          "parasitic pregnancy complication",
+          "parasitic pregnancy complications"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015597"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic eye infection",
+        "fuente": "mesh",
+        "id_fuente": "D015822",
+        "sinonimos": [
+          "parasitic eye infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015822"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic intestinal disease",
+        "fuente": "mesh",
+        "id_fuente": "D007411",
+        "sinonimos": [
+          "parasitic intestinal diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007411"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic liver disease",
+        "fuente": "mesh",
+        "id_fuente": "D008109",
+        "sinonimos": [
+          "parasitic liver diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008109"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic skin disease",
+        "fuente": "mesh",
+        "id_fuente": "D012876",
+        "sinonimos": [
+          "parasitic skin diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012876"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent parasitic infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030885",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030885"
+          }
+        ]
+      }
+    ]
+  },
+  "weight_appetite_obesity": {
+    "terminos": [
+      {
+        "termino": "appetite",
+        "fuente": "mesh",
+        "id_fuente": "D001066",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001066"
+          }
+        ]
+      },
+      {
+        "termino": "obesity",
+        "fuente": "medlineplus",
+        "id_fuente": "61",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "61"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001513"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009765"
+          }
+        ]
+      },
+      {
+        "termino": "overweight",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025502",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025502"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D050177"
+          }
+        ]
+      },
+      {
+        "termino": "weight",
+        "fuente": "wordnet",
+        "id_fuente": "noun:05172322",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05172322"
+          }
+        ]
+      },
+      {
+        "termino": "abdominal obesity",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012743",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012743"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D056128"
+          }
+        ]
+      },
+      {
+        "termino": "appetite disorder",
+        "fuente": "mesh",
+        "id_fuente": "D001068",
+        "sinonimos": [
+          "appetite disorders",
+          "eating disorder",
+          "eating disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001068"
+          }
+        ]
+      },
+      {
+        "termino": "body weight",
+        "fuente": "medlineplus",
+        "id_fuente": "5610",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5610"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001835"
+          }
+        ]
+      },
+      {
+        "termino": "childhood obesity",
+        "fuente": "mesh",
+        "id_fuente": "D063766",
+        "sinonimos": [
+          "childhood overweight",
+          "infant obesity",
+          "infant overweight",
+          "infantile obesity"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D063766"
+          }
+        ]
+      },
+      {
+        "termino": "decreased appetite",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004396",
+        "sinonimos": [
+          "poor appetite"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004396"
+          }
+        ]
+      },
+      {
+        "termino": "decreased weight",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004325",
+        "sinonimos": [
+          "decreased body weight",
+          "low body weight",
+          "low weight"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004325"
+          }
+        ]
+      },
+      {
+        "termino": "diabetes-related obesity",
+        "fuente": "mesh",
+        "id_fuente": "D000099074",
+        "sinonimos": [
+          "diabetes related obesity",
+          "diabetic obesity",
+          "obesity related diabetes",
+          "obesity-related diabetes"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000099074"
+          }
+        ]
+      },
+      {
+        "termino": "severe obesity",
+        "fuente": "mesh",
+        "id_fuente": "D009767",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009767"
+          }
+        ]
+      },
+      {
+        "termino": "tumor weight",
+        "fuente": "mesh",
+        "id_fuente": "D047368",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D047368"
+          }
+        ]
+      },
+      {
+        "termino": "weight gain",
+        "fuente": "mesh",
+        "id_fuente": "D015430",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015430"
+          }
+        ]
+      },
+      {
+        "termino": "weight loss",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001824",
+        "sinonimos": [
+          "weight reduction"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001824"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015431"
+          }
+        ]
+      },
+      {
+        "termino": "increased body weight",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004324",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004324"
+          }
+        ]
+      },
+      {
+        "termino": "pregnancy weight gain",
+        "fuente": "mesh",
+        "id_fuente": "D000078064",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000078064"
+          }
+        ]
+      }
+    ]
+  },
+  "energy_fatigue": {
+    "terminos": [
+      {
+        "termino": "fatigue",
+        "fuente": "medlineplus",
+        "id_fuente": "5324",
+        "sinonimos": [
+          "tired",
+          "tiredness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5324"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012378"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005221"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:00730708"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07540081"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14016361"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14463676"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00075021"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00076114"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:01688757"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:02431728"
+          }
+        ]
+      },
+      {
+        "termino": "lethargy",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001254",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001254"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D053609"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14014990"
+          }
+        ]
+      },
+      {
+        "termino": "chronic fatigue",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012432",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012432"
+          }
+        ]
+      },
+      {
+        "termino": "emotional fatigue",
+        "fuente": "mesh",
+        "id_fuente": "D000097815",
+        "sinonimos": [
+          "emotional exhaustion"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000097815"
+          }
+        ]
+      },
+      {
+        "termino": "eye fatigue",
+        "fuente": "mesh",
+        "id_fuente": "D001248",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001248"
+          }
+        ]
+      },
+      {
+        "termino": "heat fatigue",
+        "fuente": "mesh",
+        "id_fuente": "D018882",
+        "sinonimos": [
+          "heat cramps",
+          "heat stress disorder",
+          "heat stress disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018882"
+          }
+        ]
+      },
+      {
+        "termino": "muscle fatigue",
+        "fuente": "mesh",
+        "id_fuente": "D018763",
+        "sinonimos": [
+          "muscular fatigue"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018763"
+          }
+        ]
+      },
+      {
+        "termino": "chronic fatigue disorder",
+        "fuente": "mesh",
+        "id_fuente": "D015673",
+        "sinonimos": [
+          "chronic fatigue disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015673"
+          }
+        ]
+      }
+    ]
+  },
+  "sleep_stress_anxiety": {
+    "terminos": [
+      {
+        "termino": "anxiety",
+        "fuente": "medlineplus",
+        "id_fuente": "144",
+        "sinonimos": [
+          "nervousness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "144"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000739"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001007"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07523905"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14374432"
+          }
+        ]
+      },
+      {
+        "termino": "anxious",
+        "fuente": "wordnet",
+        "id_fuente": "adj:02456157",
+        "sinonimos": [
+          "nervous"
+        ],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:02456157"
+          }
+        ]
+      },
+      {
+        "termino": "insomnia",
+        "fuente": "medlineplus",
+        "id_fuente": "6055",
+        "sinonimos": [
+          "chronic insomnia",
+          "insomnia disorder",
+          "insomnia disorders",
+          "primary insomnia",
+          "sleeplessness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "6055"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100785"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007319"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14023374"
+          }
+        ]
+      },
+      {
+        "termino": "sleep",
+        "fuente": "mesh",
+        "id_fuente": "D012890",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012890"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13962765"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14024882"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14025993"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:15273626"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00014742"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:02701445"
+          }
+        ]
+      },
+      {
+        "termino": "stress",
+        "fuente": "medlineplus",
+        "id_fuente": "422",
+        "sinonimos": [
+          "emotional stress",
+          "psychological stress",
+          "tension"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "422"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013315"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:11514805"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14376188"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14410089"
+          }
+        ]
+      },
+      {
+        "termino": "anxiety disorder",
+        "fuente": "mesh",
+        "id_fuente": "D001008",
+        "sinonimos": [
+          "anxiety disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001008"
+          }
+        ]
+      },
+      {
+        "termino": "cold stress",
+        "fuente": "mesh",
+        "id_fuente": "D058639",
+        "sinonimos": [
+          "cold stress reaction",
+          "cold-stress reaction",
+          "cold-stress reactions"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D058639"
+          }
+        ]
+      },
+      {
+        "termino": "dental anxiety",
+        "fuente": "mesh",
+        "id_fuente": "D016854",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D016854"
+          }
+        ]
+      },
+      {
+        "termino": "excessive sleep",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025288",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025288"
+          }
+        ]
+      },
+      {
+        "termino": "generalized anxiety",
+        "fuente": "mesh",
+        "id_fuente": "D000098647",
+        "sinonimos": [
+          "generalized anxiety disorder",
+          "generalized anxiety disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000098647"
+          }
+        ]
+      },
+      {
+        "termino": "heat stress",
+        "fuente": "mesh",
+        "id_fuente": "D018869",
+        "sinonimos": [
+          "heat stress reaction",
+          "heat-stress reaction",
+          "heat-stress reactions"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018869"
+          }
+        ]
+      },
+      {
+        "termino": "metabolic stress",
+        "fuente": "mesh",
+        "id_fuente": "D013312",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013312"
+          }
+        ]
+      },
+      {
+        "termino": "poor sleep",
+        "fuente": "hpo",
+        "id_fuente": "HP:4000064",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:4000064"
+          }
+        ]
+      },
+      {
+        "termino": "restless sleep",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025199",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025199"
+          }
+        ]
+      },
+      {
+        "termino": "sleep abnormality",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002360",
+        "sinonimos": [
+          "sleep dysfunction"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002360"
+          }
+        ]
+      },
+      {
+        "termino": "sleep attack",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002330",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002330"
+          }
+        ]
+      },
+      {
+        "termino": "sleep disorder",
+        "fuente": "medlineplus",
+        "id_fuente": "408",
+        "sinonimos": [
+          "sleep disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "408"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012893"
+          }
+        ]
+      },
+      {
+        "termino": "sleep eating",
+        "fuente": "hpo",
+        "id_fuente": "HP:5200288",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:5200288"
+          }
+        ]
+      },
+      {
+        "termino": "stress eating",
+        "fuente": "mesh",
+        "id_fuente": "D000098382",
+        "sinonimos": [
+          "emotional eating"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000098382"
+          }
+        ]
+      },
+      {
+        "termino": "stress headache",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012228",
+        "sinonimos": [
+          "tension headache",
+          "tension type headache",
+          "tension-type headache"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012228"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018781"
+          }
+        ]
+      },
+      {
+        "termino": "stress immunity",
+        "fuente": "mesh",
+        "id_fuente": "D055500",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D055500"
+          }
+        ]
+      },
+      {
+        "termino": "acute stress disorder",
+        "fuente": "mesh",
+        "id_fuente": "D040701",
+        "sinonimos": [
+          "acute stress disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D040701"
+          }
+        ]
+      },
+      {
+        "termino": "bone stress reaction",
+        "fuente": "mesh",
+        "id_fuente": "D015775",
+        "sinonimos": [
+          "bone stress reactions"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015775"
+          }
+        ]
+      },
+      {
+        "termino": "heat stress disorder",
+        "fuente": "mesh",
+        "id_fuente": "D018882",
+        "sinonimos": [
+          "heat cramps",
+          "heat fatigue",
+          "heat stress disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018882"
+          }
+        ]
+      },
+      {
+        "termino": "sleep-related breathing disorders",
+        "fuente": "hpo",
+        "id_fuente": "HP:5200283",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:5200283"
+          }
+        ]
+      },
+      {
+        "termino": "stress urinary incontinence",
+        "fuente": "hpo",
+        "id_fuente": "HP:0010992",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0010992"
+          }
+        ]
+      },
+      {
+        "termino": "urinary stress incontinence",
+        "fuente": "mesh",
+        "id_fuente": "D014550",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014550"
+          }
+        ]
+      }
+    ]
+  },
+  "blood_sugar_diabetes_pressure_cholesterol": {
+    "terminos": [
+      {
+        "termino": "blood glucose",
+        "fuente": "medlineplus",
+        "id_fuente": "6121",
+        "sinonimos": [
+          "blood sugar"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "6121"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001786"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14884481"
+          }
+        ]
+      },
+      {
+        "termino": "blood pressure",
+        "fuente": "mesh",
+        "id_fuente": "D001794",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001794"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:11429968"
+          }
+        ]
+      },
+      {
+        "termino": "cholesterol",
+        "fuente": "medlineplus",
+        "id_fuente": "26",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "26"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D002784"
+          }
+        ]
+      },
+      {
+        "termino": "diabetes",
+        "fuente": "medlineplus",
+        "id_fuente": "4",
+        "sinonimos": [
+          "diabetes mellitus"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000819"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003920"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14117805"
+          }
+        ]
+      },
+      {
+        "termino": "hypertension",
+        "fuente": "medlineplus",
+        "id_fuente": "34",
+        "sinonimos": [
+          "benign essential hypertension",
+          "essential hypertension",
+          "high blood pressure",
+          "primary hypertension",
+          "systemic hypertension"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "34"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000822"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006973"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000075222"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14103510"
+          }
+        ]
+      },
+      {
+        "termino": "autoimmune diabetes",
+        "fuente": "mesh",
+        "id_fuente": "D003922",
+        "sinonimos": [
+          "brittle diabetes mellitus"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003922"
+          }
+        ]
+      },
+      {
+        "termino": "diabetes complication",
+        "fuente": "medlineplus",
+        "id_fuente": "4567",
+        "sinonimos": [
+          "diabetes complications",
+          "diabetes mellitus complication",
+          "diabetes mellitus complications",
+          "diabetes related complications",
+          "diabetes-related complication",
+          "diabetes-related complications",
+          "diabetic complication",
+          "diabetic complications"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4567"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D048909"
+          }
+        ]
+      },
+      {
+        "termino": "diabetes-related obesity",
+        "fuente": "mesh",
+        "id_fuente": "D000099074",
+        "sinonimos": [
+          "diabetes related obesity",
+          "diabetic obesity",
+          "obesity related diabetes",
+          "obesity-related diabetes"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000099074"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic feet",
+        "fuente": "medlineplus",
+        "id_fuente": "1341",
+        "sinonimos": [
+          "diabetic foot"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1341"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017719"
+          }
+        ]
+      },
+      {
+        "termino": "elevated cholesterol",
+        "fuente": "mesh",
+        "id_fuente": "D006937",
+        "sinonimos": [
+          "high cholesterol level",
+          "high cholesterol levels"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006937"
+          }
+        ]
+      },
+      {
+        "termino": "insulin-resistant diabetes",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000831",
+        "sinonimos": [
+          "insulin resistant diabetes",
+          "insulin resistant diabetes mellitus",
+          "insulin-resistant diabetes mellitus"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000831"
+          }
+        ]
+      },
+      {
+        "termino": "malignant hypertension",
+        "fuente": "mesh",
+        "id_fuente": "D006974",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006974"
+          }
+        ]
+      },
+      {
+        "termino": "renal hypertension",
+        "fuente": "mesh",
+        "id_fuente": "D006977",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006977"
+          }
+        ]
+      },
+      {
+        "termino": "resistant hypertension",
+        "fuente": "hpo",
+        "id_fuente": "HP:0430034",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0430034"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic eye problems",
+        "fuente": "medlineplus",
+        "id_fuente": "1340",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1340"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic heart disease",
+        "fuente": "medlineplus",
+        "id_fuente": "6011",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "6011"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic kidney disease",
+        "fuente": "mesh",
+        "id_fuente": "D003928",
+        "sinonimos": [
+          "diabetic kidney diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003928"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic kidney problems",
+        "fuente": "medlineplus",
+        "id_fuente": "1559",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1559"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic nerve problems",
+        "fuente": "medlineplus",
+        "id_fuente": "1465",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1465"
+          }
+        ]
+      },
+      {
+        "termino": "elevated total cholesterol",
+        "fuente": "hpo",
+        "id_fuente": "HP:0003124",
+        "sinonimos": [
+          "increased total cholesterol"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003124"
+          }
+        ]
+      },
+      {
+        "termino": "high blood glucose",
+        "fuente": "medlineplus",
+        "id_fuente": "6125",
+        "sinonimos": [
+          "high blood sugar"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "6125"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003074"
+          }
+        ]
+      },
+      {
+        "termino": "increased blood pressure",
+        "fuente": "hpo",
+        "id_fuente": "HP:0032263",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0032263"
+          }
+        ]
+      },
+      {
+        "termino": "low blood pressure",
+        "fuente": "medlineplus",
+        "id_fuente": "1225",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1225"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002615"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007022"
+          }
+        ]
+      },
+      {
+        "termino": "low blood sugar",
+        "fuente": "medlineplus",
+        "id_fuente": "1264",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1264"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001943"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal systemic blood pressure",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030972",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030972"
+          }
+        ]
+      }
+    ]
+  },
+  "inflammation_pain_arthritis_headache": {
+    "terminos": [
+      {
+        "termino": "arthritis",
+        "fuente": "medlineplus",
+        "id_fuente": "23",
+        "sinonimos": [
+          "joint inflammation"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "23"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001369"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001168"
+          }
+        ]
+      },
+      {
+        "termino": "headache",
+        "fuente": "medlineplus",
+        "id_fuente": "273",
+        "sinonimos": [
+          "generalized headache",
+          "head ache",
+          "head pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "273"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002315"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006261"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05832264"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14326607"
+          }
+        ]
+      },
+      {
+        "termino": "inflammation",
+        "fuente": "mesh",
+        "id_fuente": "D007249",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007249"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:01261712"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14037011"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14336539"
+          }
+        ]
+      },
+      {
+        "termino": "pain",
+        "fuente": "medlineplus",
+        "id_fuente": "351",
+        "sinonimos": [
+          "ache",
+          "aches",
+          "burning pain",
+          "trouble"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "351"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012531"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D010146"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05724694"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07494363"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:10391513"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14322699"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:00070816"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:01792567"
+          }
+        ]
+      },
+      {
+        "termino": "abdominal pain",
+        "fuente": "medlineplus",
+        "id_fuente": "3061",
+        "sinonimos": [
+          "stomach pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3061"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002027"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015746"
+          }
+        ]
+      },
+      {
+        "termino": "acute pain",
+        "fuente": "mesh",
+        "id_fuente": "D059787",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D059787"
+          }
+        ]
+      },
+      {
+        "termino": "anal pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0500005",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0500005"
+          }
+        ]
+      },
+      {
+        "termino": "ankle arthritis",
+        "fuente": "hpo",
+        "id_fuente": "HP:6001331",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:6001331"
+          }
+        ]
+      },
+      {
+        "termino": "ankle pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030840",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030840"
+          }
+        ]
+      },
+      {
+        "termino": "back pain",
+        "fuente": "medlineplus",
+        "id_fuente": "157",
+        "sinonimos": [
+          "back ache",
+          "back aches"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "157"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003418"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001416"
+          }
+        ]
+      },
+      {
+        "termino": "bacterial arthritis",
+        "fuente": "mesh",
+        "id_fuente": "D001170",
+        "sinonimos": [
+          "viral arthritis"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001170"
+          }
+        ]
+      },
+      {
+        "termino": "bone inflammation",
+        "fuente": "mesh",
+        "id_fuente": "D010000",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D010000"
+          }
+        ]
+      },
+      {
+        "termino": "bone pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002653",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002653"
+          }
+        ]
+      },
+      {
+        "termino": "brain inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002383",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002383"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D004660"
+          }
+        ]
+      },
+      {
+        "termino": "breast pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0034265",
+        "sinonimos": [
+          "painful breast"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0034265"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D059373"
+          }
+        ]
+      },
+      {
+        "termino": "buttock pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0034805",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0034805"
+          }
+        ]
+      },
+      {
+        "termino": "cancer pain",
+        "fuente": "mesh",
+        "id_fuente": "D000072716",
+        "sinonimos": [
+          "cancer related pain",
+          "cancer-related pain",
+          "neoplasm related pain",
+          "neoplasm-related pain",
+          "tumor related pain",
+          "tumor-related pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000072716"
+          }
+        ]
+      },
+      {
+        "termino": "chest pain",
+        "fuente": "medlineplus",
+        "id_fuente": "4744",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4744"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100749"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D002637"
+          }
+        ]
+      },
+      {
+        "termino": "childhood arthritis",
+        "fuente": "medlineplus",
+        "id_fuente": "1292",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1292"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001171"
+          }
+        ]
+      },
+      {
+        "termino": "chronic headache",
+        "fuente": "mesh",
+        "id_fuente": "D020773",
+        "sinonimos": [
+          "headache disorder",
+          "headache disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D020773"
+          }
+        ]
+      },
+      {
+        "termino": "chronic pain",
+        "fuente": "medlineplus",
+        "id_fuente": "5995",
+        "sinonimos": [
+          "chronic primary pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5995"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012532"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D059350"
+          }
+        ]
+      },
+      {
+        "termino": "cough headache",
+        "fuente": "mesh",
+        "id_fuente": "D051270",
+        "sinonimos": [
+          "benign cough headache",
+          "primary cough headache",
+          "primary headache disorder",
+          "primary headache disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D051270"
+          }
+        ]
+      },
+      {
+        "termino": "eye pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0200026",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0200026"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D058447"
+          }
+        ]
+      },
+      {
+        "termino": "face pain",
+        "fuente": "mesh",
+        "id_fuente": "D005157",
+        "sinonimos": [
+          "facial pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005157"
+          }
+        ]
+      },
+      {
+        "termino": "finger pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030837",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030837"
+          }
+        ]
+      },
+      {
+        "termino": "foot pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0025238",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0025238"
+          }
+        ]
+      },
+      {
+        "termino": "gallbladder inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001082",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001082"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D002764"
+          }
+        ]
+      },
+      {
+        "termino": "gastrointestinal inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004386",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004386"
+          }
+        ]
+      },
+      {
+        "termino": "hand pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0046505",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0046505"
+          }
+        ]
+      },
+      {
+        "termino": "hip pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030838",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030838"
+          }
+        ]
+      },
+      {
+        "termino": "intestinal inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:4000055",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:4000055"
+          }
+        ]
+      },
+      {
+        "termino": "joint pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002829",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002829"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018771"
+          }
+        ]
+      },
+      {
+        "termino": "kidney inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000123",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000123"
+          }
+        ]
+      },
+      {
+        "termino": "knee pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030839",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030839"
+          }
+        ]
+      },
+      {
+        "termino": "leg pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012514",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012514"
+          }
+        ]
+      },
+      {
+        "termino": "liver inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012115",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012115"
+          }
+        ]
+      },
+      {
+        "termino": "lung inflammation",
+        "fuente": "mesh",
+        "id_fuente": "D011014",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D011014"
+          }
+        ]
+      },
+      {
+        "termino": "migraine headache",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002076",
+        "sinonimos": [
+          "abdominal migraine",
+          "migraine",
+          "migraine disorder",
+          "migraine disorders",
+          "sick headache"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002076"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008881"
+          }
+        ]
+      },
+      {
+        "termino": "muscle inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100614",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100614"
+          }
+        ]
+      },
+      {
+        "termino": "muscle pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0003326",
+        "sinonimos": [
+          "muscle ache",
+          "muscle tenderness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003326"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D063806"
+          }
+        ]
+      },
+      {
+        "termino": "neck arthritis",
+        "fuente": "hpo",
+        "id_fuente": "HP:0008480",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0008480"
+          }
+        ]
+      },
+      {
+        "termino": "neck pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030833",
+        "sinonimos": [
+          "neck ache",
+          "neck aches"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030833"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D019547"
+          }
+        ]
+      },
+      {
+        "termino": "nerve pain",
+        "fuente": "mesh",
+        "id_fuente": "D009437",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009437"
+          }
+        ]
+      },
+      {
+        "termino": "pain disorder",
+        "fuente": "mesh",
+        "id_fuente": "D013001",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013001"
+          }
+        ]
+      },
+      {
+        "termino": "pelvic pain",
+        "fuente": "medlineplus",
+        "id_fuente": "4486",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4486"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0034267"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017699"
+          }
+        ]
+      },
+      {
+        "termino": "premature arthritis",
+        "fuente": "hpo",
+        "id_fuente": "HP:0003088",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003088"
+          }
+        ]
+      },
+      {
+        "termino": "shoulder arthritis",
+        "fuente": "hpo",
+        "id_fuente": "HP:6001458",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:6001458"
+          }
+        ]
+      },
+      {
+        "termino": "shoulder pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030834",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030834"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D020069"
+          }
+        ]
+      },
+      {
+        "termino": "skin inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0011123",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011123"
+          }
+        ]
+      },
+      {
+        "termino": "spinal arthritis",
+        "fuente": "mesh",
+        "id_fuente": "D025241",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D025241"
+          }
+        ]
+      },
+      {
+        "termino": "stomach inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0005263",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0005263"
+          }
+        ]
+      },
+      {
+        "termino": "stress headache",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012228",
+        "sinonimos": [
+          "tension headache",
+          "tension type headache",
+          "tension-type headache"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012228"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018781"
+          }
+        ]
+      },
+      {
+        "termino": "throat pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0033050",
+        "sinonimos": [
+          "sore throat",
+          "throat discomfort"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0033050"
+          }
+        ]
+      },
+      {
+        "termino": "wrist arthritis",
+        "fuente": "hpo",
+        "id_fuente": "HP:6001197",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:6001197"
+          }
+        ]
+      },
+      {
+        "termino": "wrist pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030836",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030836"
+          }
+        ]
+      },
+      {
+        "termino": "acute abdominal pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0033400",
+        "sinonimos": [
+          "acute abdomen"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0033400"
+          }
+        ]
+      },
+      {
+        "termino": "acute liver inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0200119",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0200119"
+          }
+        ]
+      },
+      {
+        "termino": "calf muscle pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0031921",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0031921"
+          }
+        ]
+      },
+      {
+        "termino": "chronic liver inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0200123",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0200123"
+          }
+        ]
+      },
+      {
+        "termino": "hip joint pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0003365",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003365"
+          }
+        ]
+      },
+      {
+        "termino": "inflammatory bowel disease",
+        "fuente": "mesh",
+        "id_fuente": "D015212",
+        "sinonimos": [
+          "inflammatory bowel diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015212"
+          }
+        ]
+      },
+      {
+        "termino": "inflammatory breast cancer",
+        "fuente": "mesh",
+        "id_fuente": "D058922",
+        "sinonimos": [
+          "inflammatory breast neoplasm",
+          "inflammatory breast neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D058922"
+          }
+        ]
+      },
+      {
+        "termino": "inflammatory muscle disease",
+        "fuente": "mesh",
+        "id_fuente": "D009220",
+        "sinonimos": [
+          "inflammatory muscle diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009220"
+          }
+        ]
+      },
+      {
+        "termino": "inflammatory pelvic disease",
+        "fuente": "medlineplus",
+        "id_fuente": "3044",
+        "sinonimos": [
+          "inflammatory pelvic diseases",
+          "pelvic inflammatory disease",
+          "pelvic inflammatory diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3044"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000292"
+          }
+        ]
+      },
+      {
+        "termino": "low back pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:0003419",
+        "sinonimos": [
+          "low back ache",
+          "low back aches",
+          "lower back pain",
+          "recurrent low back pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003419"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017116"
+          }
+        ]
+      },
+      {
+        "termino": "upper arm pain",
+        "fuente": "hpo",
+        "id_fuente": "HP:6001139",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:6001139"
+          }
+        ]
+      }
+    ]
+  },
+  "immune_infection": {
+    "terminos": [
+      {
+        "termino": "immune",
+        "fuente": "wordnet",
+        "id_fuente": "adj:02363614",
+        "sinonimos": [
+          "resistant"
+        ],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:02363614"
+          }
+        ]
+      },
+      {
+        "termino": "immunity",
+        "fuente": "mesh",
+        "id_fuente": "D007109",
+        "sinonimos": [
+          "resistance"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007109"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14527171"
+          }
+        ]
+      },
+      {
+        "termino": "infection",
+        "fuente": "mesh",
+        "id_fuente": "D007239",
+        "sinonimos": [
+          "infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007239"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:06282383"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07360647"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13498404"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14174549"
+          }
+        ]
+      },
+      {
+        "termino": "bacterial infection",
+        "fuente": "medlineplus",
+        "id_fuente": "158",
+        "sinonimos": [
+          "bacterial disease",
+          "bacterial diseases",
+          "bacterial infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "158"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001424"
+          }
+        ]
+      },
+      {
+        "termino": "bone infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002754",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002754"
+          }
+        ]
+      },
+      {
+        "termino": "bone infections",
+        "fuente": "medlineplus",
+        "id_fuente": "5739",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5739"
+          }
+        ]
+      },
+      {
+        "termino": "chronic infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0031035",
+        "sinonimos": [
+          "chronic infections",
+          "persistent infection",
+          "persistent infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0031035"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000088562"
+          }
+        ]
+      },
+      {
+        "termino": "eye infection",
+        "fuente": "medlineplus",
+        "id_fuente": "4398",
+        "sinonimos": [
+          "eye infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4398"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015817"
+          }
+        ]
+      },
+      {
+        "termino": "frequent infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002719",
+        "sinonimos": [
+          "recurrent infection",
+          "recurrent infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002719"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000084063"
+          }
+        ]
+      },
+      {
+        "termino": "immune deficiency",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002721",
+        "sinonimos": [
+          "decreased immune function"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002721"
+          }
+        ]
+      },
+      {
+        "termino": "immune disease",
+        "fuente": "mesh",
+        "id_fuente": "D007154",
+        "sinonimos": [
+          "immune diseases",
+          "immune disorder",
+          "immune disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007154"
+          }
+        ]
+      },
+      {
+        "termino": "immune exhaustion",
+        "fuente": "mesh",
+        "id_fuente": "D000095842",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000095842"
+          }
+        ]
+      },
+      {
+        "termino": "parasite infection",
+        "fuente": "medlineplus",
+        "id_fuente": "482",
+        "sinonimos": [
+          "parasite infections",
+          "parasitic disease",
+          "parasitic diseases",
+          "parasitic infection",
+          "parasitic infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "482"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D010272"
+          }
+        ]
+      },
+      {
+        "termino": "pelvic infection",
+        "fuente": "mesh",
+        "id_fuente": "D034161",
+        "sinonimos": [
+          "pelvic infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D034161"
+          }
+        ]
+      },
+      {
+        "termino": "respiratory infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002788",
+        "sinonimos": [
+          "frequent upper respiratory infections",
+          "recurrent upper respiratory infection",
+          "recurrent upper respiratory infections",
+          "respiratory infections",
+          "respiratory tract infection",
+          "respiratory tract infections",
+          "upper respiratory infections",
+          "upper respiratory tract infection",
+          "upper respiratory tract infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002788"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011947"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012141"
+          }
+        ]
+      },
+      {
+        "termino": "severe infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0032169",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0032169"
+          }
+        ]
+      },
+      {
+        "termino": "skin infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100658",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100658"
+          }
+        ]
+      },
+      {
+        "termino": "skin infections",
+        "fuente": "medlineplus",
+        "id_fuente": "5358",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5358"
+          }
+        ]
+      },
+      {
+        "termino": "stress immunity",
+        "fuente": "mesh",
+        "id_fuente": "D055500",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D055500"
+          }
+        ]
+      },
+      {
+        "termino": "viral infection",
+        "fuente": "medlineplus",
+        "id_fuente": "454",
+        "sinonimos": [
+          "viral disease",
+          "viral diseases",
+          "viral infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "454"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014777"
+          }
+        ]
+      },
+      {
+        "termino": "wound infection",
+        "fuente": "mesh",
+        "id_fuente": "D014946",
+        "sinonimos": [
+          "wound infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014946"
+          }
+        ]
+      },
+      {
+        "termino": "bacterial eye infection",
+        "fuente": "mesh",
+        "id_fuente": "D015818",
+        "sinonimos": [
+          "bacterial eye infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015818"
+          }
+        ]
+      },
+      {
+        "termino": "chronic lung infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002783",
+        "sinonimos": [
+          "lower respiratory tract infections",
+          "recurrent chest infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002783"
+          }
+        ]
+      },
+      {
+        "termino": "foot bone infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001886",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001886"
+          }
+        ]
+      },
+      {
+        "termino": "frequent bacterial infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002718",
+        "sinonimos": [
+          "recurrent bacterial infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002718"
+          }
+        ]
+      },
+      {
+        "termino": "frequent respiratory infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002205",
+        "sinonimos": [
+          "recurrent respiratory infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002205"
+          }
+        ]
+      },
+      {
+        "termino": "genital tract infection",
+        "fuente": "mesh",
+        "id_fuente": "D060737",
+        "sinonimos": [
+          "genital tract infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D060737"
+          }
+        ]
+      },
+      {
+        "termino": "lung parasitic infection",
+        "fuente": "mesh",
+        "id_fuente": "D008174",
+        "sinonimos": [
+          "lung parasitic infections",
+          "parasitic lung disease",
+          "parasitic lung diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008174"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic eye infection",
+        "fuente": "mesh",
+        "id_fuente": "D015822",
+        "sinonimos": [
+          "parasitic eye infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015822"
+          }
+        ]
+      },
+      {
+        "termino": "primary immune deficiency",
+        "fuente": "mesh",
+        "id_fuente": "D000081207",
+        "sinonimos": [
+          "primary immune deficiency disease",
+          "primary immune deficiency diseases",
+          "primary immune deficiency disorder",
+          "primary immune deficiency disorders"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000081207"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent cutaneous infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001581",
+        "sinonimos": [
+          "recurrent skin infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001581"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent gastrointestinal infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004798",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004798"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent parasitic infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030885",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030885"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent viral infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004429",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004429"
+          }
+        ]
+      },
+      {
+        "termino": "severe viral infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0031691",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0031691"
+          }
+        ]
+      },
+      {
+        "termino": "urinary tract infection",
+        "fuente": "medlineplus",
+        "id_fuente": "448",
+        "sinonimos": [
+          "frequent urinary tract infections",
+          "recurrent urinary tract infections",
+          "urinary tract infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "448"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000010"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014552"
+          }
+        ]
+      },
+      {
+        "termino": "viral eye infection",
+        "fuente": "mesh",
+        "id_fuente": "D015828",
+        "sinonimos": [
+          "viral eye infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015828"
+          }
+        ]
+      },
+      {
+        "termino": "acute respiratory tract infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0011948",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011948"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent bacterial skin infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0005406",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0005406"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent viral skin infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0011371",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011371"
+          }
+        ]
+      }
+    ]
+  },
+  "skin_hair": {
+    "terminos": [
+      {
+        "termino": "acne",
+        "fuente": "medlineplus",
+        "id_fuente": "124",
+        "sinonimos": [
+          "acne vulgaris"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "124"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001061"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000152"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14222112"
+          }
+        ]
+      },
+      {
+        "termino": "alopecia",
+        "fuente": "medlineplus",
+        "id_fuente": "5282",
+        "sinonimos": [
+          "baldness",
+          "female pattern baldness",
+          "hair loss",
+          "male pattern alopecia",
+          "male pattern baldness",
+          "pattern baldness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5282"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001596"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000505"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14457361"
+          }
+        ]
+      },
+      {
+        "termino": "hair",
+        "fuente": "mesh",
+        "id_fuente": "D006197",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006197"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:03475674"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05254393"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05254795"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13090091"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13761603"
+          }
+        ]
+      },
+      {
+        "termino": "itching",
+        "fuente": "medlineplus",
+        "id_fuente": "3067",
+        "sinonimos": [
+          "skin itching"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3067"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000989"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D011537"
+          }
+        ]
+      },
+      {
+        "termino": "rash",
+        "fuente": "medlineplus",
+        "id_fuente": "208",
+        "sinonimos": [
+          "dermatitis",
+          "skin rash"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "208"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000988"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005076"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14321953"
+          }
+        ]
+      },
+      {
+        "termino": "skin",
+        "fuente": "mesh",
+        "id_fuente": "D012867",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012867"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:01895735"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:04230093"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05238282"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:13962048"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:01262936"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "verb:01309478"
+          }
+        ]
+      },
+      {
+        "termino": "absent hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002298",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002298"
+          }
+        ]
+      },
+      {
+        "termino": "brittle hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002299",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002299"
+          }
+        ]
+      },
+      {
+        "termino": "dry hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0011359",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011359"
+          }
+        ]
+      },
+      {
+        "termino": "dry skin",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000958",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000958"
+          }
+        ]
+      },
+      {
+        "termino": "hair abnormality",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001595",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001595"
+          }
+        ]
+      },
+      {
+        "termino": "hair disease",
+        "fuente": "mesh",
+        "id_fuente": "D006201",
+        "sinonimos": [
+          "hair diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006201"
+          }
+        ]
+      },
+      {
+        "termino": "hair problems",
+        "fuente": "medlineplus",
+        "id_fuente": "531",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "531"
+          }
+        ]
+      },
+      {
+        "termino": "loose skin",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000973",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000973"
+          }
+        ]
+      },
+      {
+        "termino": "patchy alopecia",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002232",
+        "sinonimos": [
+          "patchy baldness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002232"
+          }
+        ]
+      },
+      {
+        "termino": "skin abnormality",
+        "fuente": "mesh",
+        "id_fuente": "D012868",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012868"
+          }
+        ]
+      },
+      {
+        "termino": "skin aging",
+        "fuente": "medlineplus",
+        "id_fuente": "3775",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3775"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015595"
+          }
+        ]
+      },
+      {
+        "termino": "skin cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "405",
+        "sinonimos": [
+          "skin neoplasm",
+          "skin neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "405"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012878"
+          }
+        ]
+      },
+      {
+        "termino": "skin disease",
+        "fuente": "mesh",
+        "id_fuente": "D012871",
+        "sinonimos": [
+          "skin diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012871"
+          }
+        ]
+      },
+      {
+        "termino": "skin infection",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100658",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100658"
+          }
+        ]
+      },
+      {
+        "termino": "skin infections",
+        "fuente": "medlineplus",
+        "id_fuente": "5358",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5358"
+          }
+        ]
+      },
+      {
+        "termino": "skin inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0011123",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011123"
+          }
+        ]
+      },
+      {
+        "termino": "skin tumors",
+        "fuente": "hpo",
+        "id_fuente": "HP:0008069",
+        "sinonimos": [
+          "skin tumours"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0008069"
+          }
+        ]
+      },
+      {
+        "termino": "skin wound",
+        "fuente": "hpo",
+        "id_fuente": "HP:0032674",
+        "sinonimos": [
+          "cutaneous wound"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0032674"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal hair pattern",
+        "fuente": "hpo",
+        "id_fuente": "HP:0010720",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0010720"
+          }
+        ]
+      },
+      {
+        "termino": "absent facial hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002550",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002550"
+          }
+        ]
+      },
+      {
+        "termino": "bacterial skin disease",
+        "fuente": "mesh",
+        "id_fuente": "D017192",
+        "sinonimos": [
+          "bacterial skin diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017192"
+          }
+        ]
+      },
+      {
+        "termino": "brittle scalp hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0004779",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0004779"
+          }
+        ]
+      },
+      {
+        "termino": "decreased sexual hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002225",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002225"
+          }
+        ]
+      },
+      {
+        "termino": "metabolic skin disease",
+        "fuente": "mesh",
+        "id_fuente": "D012875",
+        "sinonimos": [
+          "metabolic skin diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012875"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic skin disease",
+        "fuente": "mesh",
+        "id_fuente": "D012876",
+        "sinonimos": [
+          "parasitic skin diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012876"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent skin infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001581",
+        "sinonimos": [
+          "recurrent cutaneous infections"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001581"
+          }
+        ]
+      },
+      {
+        "termino": "scalp hair loss",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002293",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002293"
+          }
+        ]
+      },
+      {
+        "termino": "thinning scalp hair",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002209",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002209"
+          }
+        ]
+      },
+      {
+        "termino": "viral skin disease",
+        "fuente": "mesh",
+        "id_fuente": "D017193",
+        "sinonimos": [
+          "viral skin diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017193"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent bacterial skin infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0005406",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0005406"
+          }
+        ]
+      },
+      {
+        "termino": "recurrent viral skin infections",
+        "fuente": "hpo",
+        "id_fuente": "HP:0011371",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0011371"
+          }
+        ]
+      }
+    ]
+  },
+  "liver_kidney_thyroid_hormones_menopause": {
+    "terminos": [
+      {
+        "termino": "hormonal",
+        "fuente": "wordnet",
+        "id_fuente": "adj:02934744",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:02934744"
+          }
+        ]
+      },
+      {
+        "termino": "hormone",
+        "fuente": "medlineplus",
+        "id_fuente": "1499",
+        "sinonimos": [
+          "hormones"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1499"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006728"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05407119"
+          }
+        ]
+      },
+      {
+        "termino": "kidney",
+        "fuente": "mesh",
+        "id_fuente": "D007668",
+        "sinonimos": [
+          "kidneys"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007668"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05332802"
+          }
+        ]
+      },
+      {
+        "termino": "liver",
+        "fuente": "mesh",
+        "id_fuente": "D008099",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008099"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:05385534"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:07652052"
+          }
+        ]
+      },
+      {
+        "termino": "menopause",
+        "fuente": "medlineplus",
+        "id_fuente": "62",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "62"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008593"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid",
+        "fuente": "mesh",
+        "id_fuente": "D013961",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013961"
+          }
+        ]
+      },
+      {
+        "termino": "post-menopause",
+        "fuente": "mesh",
+        "id_fuente": "D017698",
+        "sinonimos": [
+          "post menopause"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017698"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal kidney",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000077",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000077"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal liver",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001392",
+        "sinonimos": [
+          "liver abnormality"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001392"
+          }
+        ]
+      },
+      {
+        "termino": "absent kidney",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000104",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000104"
+          }
+        ]
+      },
+      {
+        "termino": "enlarged kidney",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000105",
+        "sinonimos": [
+          "renal enlargement"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000105"
+          }
+        ]
+      },
+      {
+        "termino": "enlarged liver",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002240",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002240"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006529"
+          }
+        ]
+      },
+      {
+        "termino": "fatty kidney",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000799",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000799"
+          }
+        ]
+      },
+      {
+        "termino": "fatty liver",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001397",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001397"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005234"
+          }
+        ]
+      },
+      {
+        "termino": "gastrointestinal hormone",
+        "fuente": "mesh",
+        "id_fuente": "D005768",
+        "sinonimos": [
+          "gastrointestinal hormones",
+          "intestinal hormone",
+          "intestinal hormones"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005768"
+          }
+        ]
+      },
+      {
+        "termino": "head kidney",
+        "fuente": "mesh",
+        "id_fuente": "D060226",
+        "sinonimos": [
+          "head kidneys"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D060226"
+          }
+        ]
+      },
+      {
+        "termino": "kidney cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "301",
+        "sinonimos": [
+          "kidney neoplasm",
+          "kidney neoplasms",
+          "renal cancer",
+          "renal neoplasm",
+          "renal neoplasms",
+          "renal tumors",
+          "renal tumours"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "301"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0009726"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007680"
+          }
+        ]
+      },
+      {
+        "termino": "kidney disease",
+        "fuente": "medlineplus",
+        "id_fuente": "91",
+        "sinonimos": [
+          "kidney diseases",
+          "renal diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "91"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007674"
+          }
+        ]
+      },
+      {
+        "termino": "kidney failure",
+        "fuente": "medlineplus",
+        "id_fuente": "302",
+        "sinonimos": [
+          "renal failure"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "302"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D051437"
+          }
+        ]
+      },
+      {
+        "termino": "kidney inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000123",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000123"
+          }
+        ]
+      },
+      {
+        "termino": "liver cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "309",
+        "sinonimos": [
+          "liver neoplasm",
+          "liver neoplasms",
+          "liver tumor",
+          "liver tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "309"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002896"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008113"
+          }
+        ]
+      },
+      {
+        "termino": "liver disease",
+        "fuente": "medlineplus",
+        "id_fuente": "310",
+        "sinonimos": [
+          "decreased liver function",
+          "liver diseases",
+          "liver dysfunction"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "310"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001410"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008107"
+          }
+        ]
+      },
+      {
+        "termino": "liver failure",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001399",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001399"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017093"
+          }
+        ]
+      },
+      {
+        "termino": "liver inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012115",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012115"
+          }
+        ]
+      },
+      {
+        "termino": "pelvic kidney",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000125",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000125"
+          }
+        ]
+      },
+      {
+        "termino": "premature menopause",
+        "fuente": "hpo",
+        "id_fuente": "HP:0008209",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0008209"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008594"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid abnormality",
+        "fuente": "hpo",
+        "id_fuente": "HP:0000820",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0000820"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "438",
+        "sinonimos": [
+          "thyroid neoplasm",
+          "thyroid neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "438"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013964"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid disease",
+        "fuente": "medlineplus",
+        "id_fuente": "439",
+        "sinonimos": [
+          "thyroid diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "439"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013959"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid hormone",
+        "fuente": "mesh",
+        "id_fuente": "D013963",
+        "sinonimos": [
+          "thyroid hormones"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013963"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal kidney function",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012211",
+        "sinonimos": [
+          "abnormal renal function"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012211"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal liver function",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002910",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002910"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal thyroid function",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002926",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002926"
+          }
+        ]
+      },
+      {
+        "termino": "acute fatty liver",
+        "fuente": "hpo",
+        "id_fuente": "HP:0006573",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0006573"
+          }
+        ]
+      },
+      {
+        "termino": "acute kidney failure",
+        "fuente": "hpo",
+        "id_fuente": "HP:0001919",
+        "sinonimos": [
+          "acute renal failure"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0001919"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D058186"
+          }
+        ]
+      },
+      {
+        "termino": "acute liver failure",
+        "fuente": "hpo",
+        "id_fuente": "HP:0006554",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0006554"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017114"
+          }
+        ]
+      },
+      {
+        "termino": "acute liver inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0200119",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0200119"
+          }
+        ]
+      },
+      {
+        "termino": "adult liver cancer",
+        "fuente": "mesh",
+        "id_fuente": "D006528",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006528"
+          }
+        ]
+      },
+      {
+        "termino": "chronic kidney disease",
+        "fuente": "medlineplus",
+        "id_fuente": "5987",
+        "sinonimos": [
+          "chronic kidney diseases",
+          "chronic renal disease",
+          "chronic renal diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5987"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012622"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D051436"
+          }
+        ]
+      },
+      {
+        "termino": "chronic kidney failure",
+        "fuente": "mesh",
+        "id_fuente": "D007676",
+        "sinonimos": [
+          "chronic renal failure"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007676"
+          }
+        ]
+      },
+      {
+        "termino": "chronic liver failure",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100626",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100626"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D058625"
+          }
+        ]
+      },
+      {
+        "termino": "chronic liver inflammation",
+        "fuente": "hpo",
+        "id_fuente": "HP:0200123",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0200123"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic kidney disease",
+        "fuente": "mesh",
+        "id_fuente": "D003928",
+        "sinonimos": [
+          "diabetic kidney diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003928"
+          }
+        ]
+      },
+      {
+        "termino": "diabetic kidney problems",
+        "fuente": "medlineplus",
+        "id_fuente": "1559",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1559"
+          }
+        ]
+      },
+      {
+        "termino": "fatty liver disease",
+        "fuente": "medlineplus",
+        "id_fuente": "6465",
+        "sinonimos": [
+          "nonalcoholic fatty liver",
+          "nonalcoholic fatty liver disease"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "6465"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D065626"
+          }
+        ]
+      },
+      {
+        "termino": "parasitic liver disease",
+        "fuente": "mesh",
+        "id_fuente": "D008109",
+        "sinonimos": [
+          "parasitic liver diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008109"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid eye disease",
+        "fuente": "mesh",
+        "id_fuente": "D049970",
+        "sinonimos": [
+          "thyroid eye diseases"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D049970"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid hormone resistance",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002930",
+        "sinonimos": [
+          "generalized thyroid hormone resistance"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002930"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018382"
+          }
+        ]
+      },
+      {
+        "termino": "abnormal thyroid hormone level",
+        "fuente": "hpo",
+        "id_fuente": "HP:0031508",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0031508"
+          }
+        ]
+      }
+    ]
+  },
+  "cancer": {
+    "terminos": [
+      {
+        "termino": "cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "25",
+        "sinonimos": [
+          "benign neoplasm",
+          "benign neoplasms",
+          "malignancy",
+          "malignant neoplasm",
+          "malignant neoplasms",
+          "neoplasm",
+          "neoplasms",
+          "tumor",
+          "tumors",
+          "tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "25"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002664"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009369"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:09752657"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14237561"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14239918"
+          }
+        ]
+      },
+      {
+        "termino": "abdominal neoplasm",
+        "fuente": "mesh",
+        "id_fuente": "D000008",
+        "sinonimos": [
+          "abdominal neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000008"
+          }
+        ]
+      },
+      {
+        "termino": "anal cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "3791",
+        "sinonimos": [
+          "anal neoplasm",
+          "anal neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3791"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0032186"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001005"
+          }
+        ]
+      },
+      {
+        "termino": "blood cancer",
+        "fuente": "mesh",
+        "id_fuente": "D019337",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D019337"
+          }
+        ]
+      },
+      {
+        "termino": "bone cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "169",
+        "sinonimos": [
+          "bone neoplasm",
+          "bone neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "169"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001859"
+          }
+        ]
+      },
+      {
+        "termino": "brain cancer",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030692",
+        "sinonimos": [
+          "benign brain neoplasm",
+          "benign brain neoplasms",
+          "brain benign neoplasm",
+          "brain benign neoplasms",
+          "brain malignant neoplasm",
+          "brain malignant neoplasms",
+          "brain neoplasm",
+          "brain neoplasms",
+          "brain tumor",
+          "brain tumors",
+          "brain tumour",
+          "malignant brain neoplasm",
+          "malignant brain neoplasms",
+          "malignant primary brain neoplasms",
+          "malignant primary brain tumors",
+          "primary brain neoplasm",
+          "primary brain neoplasms",
+          "primary brain tumor",
+          "primary brain tumors",
+          "primary malignant brain neoplasms",
+          "primary malignant brain tumors",
+          "recurrent brain tumor",
+          "recurrent brain tumors"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030692"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001932"
+          }
+        ]
+      },
+      {
+        "termino": "breast cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "3",
+        "sinonimos": [
+          "breast malignant neoplasm",
+          "breast malignant neoplasms",
+          "breast malignant tumor",
+          "breast malignant tumors",
+          "breast neoplasm",
+          "breast neoplasms",
+          "breast tumor",
+          "breast tumors",
+          "breast tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003002"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100013"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D001943"
+          }
+        ]
+      },
+      {
+        "termino": "cancer pain",
+        "fuente": "mesh",
+        "id_fuente": "D000072716",
+        "sinonimos": [
+          "cancer related pain",
+          "cancer-related pain",
+          "neoplasm related pain",
+          "neoplasm-related pain",
+          "tumor related pain",
+          "tumor-related pain"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D000072716"
+          }
+        ]
+      },
+      {
+        "termino": "colon cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "88",
+        "sinonimos": [
+          "colon neoplasm",
+          "colon neoplasms",
+          "colonic cancer",
+          "colonic neoplasm",
+          "colonic neoplasms",
+          "colorectal cancer",
+          "colorectal neoplasm",
+          "colorectal neoplasms",
+          "colorectal tumor",
+          "colorectal tumors"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "88"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0003003"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003110"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D015179"
+          }
+        ]
+      },
+      {
+        "termino": "colon tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100273",
+        "sinonimos": [
+          "colon tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100273"
+          }
+        ]
+      },
+      {
+        "termino": "esophageal cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "245",
+        "sinonimos": [
+          "esophageal neoplasm",
+          "esophageal neoplasms",
+          "esophageal tumor",
+          "esophageal tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "245"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100751"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D004938"
+          }
+        ]
+      },
+      {
+        "termino": "eye cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "491",
+        "sinonimos": [
+          "eye neoplasm",
+          "eye neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "491"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005134"
+          }
+        ]
+      },
+      {
+        "termino": "eye tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100012",
+        "sinonimos": [
+          "eye tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100012"
+          }
+        ]
+      },
+      {
+        "termino": "face tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012289",
+        "sinonimos": [
+          "face tumour",
+          "facial neoplasm",
+          "facial neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012289"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005153"
+          }
+        ]
+      },
+      {
+        "termino": "fatty tumor",
+        "fuente": "mesh",
+        "id_fuente": "D008067",
+        "sinonimos": [
+          "fatty tumors"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008067"
+          }
+        ]
+      },
+      {
+        "termino": "gallbladder cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "4645",
+        "sinonimos": [
+          "gallbladder neoplasm",
+          "gallbladder neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "4645"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005706"
+          }
+        ]
+      },
+      {
+        "termino": "gastric cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "419",
+        "sinonimos": [
+          "gastric neoplasm",
+          "gastric neoplasms",
+          "stomach cancer",
+          "stomach neoplasm",
+          "stomach neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "419"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012126"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013274"
+          }
+        ]
+      },
+      {
+        "termino": "gastrointestinal cancer",
+        "fuente": "mesh",
+        "id_fuente": "D005770",
+        "sinonimos": [
+          "gastrointestinal neoplasm",
+          "gastrointestinal neoplasms",
+          "gastrointestinal tract cancer"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005770"
+          }
+        ]
+      },
+      {
+        "termino": "genital neoplasm",
+        "fuente": "hpo",
+        "id_fuente": "HP:0010787",
+        "sinonimos": [
+          "genital tumor",
+          "genital tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0010787"
+          }
+        ]
+      },
+      {
+        "termino": "hand tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:6001437",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:6001437"
+          }
+        ]
+      },
+      {
+        "termino": "head cancer",
+        "fuente": "mesh",
+        "id_fuente": "D006258",
+        "sinonimos": [
+          "head neoplasm",
+          "head neoplasms",
+          "neck cancer",
+          "neck neoplasm",
+          "neck neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006258"
+          }
+        ]
+      },
+      {
+        "termino": "heart cancer",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100544",
+        "sinonimos": [
+          "heart neoplasm",
+          "heart neoplasms",
+          "heart tumor",
+          "heart tumors",
+          "heart tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100544"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006338"
+          }
+        ]
+      },
+      {
+        "termino": "intestinal cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "3652",
+        "sinonimos": [
+          "intestinal neoplasm",
+          "intestinal neoplasms",
+          "intestines cancer",
+          "intestines neoplasm",
+          "intestines neoplasms",
+          "small intestine cancer"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3652"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007414"
+          }
+        ]
+      },
+      {
+        "termino": "kidney cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "301",
+        "sinonimos": [
+          "kidney neoplasm",
+          "kidney neoplasms",
+          "renal cancer",
+          "renal neoplasm",
+          "renal neoplasms",
+          "renal tumors",
+          "renal tumours"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "301"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0009726"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D007680"
+          }
+        ]
+      },
+      {
+        "termino": "liver cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "309",
+        "sinonimos": [
+          "liver neoplasm",
+          "liver neoplasms",
+          "liver tumor",
+          "liver tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "309"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002896"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008113"
+          }
+        ]
+      },
+      {
+        "termino": "lung cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "86",
+        "sinonimos": [
+          "lung neoplasm",
+          "lung neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "86"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D008175"
+          }
+        ]
+      },
+      {
+        "termino": "lung tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100526",
+        "sinonimos": [
+          "lung tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100526"
+          }
+        ]
+      },
+      {
+        "termino": "mouth cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "331",
+        "sinonimos": [
+          "mouth neoplasm",
+          "mouth neoplasms",
+          "mouth tumor",
+          "mouth tumour",
+          "oral cancer",
+          "oral neoplasm",
+          "oral neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "331"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100649"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D009062"
+          }
+        ]
+      },
+      {
+        "termino": "muscle cancer",
+        "fuente": "mesh",
+        "id_fuente": "D019042",
+        "sinonimos": [
+          "muscle neoplasm",
+          "muscle neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D019042"
+          }
+        ]
+      },
+      {
+        "termino": "nail tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100826",
+        "sinonimos": [
+          "nail tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100826"
+          }
+        ]
+      },
+      {
+        "termino": "nerve tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030430",
+        "sinonimos": [
+          "nerve tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030430"
+          }
+        ]
+      },
+      {
+        "termino": "pelvic cancer",
+        "fuente": "mesh",
+        "id_fuente": "D010386",
+        "sinonimos": [
+          "pelvic neoplasm",
+          "pelvic neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D010386"
+          }
+        ]
+      },
+      {
+        "termino": "respiratory neoplasm",
+        "fuente": "mesh",
+        "id_fuente": "D012142",
+        "sinonimos": [
+          "respiratory neoplasms",
+          "respiratory tract neoplasm",
+          "respiratory tract neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012142"
+          }
+        ]
+      },
+      {
+        "termino": "skin cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "405",
+        "sinonimos": [
+          "skin neoplasm",
+          "skin neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "405"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012878"
+          }
+        ]
+      },
+      {
+        "termino": "spinal neoplasm",
+        "fuente": "mesh",
+        "id_fuente": "D013125",
+        "sinonimos": [
+          "spinal neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013125"
+          }
+        ]
+      },
+      {
+        "termino": "stomach tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0006753",
+        "sinonimos": [
+          "stomach tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0006753"
+          }
+        ]
+      },
+      {
+        "termino": "throat cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "5841",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5841"
+          }
+        ]
+      },
+      {
+        "termino": "thyroid cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "438",
+        "sinonimos": [
+          "thyroid neoplasm",
+          "thyroid neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "438"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D013964"
+          }
+        ]
+      },
+      {
+        "termino": "tumor weight",
+        "fuente": "mesh",
+        "id_fuente": "D047368",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D047368"
+          }
+        ]
+      },
+      {
+        "termino": "vaginal cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "494",
+        "sinonimos": [
+          "vaginal neoplasm",
+          "vaginal neoplasms",
+          "vaginal tumor",
+          "vaginal tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "494"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100650"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014625"
+          }
+        ]
+      },
+      {
+        "termino": "adult liver cancer",
+        "fuente": "mesh",
+        "id_fuente": "D006528",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006528"
+          }
+        ]
+      },
+      {
+        "termino": "benign muscle neoplasm",
+        "fuente": "hpo",
+        "id_fuente": "HP:0031460",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0031460"
+          }
+        ]
+      },
+      {
+        "termino": "bone cell cancer",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002669",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002669"
+          }
+        ]
+      },
+      {
+        "termino": "female genital neoplasm",
+        "fuente": "mesh",
+        "id_fuente": "D005833",
+        "sinonimos": [
+          "female genital neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005833"
+          }
+        ]
+      },
+      {
+        "termino": "gastrointestinal tract neoplasm",
+        "fuente": "hpo",
+        "id_fuente": "HP:0007378",
+        "sinonimos": [
+          "gastrointestinal tract tumor",
+          "gastrointestinal tract tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0007378"
+          }
+        ]
+      },
+      {
+        "termino": "inflammatory breast cancer",
+        "fuente": "mesh",
+        "id_fuente": "D058922",
+        "sinonimos": [
+          "inflammatory breast neoplasm",
+          "inflammatory breast neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D058922"
+          }
+        ]
+      },
+      {
+        "termino": "male breast cancer",
+        "fuente": "medlineplus",
+        "id_fuente": "3577",
+        "sinonimos": [
+          "male breast neoplasm",
+          "male breast neoplasms",
+          "male breast tumor",
+          "male breast tumors"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "3577"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D018567"
+          }
+        ]
+      },
+      {
+        "termino": "male genital neoplasm",
+        "fuente": "mesh",
+        "id_fuente": "D005834",
+        "sinonimos": [
+          "male genital neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005834"
+          }
+        ]
+      },
+      {
+        "termino": "renal cell cancer",
+        "fuente": "mesh",
+        "id_fuente": "D002292",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D002292"
+          }
+        ]
+      },
+      {
+        "termino": "small intestine tumor",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100833",
+        "sinonimos": [
+          "small intestine tumour"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100833"
+          }
+        ]
+      },
+      {
+        "termino": "urinary tract cancer",
+        "fuente": "hpo",
+        "id_fuente": "HP:0010786",
+        "sinonimos": [
+          "urinary tract neoplasm",
+          "urinary tract neoplasms"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0010786"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D014571"
+          }
+        ]
+      },
+      {
+        "termino": "small cell lung cancer",
+        "fuente": "hpo",
+        "id_fuente": "HP:0030357",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0030357"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D055752"
+          }
+        ]
+      }
+    ]
+  },
+  "adverse_reaction_allergy": {
+    "terminos": [
+      {
+        "termino": "allergic",
+        "fuente": "wordnet",
+        "id_fuente": "adj:02360944",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:02360944"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "adj:02612653"
+          }
+        ]
+      },
+      {
+        "termino": "allergy",
+        "fuente": "medlineplus",
+        "id_fuente": "24",
+        "sinonimos": [
+          "allergic reaction",
+          "allergic reactions",
+          "allergies",
+          "emotional hypersensitivity",
+          "hypersensitivity"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "24"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012393"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0041092"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006967"
+          },
+          {
+            "fuente": "wordnet",
+            "id_fuente": "noun:14532816"
+          }
+        ]
+      },
+      {
+        "termino": "side effects",
+        "fuente": "medlineplus",
+        "id_fuente": "5603",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "5603"
+          }
+        ]
+      },
+      {
+        "termino": "contact hypersensitivity",
+        "fuente": "mesh",
+        "id_fuente": "D003877",
+        "sinonimos": [
+          "contact dermatitis",
+          "contact sensitivity"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D003877"
+          }
+        ]
+      },
+      {
+        "termino": "delayed hypersensitivity",
+        "fuente": "mesh",
+        "id_fuente": "D006968",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D006968"
+          }
+        ]
+      },
+      {
+        "termino": "food allergy",
+        "fuente": "medlineplus",
+        "id_fuente": "1256",
+        "sinonimos": [
+          "food allergies",
+          "food hypersensitivity"
+        ],
+        "procedencias": [
+          {
+            "fuente": "medlineplus",
+            "id_fuente": "1256"
+          },
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0500093"
+          },
+          {
+            "fuente": "mesh",
+            "id_fuente": "D005512"
+          }
+        ]
+      },
+      {
+        "termino": "gluten allergy",
+        "fuente": "hpo",
+        "id_fuente": "HP:0410329",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0410329"
+          }
+        ]
+      },
+      {
+        "termino": "parasite allergy",
+        "fuente": "hpo",
+        "id_fuente": "HP:0410337",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0410337"
+          }
+        ]
+      },
+      {
+        "termino": "respiratory hypersensitivity",
+        "fuente": "mesh",
+        "id_fuente": "D012130",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D012130"
+          }
+        ]
+      },
+      {
+        "termino": "scalp hypersensitivity",
+        "fuente": "hpo",
+        "id_fuente": "HP:0100809",
+        "sinonimos": [
+          "scalp tenderness"
+        ],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0100809"
+          }
+        ]
+      },
+      {
+        "termino": "seasonal allergy",
+        "fuente": "hpo",
+        "id_fuente": "HP:0012395",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0012395"
+          }
+        ]
+      },
+      {
+        "termino": "allergic contact dermatitis",
+        "fuente": "mesh",
+        "id_fuente": "D017449",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D017449"
+          }
+        ]
+      },
+      {
+        "termino": "psychological side effects",
+        "fuente": "mesh",
+        "id_fuente": "D011584",
+        "sinonimos": [
+          "psychological side effect"
+        ],
+        "procedencias": [
+          {
+            "fuente": "mesh",
+            "id_fuente": "D011584"
+          }
+        ]
+      },
+      {
+        "termino": "reduced delayed hypersensitivity",
+        "fuente": "hpo",
+        "id_fuente": "HP:0002972",
+        "sinonimos": [],
+        "procedencias": [
+          {
+            "fuente": "hpo",
+            "id_fuente": "HP:0002972"
+          }
+        ]
+      }
+    ]
+  }
+}
