@@ -13,6 +13,6 @@ Trabajo final de Analítica de Negocios (Escuela de Administración, EAFIT). Pro
 | `data/` | Datos originales tal como se descargaron (`crudo_chrome_apify/`, `bundle_xlsx_historico/`), base preparada, muestra etiquetada a mano y léxico. **Ficha de procedencia en `data/README_datos.md`** |
 | `src/` | Código (Python) y pruebas (`src/tests/`) |
 | `resultados/` | Tablas y figuras que el notebook exporta |
-| `docs/` | Guía de entregables y referencias APA |
+| `docs/` | Documento final (`documento/`), guía de entregables, referencias APA, declaración de uso de IA (`anexo_uso_ia.md`) y conversaciones con Claude Code (`conversaciones_ia/`) |
 
 Entorno: Python 3, versiones exactas en `requirements.txt`. Pruebas: `python -m unittest discover -s src/tests`.
