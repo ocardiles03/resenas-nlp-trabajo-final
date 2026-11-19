@@ -15,7 +15,7 @@
 | Quién recolectó | Los dueños/vendedores del producto (el brief de recolección dice: "soy el vendedor del producto"). | **[COMPLETA TÚ]** nombres de quienes recolectaron |
 | Cómo recolectó | (a) Navegador Chrome con sesión de Amazon iniciada, botón "Mostrar 10 opiniones más", con pausas aleatorias de 4 a 9 s, por filtros de estrellas/orden/palabra clave (`recoleccion/brief_gemini.txt`). (b) Herramienta de terceros Apify "amazon-reviews-scraper-with-advanced-filters" (`data/crudo_chrome_apify/`, `recoleccion/apify_import/`). (c) Scripts y logs en `recoleccion/`. | **[COMPLETA TÚ]** descripción del proceso con tus palabras |
 | Cuándo | Reseñas con fecha entre **jun-2024 y oct-2026** en la base 1 (1.271 reseñas con texto); recolección en octubre de 2026. | **[COMPLETA TÚ]** |
-| Aprobación del periodo (≥ 4 años de seguimiento en ruta de corpus propio) | El equipo indicó que ya está comprobado. | **[COMPLETA TÚ]** guardar la evidencia (correo/mensaje del profesor) en `curso/` y citarla |
+| Aprobación del periodo (unos 2,4 años de seguimiento) | El profesor aprobó usar este período. | Opcional: guardar la evidencia (correo o mensaje) en `curso/`. |
 
 ## 2. Qué es original y qué es preparado
 

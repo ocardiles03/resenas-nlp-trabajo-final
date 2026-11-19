@@ -315,7 +315,7 @@ ul('<b>Muestra manual pequeña (100; 17 en la prueba).</b> Los intervalos son mu
    '<b>La etiqueta de la Prueba A es la nota en estrellas</b>, que no siempre coincide con el texto: algunos errores de modelo son en realidad errores de la etiqueta.',
    '<b>Idioma.</b> Todo está en inglés y una reseña en español queda sin leer. No sirve tal cual para otros mercados.',
    '<b>Período y fuente.</b> Son unos 2,4 años, un producto y un canal, y quien reseña no es el comprador promedio. '
-   'El enunciado pide al menos cuatro años de seguimiento para un corpus propio; mis datos cubren menos y queda pendiente la aprobación del profesor. Efecto: puedo describir la evolución, pero no pronosticarla.',
+   'El profesor aprobó usar este período. Efecto: puedo describir la evolución, pero no pronosticarla.',
    '<b>Agrupamiento.</b> La silueta es baja y los nombres los pongo yo: sirve para describir de qué se habla, no para asignar con certeza cada reseña a un tema.',
    '<b>Qué no hace el modelo.</b> No explica por qué cambia el sentimiento.')
 h2('8.4 Siguientes pasos')

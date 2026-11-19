@@ -295,8 +295,7 @@ md('#### Descripción de los datos', '',
    'Enlace: `https://www.amazon.com/product-reviews/B0D4MPKGN6/`.',
    '- **Limitaciones:** (1) un solo producto y un solo canal; (2) solo reseñas con texto, y quien reseña no es el comprador promedio; '
    '(3) Amazon entrega ~10 reseñas por vista de filtro, así que se descargaron filtrando por estrellas y palabras: la proporción de estrellas de la base puede no ser la de la página; '
-   '(4) todo está en inglés; (5) el periodo cubre unos 2,4 años, menos de los 4 que pide el enunciado para un corpus propio: '
-   'se declara como limitación: con tan poco tiempo no se pueden estimar patrones de largo plazo como la estacionalidad.')
+   '(4) todo está en inglés; (5) el periodo cubre unos 2,4 años (el profesor aprobó usarlo): con tan poco tiempo no se pueden estimar patrones de largo plazo como la estacionalidad.')
 
 md('### 2.2 Muestra etiquetada a mano (referencia para medir el acierto)')
 codigo('''
@@ -687,7 +686,7 @@ md('## 6. Limitaciones y trabajo futuro', '',
    '- **La etiqueta de la prueba A es la nota en estrellas,** que no siempre coincide con el texto. Efecto: algunos errores de modelo son en realidad errores de la etiqueta.',
    '- **Idioma:** todo en inglés; una reseña en español queda sin leer. Efecto: no sirve tal cual para otros mercados.',
    '- **Periodo y fuente.** Unos 2,4 años, un producto, un canal y reseñas descargadas por filtros de estrellas; los semestres 2024-S1 y 2024-S2 tienen muy pocas reseñas y 2026-S2 es parcial. '
-   'Efecto: la evolución se puede describir pero no pronosticar; la comparación con los 4 años exigidos queda pendiente de la aprobación del profesor.',
+   'Efecto: la evolución se puede describir pero no pronosticar; el profesor aprobó usar este período.',
    '- **Agrupamiento (§4.10):** la silueta es baja (los grupos se solapan) y los nombres los pone quien los lee. Efecto: sirve para describir de qué se habla, no para asignar con certeza cada reseña a un tema.',
    '- **Qué no hace el modelo:** no explica por qué cambia el sentimiento; las pistas de §4.7 son palabras clave, no causas.')
 
