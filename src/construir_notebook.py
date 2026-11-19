@@ -174,8 +174,8 @@ amarillos = [a for a in ac.alertas(mens, 0.05, 30) if a['mes'] not in {x['mes'] 
 # ----------------------------------------------------------------------------------------------
 md('# ¿Cuándo actuar? Sentimiento de las reseñas de Amazon de Serene Herbs Soursop Bitters',
    '### Propuesta de un modelo de analítica de negocios · Trabajo final', '',
-   '**Curso:** Analítica de Negocios (CO0371), Escuela de Administración, EAFIT  |  **Profesor:** ________  |  **Fecha:** ________', '',
-   '**Integrante:** Orlando Cardiles  |  **Código:** ________  |  **Correo:** ________', '',
+   '**Curso:** Analítica de Negocios (CO0371), Escuela de Administración, EAFIT  |  **Profesor:** Juan Pablo Pérez  |  **Fecha:** 18 de noviembre de 2026', '',
+   '**Integrante:** Orlando Cardiles  |  **Código:** 1000263455  |  **Correo:** ojcardiles@eafit.edu.co', '',
    'Este notebook se ejecuta **de principio a fin** (Entorno de ejecución → Ejecutar todo) con los datos del repositorio. '
    'Cada etapa tiene su celda de texto y la interpretación de cada resultado.')
 
@@ -203,12 +203,12 @@ md('## 2. Preparación del entorno y de los datos')
 codigo('''
 import os, sys, subprocess, importlib.util, warnings
 warnings.filterwarnings('ignore')
-REPO_URL = 'https://github.com/ocardiles03/resenas-nlp-trabajo-final'   # repositorio privado: en Colab guarda un token en Secretos con el nombre GITHUB_TOKEN
+REPO_URL = 'https://github.com/ocardiles03/resenas-nlp-trabajo-final'   # repositorio publico: se clona sin token
 if not os.path.exists('src/acierto_sentimiento.py'):
     if not REPO_URL:
         raise SystemExit('Falta REPO_URL: pega arriba la URL del repositorio.')
     url = REPO_URL
-    if 'google.colab' in sys.modules and url.startswith('https://') and '@' not in url:   # repositorio privado: token en los Secretos de Colab (clave GITHUB_TOKEN)
+    if 'google.colab' in sys.modules and url.startswith('https://') and '@' not in url:   # si el repositorio fuera privado: token en los Secretos de Colab (clave GITHUB_TOKEN)
         try:
             from google.colab import userdata
             url = url.replace('https://', 'https://' + userdata.get('GITHUB_TOKEN') + '@', 1)

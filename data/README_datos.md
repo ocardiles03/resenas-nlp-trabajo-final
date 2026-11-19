@@ -3,6 +3,8 @@
 > Esta hoja reúne solo datos verificables del repositorio. Donde dice **[COMPLETA TÚ]** falta información que solo el equipo sabe.
 > Ficha de procedencia obligatoria (enunciado): **nombre, enlace exacto, fecha de descarga, quién/cómo/cuándo recolectó**.
 
+> **Datos personales:** los archivos originales (`data/crudo_chrome_apify/`, `data/bundle_xlsx_historico/` y similares) conservan el nombre público del comprador tal como lo muestra Amazon y, en la descarga de Apify, el enlace a su perfil. La base preparada (`base_preparada_resenas.csv`) no incluye el nombre del comprador.
+
 ## 1. Ficha de procedencia
 
 | Campo de la ficha | Dato disponible en el repositorio | Falta |

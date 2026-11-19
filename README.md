@@ -3,7 +3,7 @@
 Trabajo final de Analítica de Negocios (Escuela de Administración, EAFIT). Propuesta de un modelo de analítica de negocios: leer el sentimiento de las reseñas de Amazon para decidir cuándo revisar el lote o al proveedor y a qué clientes responder.
 
 ## Cómo reproducirlo
-1. Abrir `Trabajo_Final_Resenas.ipynb` en Google Colab. Como el repositorio es privado, guardar un token de GitHub con permiso de lectura en **Secretos** de Colab con el nombre `GITHUB_TOKEN`.
+1. Abrir `Trabajo_Final_Resenas.ipynb` en Google Colab. El repositorio es público: no hace falta ningún token.
 2. Entorno de ejecución → **Ejecutar todo**. La primera celda clona este repositorio (variable `REPO_URL`) e instala lo que falta.
 
 ## Contenido

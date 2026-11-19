@@ -433,7 +433,7 @@ def construir_pdf(ruta):
         elif t == 'anexos':
             story += [Spacer(1, 10), Paragraph('10. Anexos', est['h1']),
                       Paragraph('<b>Anexo A. Enlaces.</b>', est['h2']),
-                      Paragraph(f'Repositorio de GitHub (privado; el profesor accede por invitación): {URL_REPO}', cuerpo),
+                      Paragraph(f'Repositorio de GitHub (público): {URL_REPO}', cuerpo),
                       Paragraph(f'Notebook en Google Colab: {URL_COLAB}', cuerpo),
                       Paragraph(f'Conversaciones con IA (Claude Code): {URL_CONV}', cuerpo),
                       Paragraph(f'Declaración de uso de la IA: {URL_USO}', cuerpo),
@@ -529,7 +529,7 @@ def construir_docx(ruta):
                 par = d.add_paragraph(); par.paragraph_format.left_indent = Inches(0.33); par.paragraph_format.first_line_indent = Inches(-0.33); inline(par, r_)
         elif t == 'anexos':
             d.add_heading('10. Anexos', 1); d.add_heading('Anexo A. Enlaces', 2)
-            inline(d.add_paragraph(), f'Repositorio de GitHub (privado; el profesor accede por invitación): {URL_REPO}')
+            inline(d.add_paragraph(), f'Repositorio de GitHub (público): {URL_REPO}')
             inline(d.add_paragraph(), f'Notebook en Google Colab: {URL_COLAB}')
             inline(d.add_paragraph(), f'Conversaciones con IA (Claude Code): {URL_CONV}')
             inline(d.add_paragraph(), f'Declaración de uso de la IA: {URL_USO}')

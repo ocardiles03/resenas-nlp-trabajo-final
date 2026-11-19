@@ -7,7 +7,7 @@
 **Qué hizo Orlando**
 - Definió la organización, el problema y la decisión, y dijo qué entregables hacían falta.
 - Etiquetó a mano las 100 reseñas de la muestra (la herramienta solo guarda lo que él elige; no etiqueta nada por su cuenta).
-- Revisó resultados y texto, corrigió el rumbo (por ejemplo, el orden del documento y el tono de la redacción) y tomó las decisiones de privacidad (el repositorio es privado).
+- Revisó resultados y texto, corrigió el rumbo (por ejemplo, el orden del documento y el tono de la redacción) y decidió publicar el repositorio con los datos tal como se descargaron.
 
 **Qué hizo Claude**
 - Escribió el código: preparación de la base, léxico, KNN, Naive Bayes, k-means, pruebas y el generador del notebook.
